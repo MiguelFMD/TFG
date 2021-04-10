@@ -1,0 +1,1539 @@
+﻿Log file open, 04/09/21 14:27:14
+LogInit: LLM is enabled
+LogInit: LLM CsvWriter: off TraceWriter: off
+LogInit: Display: Running engine for game: TFG_V1
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 35 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.212417
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +1:00, Platform Override: ''
+LogPluginManager: Mounting plugin MegascansPlugin
+LogPluginManager: Mounting plugin MeshPainting
+LogPluginManager: Mounting plugin XGEController
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin EnvironmentQueryEditor
+LogPluginManager: Mounting plugin CameraShakePreviewer
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin EditorScriptingUtilities
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin GeometryMode
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin PlasticSourceControl
+LogPluginManager: Mounting plugin PluginUtils
+LogPluginManager: Mounting plugin PropertyAccessNode
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin RiderSourceCodeAccess
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin LuminPlatformFeatures
+LogPluginManager: Mounting plugin MagicLeapLightEstimation
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin MagicLeapPassableWorld
+LogPluginManager: Mounting plugin Niagara
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin ChaosCloth
+LogPluginManager: Mounting plugin ChaosClothEditor
+LogPluginManager: Mounting plugin ChaosEditor
+LogPluginManager: Mounting plugin ChaosNiagara
+LogPluginManager: Mounting plugin ChaosSolverPlugin
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin GeometryCollectionPlugin
+LogPluginManager: Mounting plugin GeometryProcessing
+LogPluginManager: Mounting plugin MotoSynth
+LogPluginManager: Mounting plugin PlanarCut
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin PythonScriptPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin TemplateSequence
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin AudioSynesthesia
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ChunkDownloader
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ScreenshotTools
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin GooglePAD
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin PostSplashScreen
+LogPluginManager: Mounting plugin PropertyAccessEditor
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SoundFields
+LogPluginManager: Mounting plugin Synthesis
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ContentBrowserAssetDataSource
+LogPluginManager: Mounting plugin ContentBrowserClassDataSource
+LogPluginManager: Mounting plugin ContentBrowserFileDataSource
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin DatabaseSupport
+LogPluginManager: Mounting plugin SQLiteCore
+LogPluginManager: Mounting plugin SQLiteSupport
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin SteamVR
+LogXGEController: Cleaning working directory: C:/Users/xmigu/AppData/Local/Temp/UnrealXGEWorkingDir/
+LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogInit: Build: ++UE4+Release-4.26-CL-15228867
+LogInit: Engine Version: 4.26.1-15228867+++UE4+Release-4.26
+LogInit: Compatible Engine Version: 4.26.0-14830424+++UE4+Release-4.26
+LogInit: Net CL: 14830424
+LogInit: OS: Windows 10 (Release 2009) (), CPU: Intel(R) Core(TM) i7-10750H CPU @ 2.60GHz, GPU: Intel(R) UHD Graphics
+LogInit: Compiled (64-bit): Jan 28 2021 07:07:34
+LogInit: Compiled with Visual C++: 19.24.28315.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.26
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.26/Engine/Binaries/Win64/
+LogInit: Allocator: TBB
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 29
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 40
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 3
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 4
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 44
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 12
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 15
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 43
+LogDevObjectVersion:   FortniteRelease (E7086368-6B23-4C58-8439-1B7016265E91): 1
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 40
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogDevObjectVersion:   Dev-VirtualProduction (64F58936-FD1B-42BA-BA96-7289D5D0FA4E): 1
+LogDevObjectVersion:   Dev-MediaFramework (6F0ED827-A609-4895-9C91-998D90180EA4): 2
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/xmigu/Desktop/TFG/TFG/TFG_V1/Saved/Config/Windows/Engine.ini]
+LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2021.04.09-12.27.14:443][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2021.04.09-12.27.14:443][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2021.04.09-12.27.14:443][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/xmigu/Desktop/TFG/TFG/TFG_V1/Saved/Config/Windows/Engine.ini]
+[2021.04.09-12.27.14:443][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2021.04.09-12.27.14:443][  0]LogConfig: Setting CVar [[r.SkinCache.CompileShaders:1]]
+[2021.04.09-12.27.14:443][  0]LogConfig: Setting CVar [[r.RayTracing:1]]
+[2021.04.09-12.27.14:443][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/xmigu/Desktop/TFG/TFG/TFG_V1/Saved/Config/Windows/Engine.ini]
+[2021.04.09-12.27.14:443][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/xmigu/Desktop/TFG/TFG/TFG_V1/Saved/Config/Windows/Engine.ini]
+[2021.04.09-12.27.14:443][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2021.04.09-12.27.14:443][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2021.04.09-12.27.14:443][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2021.04.09-12.27.14:443][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2021.04.09-12.27.14:443][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2021.04.09-12.27.14:443][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2021.04.09-12.27.14:443][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2021.04.09-12.27.14:443][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2021.04.09-12.27.14:443][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2021.04.09-12.27.14:443][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2021.04.09-12.27.14:443][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2021.04.09-12.27.14:443][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2021.04.09-12.27.14:443][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2021.04.09-12.27.14:443][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2021.04.09-12.27.14:443][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/xmigu/Desktop/TFG/TFG/TFG_V1/Saved/Config/Windows/Engine.ini]
+[2021.04.09-12.27.14:444][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2021.04.09-12.27.14:444][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2021.04.09-12.27.14:444][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2021.04.09-12.27.14:444][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2021.04.09-12.27.14:444][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2021.04.09-12.27.14:444][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2021.04.09-12.27.14:444][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2021.04.09-12.27.14:444][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2021.04.09-12.27.14:444][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2021.04.09-12.27.14:444][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2021.04.09-12.27.14:444][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2021.04.09-12.27.14:444][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2021.04.09-12.27.14:444][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2021.04.09-12.27.14:444][  0]LogConfig: Setting CVar [[gc.MultithreadedDestructionEnabled:1]]
+[2021.04.09-12.27.14:444][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/xmigu/Desktop/TFG/TFG/TFG_V1/Saved/Config/Windows/Engine.ini]
+[2021.04.09-12.27.14:444][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/xmigu/Desktop/TFG/TFG/TFG_V1/Saved/Config/Windows/Engine.ini]
+[2021.04.09-12.27.14:455][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/xmigu/Desktop/TFG/TFG/TFG_V1/Saved/Config/Windows/Scalability.ini]
+[2021.04.09-12.27.14:455][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2021.04.09-12.27.14:455][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2021.04.09-12.27.14:455][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/xmigu/Desktop/TFG/TFG/TFG_V1/Saved/Config/Windows/Scalability.ini]
+[2021.04.09-12.27.14:456][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2021.04.09-12.27.14:456][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/xmigu/Desktop/TFG/TFG/TFG_V1/Saved/Config/Windows/Scalability.ini]
+[2021.04.09-12.27.14:456][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2021.04.09-12.27.14:456][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2021.04.09-12.27.14:456][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2021.04.09-12.27.14:456][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2021.04.09-12.27.14:456][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2021.04.09-12.27.14:456][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2021.04.09-12.27.14:456][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2021.04.09-12.27.14:456][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2021.04.09-12.27.14:456][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2021.04.09-12.27.14:456][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2021.04.09-12.27.14:456][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2021.04.09-12.27.14:456][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2021.04.09-12.27.14:456][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2021.04.09-12.27.14:456][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2021.04.09-12.27.14:456][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2021.04.09-12.27.14:456][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2021.04.09-12.27.14:456][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2021.04.09-12.27.14:456][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2021.04.09-12.27.14:456][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/xmigu/Desktop/TFG/TFG/TFG_V1/Saved/Config/Windows/Scalability.ini]
+[2021.04.09-12.27.14:456][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2021.04.09-12.27.14:456][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2021.04.09-12.27.14:456][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2021.04.09-12.27.14:456][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2021.04.09-12.27.14:456][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2021.04.09-12.27.14:456][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2021.04.09-12.27.14:456][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2021.04.09-12.27.14:456][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2021.04.09-12.27.14:456][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2021.04.09-12.27.14:456][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2021.04.09-12.27.14:456][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2021.04.09-12.27.14:456][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2021.04.09-12.27.14:456][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2021.04.09-12.27.14:456][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2021.04.09-12.27.14:456][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2021.04.09-12.27.14:456][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2021.04.09-12.27.14:456][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2021.04.09-12.27.14:456][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2021.04.09-12.27.14:456][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2021.04.09-12.27.14:456][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2021.04.09-12.27.14:456][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2021.04.09-12.27.14:456][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2021.04.09-12.27.14:456][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2021.04.09-12.27.14:456][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2021.04.09-12.27.14:456][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2021.04.09-12.27.14:456][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2021.04.09-12.27.14:456][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2021.04.09-12.27.14:456][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2021.04.09-12.27.14:456][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2021.04.09-12.27.14:456][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2021.04.09-12.27.14:456][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/xmigu/Desktop/TFG/TFG/TFG_V1/Saved/Config/Windows/Scalability.ini]
+[2021.04.09-12.27.14:456][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2021.04.09-12.27.14:456][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2021.04.09-12.27.14:456][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2021.04.09-12.27.14:456][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2021.04.09-12.27.14:456][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2021.04.09-12.27.14:456][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2021.04.09-12.27.14:456][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2021.04.09-12.27.14:456][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2021.04.09-12.27.14:456][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2021.04.09-12.27.14:456][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/xmigu/Desktop/TFG/TFG/TFG_V1/Saved/Config/Windows/Scalability.ini]
+[2021.04.09-12.27.14:456][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2021.04.09-12.27.14:456][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2021.04.09-12.27.14:456][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2021.04.09-12.27.14:456][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2021.04.09-12.27.14:456][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2021.04.09-12.27.14:456][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2021.04.09-12.27.14:456][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2021.04.09-12.27.14:456][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2021.04.09-12.27.14:456][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2021.04.09-12.27.14:456][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2021.04.09-12.27.14:456][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2021.04.09-12.27.14:456][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2021.04.09-12.27.14:456][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2021.04.09-12.27.14:456][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2021.04.09-12.27.14:456][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2021.04.09-12.27.14:456][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2021.04.09-12.27.14:456][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2021.04.09-12.27.14:456][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2021.04.09-12.27.14:456][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2021.04.09-12.27.14:456][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2021.04.09-12.27.14:456][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2021.04.09-12.27.14:456][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2021.04.09-12.27.14:456][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2021.04.09-12.27.14:456][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2021.04.09-12.27.14:456][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2021.04.09-12.27.14:456][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2021.04.09-12.27.14:456][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2021.04.09-12.27.14:456][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/xmigu/Desktop/TFG/TFG/TFG_V1/Saved/Config/Windows/Scalability.ini]
+[2021.04.09-12.27.14:456][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2021.04.09-12.27.14:456][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2021.04.09-12.27.14:456][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/xmigu/Desktop/TFG/TFG/TFG_V1/Saved/Config/Windows/Scalability.ini]
+[2021.04.09-12.27.14:456][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2021.04.09-12.27.14:456][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2021.04.09-12.27.14:456][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2021.04.09-12.27.14:456][  0]LogInit: Selected Device Profile: [Windows]
+[2021.04.09-12.27.14:456][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2021.04.09-12.27.14:456][  0]LogHAL: Display: Platform has ~ 16 GB [16954851328 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2021.04.09-12.27.14:456][  0]LogInit: Going up to parent DeviceProfile []
+[2021.04.09-12.27.14:457][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/xmigu/Desktop/TFG/TFG/TFG_V1/Saved/Config/Windows/Scalability.ini]
+[2021.04.09-12.27.14:457][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2021.04.09-12.27.14:457][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2021.04.09-12.27.14:457][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/xmigu/Desktop/TFG/TFG/TFG_V1/Saved/Config/Windows/Scalability.ini]
+[2021.04.09-12.27.14:457][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2021.04.09-12.27.14:457][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/xmigu/Desktop/TFG/TFG/TFG_V1/Saved/Config/Windows/Scalability.ini]
+[2021.04.09-12.27.14:457][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2021.04.09-12.27.14:457][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2021.04.09-12.27.14:457][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2021.04.09-12.27.14:457][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2021.04.09-12.27.14:457][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2021.04.09-12.27.14:457][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2021.04.09-12.27.14:457][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2021.04.09-12.27.14:457][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2021.04.09-12.27.14:457][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2021.04.09-12.27.14:457][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2021.04.09-12.27.14:457][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2021.04.09-12.27.14:457][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2021.04.09-12.27.14:457][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2021.04.09-12.27.14:457][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2021.04.09-12.27.14:457][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2021.04.09-12.27.14:457][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2021.04.09-12.27.14:457][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2021.04.09-12.27.14:457][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2021.04.09-12.27.14:457][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/xmigu/Desktop/TFG/TFG/TFG_V1/Saved/Config/Windows/Scalability.ini]
+[2021.04.09-12.27.14:457][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2021.04.09-12.27.14:457][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2021.04.09-12.27.14:457][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2021.04.09-12.27.14:457][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2021.04.09-12.27.14:457][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2021.04.09-12.27.14:457][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2021.04.09-12.27.14:457][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2021.04.09-12.27.14:457][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2021.04.09-12.27.14:457][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2021.04.09-12.27.14:457][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2021.04.09-12.27.14:457][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2021.04.09-12.27.14:457][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2021.04.09-12.27.14:457][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2021.04.09-12.27.14:457][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2021.04.09-12.27.14:457][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2021.04.09-12.27.14:457][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2021.04.09-12.27.14:457][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2021.04.09-12.27.14:457][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2021.04.09-12.27.14:457][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2021.04.09-12.27.14:457][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2021.04.09-12.27.14:457][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2021.04.09-12.27.14:457][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2021.04.09-12.27.14:457][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2021.04.09-12.27.14:457][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2021.04.09-12.27.14:457][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2021.04.09-12.27.14:457][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2021.04.09-12.27.14:457][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2021.04.09-12.27.14:457][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2021.04.09-12.27.14:457][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2021.04.09-12.27.14:457][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2021.04.09-12.27.14:457][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/xmigu/Desktop/TFG/TFG/TFG_V1/Saved/Config/Windows/Scalability.ini]
+[2021.04.09-12.27.14:457][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2021.04.09-12.27.14:457][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2021.04.09-12.27.14:457][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2021.04.09-12.27.14:457][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2021.04.09-12.27.14:457][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2021.04.09-12.27.14:457][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2021.04.09-12.27.14:457][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2021.04.09-12.27.14:457][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2021.04.09-12.27.14:457][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2021.04.09-12.27.14:457][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/xmigu/Desktop/TFG/TFG/TFG_V1/Saved/Config/Windows/Scalability.ini]
+[2021.04.09-12.27.14:457][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2021.04.09-12.27.14:457][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2021.04.09-12.27.14:457][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2021.04.09-12.27.14:457][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2021.04.09-12.27.14:457][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2021.04.09-12.27.14:457][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2021.04.09-12.27.14:457][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2021.04.09-12.27.14:457][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2021.04.09-12.27.14:457][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2021.04.09-12.27.14:457][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2021.04.09-12.27.14:457][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2021.04.09-12.27.14:457][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2021.04.09-12.27.14:457][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2021.04.09-12.27.14:457][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2021.04.09-12.27.14:457][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2021.04.09-12.27.14:457][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2021.04.09-12.27.14:457][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2021.04.09-12.27.14:457][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2021.04.09-12.27.14:457][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2021.04.09-12.27.14:457][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2021.04.09-12.27.14:457][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2021.04.09-12.27.14:457][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2021.04.09-12.27.14:457][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2021.04.09-12.27.14:457][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2021.04.09-12.27.14:457][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2021.04.09-12.27.14:457][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2021.04.09-12.27.14:457][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2021.04.09-12.27.14:457][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/xmigu/Desktop/TFG/TFG/TFG_V1/Saved/Config/Windows/Scalability.ini]
+[2021.04.09-12.27.14:457][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2021.04.09-12.27.14:457][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2021.04.09-12.27.14:457][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/xmigu/Desktop/TFG/TFG/TFG_V1/Saved/Config/Windows/Scalability.ini]
+[2021.04.09-12.27.14:457][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2021.04.09-12.27.14:457][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2021.04.09-12.27.14:457][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2021.04.09-12.27.14:457][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2021.04.09-12.27.14:458][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2021.04.09-12.27.14:458][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2021.04.09-12.27.14:458][  0]LogConfig: Setting CVar [[fx.SkipVectorVMBackendOptimizations:1]]
+[2021.04.09-12.27.14:458][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/xmigu/Desktop/TFG/TFG/TFG_V1/Saved/Config/Windows/Engine.ini]
+[2021.04.09-12.27.14:458][  0]LogInit: Computer: LAPTOP-PCEH5APF
+[2021.04.09-12.27.14:458][  0]LogInit: User: xmigu
+[2021.04.09-12.27.14:458][  0]LogInit: CPU Page size=4096, Cores=6
+[2021.04.09-12.27.14:458][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2021.04.09-12.27.14:458][  0]LogMemory: Memory total: Physical=15.8GB (16GB approx)
+[2021.04.09-12.27.14:458][  0]LogMemory: Platform Memory Stats for Windows
+[2021.04.09-12.27.14:458][  0]LogMemory: Process Physical Memory: 139.68 MB used, 139.69 MB peak
+[2021.04.09-12.27.14:458][  0]LogMemory: Process Virtual Memory: 113.25 MB used, 113.25 MB peak
+[2021.04.09-12.27.14:458][  0]LogMemory: Physical Memory: 7439.15 MB used,  8730.26 MB free, 16169.41 MB total
+[2021.04.09-12.27.14:458][  0]LogMemory: Virtual Memory: 134209704.00 MB used,  8024.28 MB free, 134217728.00 MB total
+[2021.04.09-12.27.14:483][  0]LogWindows: WindowsPlatformFeatures enabled
+[2021.04.09-12.27.14:515][  0]LogInit: Physics initialised using underlying interface: PhysX
+[2021.04.09-12.27.14:516][  0]LogInit: Overriding language with editor language configuration option (en).
+[2021.04.09-12.27.14:516][  0]LogInit: Using OS detected locale (es-ES).
+[2021.04.09-12.27.14:665][  0]LogInit: Setting process to per monitor DPI aware
+[2021.04.09-12.27.14:670][  0]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2021.04.09-12.27.14:697][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2021.04.09-12.27.14:697][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2021.04.09-12.27.14:939][  0]LogD3D12RHI: Aftermath initialized
+[2021.04.09-12.27.14:939][  0]LogD3D12RHI: Loading WinPixEventRuntime.dll for PIX profiling (from ../../../Engine/Binaries/ThirdParty/Windows/WinPixEventRuntime/x64).
+[2021.04.09-12.27.14:952][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2021.04.09-12.27.15:063][  0]LogD3D12RHI: Found D3D12 adapter 0: NVIDIA GeForce RTX 2060 (Max supported Feature Level 12_1)
+[2021.04.09-12.27.15:063][  0]LogD3D12RHI: Adapter has 5980MB of dedicated video memory, 0MB of dedicated system memory, and 8084MB of shared system memory, 2 output[s]
+[2021.04.09-12.27.15:084][  0]LogD3D12RHI: Found D3D12 adapter 1: Intel(R) UHD Graphics (Max supported Feature Level 12_1)
+[2021.04.09-12.27.15:084][  0]LogD3D12RHI: Adapter has 128MB of dedicated video memory, 0MB of dedicated system memory, and 8084MB of shared system memory, 0 output[s]
+[2021.04.09-12.27.15:092][  0]LogD3D12RHI: Found D3D12 adapter 2: Microsoft Basic Render Driver (Max supported Feature Level 12_1)
+[2021.04.09-12.27.15:092][  0]LogD3D12RHI: Adapter has 0MB of dedicated video memory, 0MB of dedicated system memory, and 8084MB of shared system memory, 0 output[s]
+[2021.04.09-12.27.15:092][  0]LogD3D12RHI: Forcing D3D12.AsyncDeferredDeletion=0 as a workaround for a deadlock.
+[2021.04.09-12.27.15:092][  0]LogD3D12RHI: Chosen D3D12 Adapter Id = 0
+[2021.04.09-12.27.15:097][  0]LogD3D12RHI: [DRED] Dred enabled
+[2021.04.09-12.27.15:097][  0]LogD3D12RHI: [DRED] Dred breadcrumb context enabled
+[2021.04.09-12.27.15:097][  0]LogD3D12RHI: InitD3DDevice: -D3DDebug = off -D3D12GPUValidation = off
+[2021.04.09-12.27.15:097][  0]LogD3D12RHI: Emitting draw events for PIX profiling.
+[2021.04.09-12.27.15:322][  0]LogD3D12RHI: The system supports ID3D12Device1.
+[2021.04.09-12.27.15:322][  0]LogD3D12RHI: The system supports ID3D12Device2.
+[2021.04.09-12.27.15:322][  0]LogD3D12RHI: The system supports ID3D12Device5.
+[2021.04.09-12.27.15:322][  0]LogD3D12RHI: The system supports ID3D12Device7.
+[2021.04.09-12.27.15:322][  0]LogD3D12RHI: D3D12 ray tracing 1.0 is supported.
+[2021.04.09-12.27.15:322][  0]LogD3D12RHI: D3D12 ray tracing 1.1 is supported.
+[2021.04.09-12.27.15:376][  0]LogD3D12RHI: [GPUBreadCrumb] Successfully setup breadcrumb resource for 3D Queue 0
+[2021.04.09-12.27.15:382][  0]LogD3D12RHI: [GPUBreadCrumb] Successfully setup breadcrumb resource for Copy Queue 0
+[2021.04.09-12.27.15:392][  0]LogD3D12RHI: [GPUBreadCrumb] Successfully setup breadcrumb resource for Compute Queue 0
+[2021.04.09-12.27.15:401][  0]LogD3D12RHI: Display: Not using pipeline state disk cache per r.D3D12.PSO.DiskCache=0
+[2021.04.09-12.27.15:401][  0]LogD3D12RHI: Display: Not using driver-optimized pipeline state disk cache per r.D3D12.PSO.DriverOptimizedDiskCache=0
+[2021.04.09-12.27.15:402][  0]LogD3D12RHI:     GPU DeviceId: 0x1f15 (for the marketing name, search the web for "GPU Device Id")
+[2021.04.09-12.27.15:402][  0]LogWindows: EnumDisplayDevices:
+[2021.04.09-12.27.15:402][  0]LogWindows:    0. 'Intel(R) UHD Graphics' (P:1 D:1)
+[2021.04.09-12.27.15:402][  0]LogWindows:    1. 'Intel(R) UHD Graphics' (P:0 D:0)
+[2021.04.09-12.27.15:402][  0]LogWindows:    2. 'Intel(R) UHD Graphics' (P:0 D:0)
+[2021.04.09-12.27.15:402][  0]LogWindows:    3. 'NVIDIA GeForce RTX 2060' (P:0 D:1)
+[2021.04.09-12.27.15:402][  0]LogWindows:    4. 'NVIDIA GeForce RTX 2060' (P:0 D:0)
+[2021.04.09-12.27.15:403][  0]LogWindows:    5. 'NVIDIA GeForce RTX 2060' (P:0 D:0)
+[2021.04.09-12.27.15:403][  0]LogWindows:    6. 'NVIDIA GeForce RTX 2060' (P:0 D:0)
+[2021.04.09-12.27.15:403][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:4 
+[2021.04.09-12.27.15:403][  0]LogD3D12RHI:     Adapter Name: NVIDIA GeForce RTX 2060
+[2021.04.09-12.27.15:403][  0]LogD3D12RHI:   Driver Version: 465.89 (internal:27.21.14.6589, unified:465.89)
+[2021.04.09-12.27.15:403][  0]LogD3D12RHI:      Driver Date: 3-25-2021
+[2021.04.09-12.27.15:403][  0]LogRHI: Texture pool is 3283 MB (70% of 4690 MB)
+[2021.04.09-12.27.15:403][  0]LogD3D12RHI: Async texture creation enabled
+[2021.04.09-12.27.15:403][  0]LogD3D12RHI: RHI has support for 64 bit atomics
+[2021.04.09-12.27.15:413][  0]LogRHI: GeForceNow SDK initialized: 1
+[2021.04.09-12.27.15:651][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2021.04.09-12.27.15:668][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2021.04.09-12.27.15:668][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2021.04.09-12.27.15:668][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2021.04.09-12.27.15:668][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2021.04.09-12.27.15:668][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2021.04.09-12.27.15:668][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2021.04.09-12.27.15:668][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2021.04.09-12.27.15:668][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2021.04.09-12.27.15:668][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2021.04.09-12.27.15:668][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2021.04.09-12.27.15:686][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2021.04.09-12.27.15:686][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2021.04.09-12.27.15:694][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2021.04.09-12.27.15:700][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2021.04.09-12.27.15:707][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2021.04.09-12.27.15:714][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2021.04.09-12.27.15:721][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2021.04.09-12.27.15:727][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2021.04.09-12.27.15:735][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2021.04.09-12.27.15:755][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2021.04.09-12.27.15:755][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2021.04.09-12.27.15:761][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacNoEditor'
+[2021.04.09-12.27.15:769][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Mac'
+[2021.04.09-12.27.15:775][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacClient'
+[2021.04.09-12.27.15:782][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacServer'
+[2021.04.09-12.27.15:793][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2021.04.09-12.27.15:794][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2021.04.09-12.27.15:800][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2021.04.09-12.27.15:807][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2021.04.09-12.27.15:813][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2021.04.09-12.27.15:820][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2021.04.09-12.27.15:820][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2021.04.09-12.27.15:826][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2021.04.09-12.27.15:873][  0]LogRendererCore: Ray tracing is enabled for the editor. Reason: r.RayTracing=1.
+[2021.04.09-12.27.15:873][  0]LogShaderCompilers: Guid format shader working directory is -6 characters bigger than the processId version (../../../../../../Users/xmigu/Desktop/TFG/TFG/TFG_V1/Intermediate/Shaders/WorkingDirectory/9844/).
+[2021.04.09-12.27.15:874][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/xmigu/AppData/Local/Temp/UnrealShaderWorkingDir/53C1E1FF47A49DC6F7F99699BAB4C896/'.
+[2021.04.09-12.27.15:874][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2021.04.09-12.27.15:874][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2021.04.09-12.27.16:868][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2021.04.09-12.27.16:919][  0]LogDerivedDataCache: Loaded boot cache 0.05s 89MB C:/Users/xmigu/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc.
+[2021.04.09-12.27.16:919][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/xmigu/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc
+[2021.04.09-12.27.16:919][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/xmigu/Desktop/TFG/TFG/TFG_V1/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2021.04.09-12.27.16:919][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2021.04.09-12.27.16:919][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/xmigu/Desktop/TFG/TFG/TFG_V1/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2021.04.09-12.27.16:919][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2021.04.09-12.27.16:930][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2021.04.09-12.27.16:930][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2021.04.09-12.27.16:930][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2021.04.09-12.27.16:938][  0]LogDerivedDataCache: Speed tests for C:/Users/xmigu/AppData/Local/UnrealEngine/Common/DerivedDataCache took 0.01 seconds
+[2021.04.09-12.27.16:938][  0]LogDerivedDataCache: Display: Performance to C:/Users/xmigu/AppData/Local/UnrealEngine/Common/DerivedDataCache: Latency=0.03ms. RandomReadSpeed=290.36MBs, RandomWriteSpeed=186.75MBs. Assigned SpeedClass 'Local'
+[2021.04.09-12.27.16:939][  0]LogDerivedDataCache: Using Local data cache path C:/Users/xmigu/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2021.04.09-12.27.16:939][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2021.04.09-12.27.16:939][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2021.04.09-12.27.16:986][  0]LogSlate: Using FreeType 2.10.0
+[2021.04.09-12.27.16:987][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2021.04.09-12.27.17:008][  0]LogAssetRegistry: FAssetRegistry took 0.0019 seconds to start up
+[2021.04.09-12.27.17:222][  0]LogInit: Selected Device Profile: [Windows]
+[2021.04.09-12.27.17:222][  0]LogInit: Active device profile: [000001B5357E2200][000001B53565EF80 49] Windows
+[2021.04.09-12.27.17:222][  0]LogInit: Profiles: [000001B5357E2200][000001B53565EF80 49] Windows, [000001B536772100][000001B535667100 49] WindowsNoEditor, [000001B5357E3200][000001B53566B280 49] WindowsServer, [000001B536771800][000001B53566F400 49] WindowsClient, [000001B5357E1D00][000001B535693580 49] IOS, [000001B536772300][000001B535697700 49] iPadAir, [000001B5357E0200][000001B53569B880 49] iPadAir2, [000001B53670DF00][000001B5356A3B40 49] IPadPro, [000001B53670E000][000001B53569FB80 49] iPadAir3, [000001B536770B00][000001B5356A7D00 49] iPadAir4, [000001B53670F800][000001B5356AA1C0 49] iPadMini2, [000001B536770700][000001B535662300 49] iPadMini3, [000001B53670D500][000001B5356AE440 49] iPadMini4, [000001B536771100][000001B5356B2580 49] iPadMini5, [000001B536729600][000001B5356BE840 49] iPhone6, [000001B536729700][000001B5356BA880 49] iPodTouch6, [000001B53670CD00][000001B5356C6B40 49] iPhone7, [000001B53670E700][000001B5356C2B80 49] iPodTouch7, [000001B53672AE00][000001B5356CAD00 49] iPhone5S, [000001B53670F000][000001B5356CEE80 49] iPhone6Plus, [000001B53672BE00][000001B5356D3000 49] iPhone6S, [000001B53670C300][000001B5356D7180 49] iPhone6SPlus, [000001B536728700][000001B5356DB300 49] iPhone7Plus, [000001B53670ED00][000001B5356DF480 49] iPhoneSE, [000001B53672A900][000001B5356E3600 49] iPhone8, [000001B53670C500][000001B5356E7780 49] iPhone8Plus, [000001B536729500][000001B535727900 49] iPhoneX, [000001B53670CB00][000001B53572BA80 49] iPhoneXS, [000001B53672A300][000001B53572FC00 49] iPhoneXSMax, [000001B53670D900][000001B5357320C0 49] iPhoneXR, [000001B536728B00][000001B535736240 49] iPhone11, [000001B53670F200][000001B5356B6380 49] iPhone11Pro, [000001B53672BA00][000001B53573A4C0 49] iPhone11ProMax, [000001B53670F700][000001B53573E600 49] iPhoneSE2, [000001B536728A00][000001B535746780 49] iPhone12Mini, [000001B53670CC00][000001B53574A900 49] iPhone12, [000001B53672AC00][000001B53574EA80 49] iPhone12Pro, [000001B5357E0D00][000001B535752C00 49] iPhone12ProMax, [000001B536729900][000001B535756D80 49] iPadPro105, [000001B5357E1700][000001B53575AF00 49] iPadPro129, [000001B53672B500][000001B53575F080 49] iPadPro97, [000001B5357E0600][000001B535763200 49] iPadPro2_129, [000001B53672B600][000001B535767380 49] iPad5, [000001B5357E1100][000001B53576B500 49] iPad6, [000001B536729300][000001B53576F680 49] iPad7, [000001B5357E0C00][000001B535773800 49] iPad8, [000001B536728800][000001B535777980 49] iPadPro11, [000001B5357E1E00][000001B53577BB00 49] iPadPro2_11, [000001B536729100][000001B536791C80 49] iPadPro3_129, [000001B5357E2C00][000001B536794140 49] iPadPro4_129, [000001B536728D00][000001B5367982C0 49] AppleTV, [000001B5357E3100][000001B535742400 49] AppleTV4K, [000001B536728C00][000001B53679C540 49] TVOS, [000001B5357E1200][000001B5367A0680 49] Mac, [000001B53672B700][000001B5367A47C0 49] MacClient, [000001B5357E0900][000001B5367AC940 49] MacNoEditor, [000001B53672A100][000001B5367B0AC0 49] MacServer, [000001B5357E2E00][000001B5367B4C40 49] Linux, [000001B53672B800][000001B5367B8DC0 49] LinuxNoEditor, [000001B5357E0E00][000001B5367BCF40 49] LinuxAArch64NoEditor, [000001B53672BF00][000001B5367C10C0 49] LinuxClient, [000001B5357E1400][000001B5367C5240 49] LinuxAArch64Client, [000001B536728500][000001B5367C93C0 49] LinuxServer, [000001B5357E2500][000001B5367CD540 49] LinuxAArch64Server, [000001B53672B000][000001B5367D16C0 49] Android, [000001B5357E1500][000001B5367D5840 49] Android_Low, [000001B53672BC00][000001B5367D99C0 49] Android_Mid, [000001B5357E2D00][000001B5367DDB40 49] Android_High, [000001B53672A500][000001B5367E1CC0 49] Android_Default, [000001B5357E1000][000001B5367E4180 49] Android_Adreno4xx, [000001B53672A700][000001B5367E8300 49] Android_Adreno5xx_Low, [000001B5357E1A00][000001B5367A8440 49] Android_Adreno5xx, [000001B53672A800][000001B5367EC580 49] Android_Adreno6xx, [000001B5357E0800][000001B5367F06C0 49] Android_Adreno6xx_Vulkan, [000001B53672A200][000001B5367F4800 49] Android_Mali_T6xx, [000001B5357E0F00][000001B5367FC980 49] Android_Mali_T7xx, [000001B536728200][000001B536800B00 49] Android_Mali_T8xx, [000001B5357E1900][000001B536804C80 49] Android_Mali_G71, [000001B536772200][000001B536808E00 49] Android_Mali_G72, [000001B53670FD00][000001B53680CF80 49] Android_Mali_G72_Vulkan, [000001B536771A00][000001B536811100 49] Android_Mali_G76, [000001B53670EA00][000001B536815280 49] Android_Mali_G76_Vulkan, [000001B536770A00][000001B536819400 49] Android_Mali_G77, [000001B53670DE00][000001B53681D580 49] Android_Mali_G77_Vulkan, [000001B536773100][000001B536821700 49] Android_Vulkan_SM5, [000001B53670CF00][000001B536825880 49] Android_PowerVR_G6xxx, [000001B536771700][000001B536829A00 49] Android_PowerVR_GT7xxx, [000001B53670E600][000001B53682DB80 49] Android_PowerVR_GE8xxx, [000001B536773C00][000001B536831D00 49] Android_PowerVR_GM9xxx, [000001B53670DB00][000001B5368341C0 49] Android_PowerVR_GM9xxx_Vulkan, [000001B536771600][000001B536838340 49] Android_TegraK1, [000001B53670C200][000001B53683C4C0 49] Android_Unknown_Vulkan, [000001B536770F00][000001B5367F8600 49] Lumin, [000001B53670C400][000001B536840740 49] Lumin_Desktop, [000001B536772900][000001B536844880 49] HoloLens, 
+[2021.04.09-12.27.17:337][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2021.04.09-12.27.17:337][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2021.04.09-12.27.17:337][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2021.04.09-12.27.17:337][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2021.04.09-12.27.17:337][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2021.04.09-12.27.17:501][  0]LogNetVersion: TFG_V1 1.0.0, NetCL: 14830424, EngineNetVer: 16, GameNetVer: 0 (Checksum: 2213075434)
+[2021.04.09-12.27.17:958][  0]LogHMD: PokeAHoleMaterial loaded successfully
+[2021.04.09-12.27.18:004][  0]LogPackageLocalizationCache: Processed 24 localized package path(s) for 1 prioritized culture(s) in 0.045631 seconds
+[2021.04.09-12.27.18:009][  0]LogUObjectArray: 16830 objects as part of root set at end of initial load.
+[2021.04.09-12.27.18:009][  0]LogUObjectAllocator: 4209472 out of 0 bytes used by permanent object pool.
+[2021.04.09-12.27.18:009][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2021.04.09-12.27.18:119][  0]LogD3D12RHI: Creating RTPSO with 3 shaders (0 cached, 3 new) took 12.77 ms. Compile time 1.40 ms, link time 11.36 ms.
+[2021.04.09-12.27.18:353][  0]LogPython: Using Python 3.7.7
+[2021.04.09-12.27.19:084][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2021.04.09-12.27.19:089][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2021.04.09-12.27.19:150][  0]LogLinker: Warning: Failed to load '/Game/FirstPersonBP/FirstPersonOverview': Can't find file.
+[2021.04.09-12.27.19:151][  0]LogLinker: Warning: Failed to load '/Game/FirstPersonBP/FirstPersonOverview': Can't find file.
+[2021.04.09-12.27.19:151][  0]LogUObjectGlobals: Warning: Failed to find object 'Class /Game/FirstPersonBP/FirstPersonOverview.FirstPersonOverview_C'
+[2021.04.09-12.27.19:255][  0]SourceControl: Source control is disabled
+[2021.04.09-12.27.19:255][  0]SourceControl: Source control is disabled
+[2021.04.09-12.27.19:258][  0]SourceControl: Source control is disabled
+[2021.04.09-12.27.19:261][  0]SourceControl: Source control is disabled
+[2021.04.09-12.27.19:263][  0]SourceControl: Source control is disabled
+[2021.04.09-12.27.19:271][  0]LogUProjectInfo: Found projects:
+[2021.04.09-12.27.19:449][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2021.04.09-12.27.19:476][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2021.04.09-12.27.19:476][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2021.04.09-12.27.19:547][  0]LogCollectionManager: Loaded 0 collections in 0.001148 seconds
+[2021.04.09-12.27.19:571][  0]LogFileCache: Scanning file cache for directory 'C:/Users/xmigu/Desktop/TFG/TFG/TFG_V1/Saved/Collections/' took 0.00s
+[2021.04.09-12.27.19:571][  0]LogFileCache: Scanning file cache for directory 'C:/Users/xmigu/Desktop/TFG/TFG/TFG_V1/Content/Developers/xmigu/Collections/' took 0.00s
+[2021.04.09-12.27.19:571][  0]LogFileCache: Scanning file cache for directory 'C:/Users/xmigu/Desktop/TFG/TFG/TFG_V1/Content/Collections/' took 0.00s
+[2021.04.09-12.27.19:571][  0]LogOcInput: OculusInput pre-init called
+[2021.04.09-12.27.19:583][  0]LogWindows: Failed to load 'OVRPlugin.dll' (GetLastError=126)
+[2021.04.09-12.27.19:583][  0]LogWindows: File 'OVRPlugin.dll' does not exist
+[2021.04.09-12.27.19:855][  0]LogEngine: Initializing Engine...
+[2021.04.09-12.27.19:856][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2021.04.09-12.27.19:856][  0]LogMagicLeap: Warning: VR disabled because ZI is not enabled.  To enable, in the editor, Edit -> Project Settings -> Plugins -> Magic Leap Plugin -> Enable Zero Iteration
+[2021.04.09-12.27.19:857][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2021.04.09-12.27.19:959][  0]LogInit: Initializing FReadOnlyCVARCache
+[2021.04.09-12.27.19:967][  0]LogAIModule: Creating AISystem for world Untitled
+[2021.04.09-12.27.19:968][  0]LogAudio: Display: Initializing Audio Device Manager...
+[2021.04.09-12.27.19:971][  0]LogAudio: Display: Audio Device Manager Initialized
+[2021.04.09-12.27.19:971][  0]LogAudio: Display: Creating Audio Device:                 Id: 1, Scope: Shared, Realtime: True
+[2021.04.09-12.27.19:971][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.04.09-12.27.19:971][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.04.09-12.27.19:971][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.04.09-12.27.19:971][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.04.09-12.27.19:971][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.04.09-12.27.19:971][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.04.09-12.27.19:971][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.04.09-12.27.19:971][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.04.09-12.27.19:971][  0]LogAudio: Display: Using built-in audio occlusion.
+[2021.04.09-12.27.19:971][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2021.04.09-12.27.20:195][  0]LogAudioMixer: Display: 0: FrontLeft
+[2021.04.09-12.27.20:195][  0]LogAudioMixer: Display: 1: FrontRight
+[2021.04.09-12.27.20:282][  0]LogAudioMixer: Display: Using Audio Device VS278 (NVIDIA High Definition Audio)
+[2021.04.09-12.27.20:284][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.04.09-12.27.20:290][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.04.09-12.27.20:290][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.04.09-12.27.20:290][  0]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.04.09-12.27.20:290][  0]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.04.09-12.27.20:290][  0]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.04.09-12.27.20:291][  0]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.04.09-12.27.20:291][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.04.09-12.27.20:291][  0]LogInit: FAudioDevice initialized.
+[2021.04.09-12.27.20:292][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2021.04.09-12.27.20:292][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2021.04.09-12.27.20:361][  0]LogDerivedDataCache: Saved boot cache 0.07s 89MB C:/Users/xmigu/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc.
+[2021.04.09-12.27.20:361][  0]LogInit: Texture streaming: Enabled
+[2021.04.09-12.27.20:371][  0]LogAnalytics: Display: [UEEditor.Rocket.Release] APIServer = https://datarouter.ol.epicgames.com/. AppVersion = 4.26.1-15228867+++UE4+Release-4.26
+[2021.04.09-12.27.20:375][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2021.04.09-12.27.20:376][  0]LogEngineSessionManager: EngineSessionManager sent abnormal shutdown report. Type=Crashed, SessionId={1CA2538B-41DF-60CA-13D8-62A114BD49BA}
+[2021.04.09-12.27.20:376][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2021.04.09-12.27.20:378][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2021.04.09-12.27.20:403][  0]LogInit: Transaction tracking system initialized
+[2021.04.09-12.27.20:420][  0]BlueprintLog: New page: Editor Load
+[2021.04.09-12.27.20:483][  0]LocalizationService: Localization service is disabled
+[2021.04.09-12.27.20:503][  0]TimingProfiler: Initialize
+[2021.04.09-12.27.20:503][  0]TimingProfiler: OnSessionChanged
+[2021.04.09-12.27.20:503][  0]LoadingProfiler: Initialize
+[2021.04.09-12.27.20:503][  0]LoadingProfiler: OnSessionChanged
+[2021.04.09-12.27.20:503][  0]NetworkingProfiler: Initialize
+[2021.04.09-12.27.20:503][  0]NetworkingProfiler: OnSessionChanged
+[2021.04.09-12.27.20:503][  0]MemoryProfiler: Initialize
+[2021.04.09-12.27.20:503][  0]MemoryProfiler: OnSessionChanged
+[2021.04.09-12.27.20:647][  0]LogCook: Display: CookSettings for Memory: MemoryMaxUsedVirtual 0MiB, MemoryMaxUsedPhysical 16384MiB, MemoryMinFreeVirtual 0MiB, MemoryMinFreePhysical 1024MiB
+[2021.04.09-12.27.20:647][  0]LogCook: Display: Mobile HDR setting 1
+[2021.04.09-12.27.20:803][  0]LogFileCache: Scanning file cache for directory 'C:/Users/xmigu/Desktop/TFG/TFG/TFG_V1/Content/' took 0.01s
+[2021.04.09-12.27.20:957][  0]LogInit: Display: Engine is initialized. Leaving FEngineLoop::Init()
+[2021.04.09-12.27.20:960][  0]SourceControl: Source control is disabled
+[2021.04.09-12.27.21:085][  0]LogSlate: Took 0.000114 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2021.04.09-12.27.24:935][  0]LogSlate: Window 'Restore Packages' being destroyed
+[2021.04.09-12.27.24:938][  0]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2021.04.09-12.27.24:965][  0]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2021.04.09-12.27.26:495][  0]LogSlate: Window 'Unable to Check Out From Source Control!' being destroyed
+[2021.04.09-12.27.26:496][  0]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2021.04.09-12.27.26:502][  0]Message dialog closed, result: Ok, title: Unable to Check Out From Source Control!, text: The following assets could not be successfully checked out from source control:
+/Game/TFG/Miguel/IA/IA_Loco/IA_Loco
+[2021.04.09-12.27.26:513][  0]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2021.04.09-12.27.26:514][  0]LogUnrealEdMisc: Loading editor; pre map load, took 12.959
+[2021.04.09-12.27.26:515][  0]Cmd: MAP LOAD FILE="../../../../../../Users/xmigu/Desktop/TFG/TFG/TFG_V1/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.04.09-12.27.26:515][  0]LogEditorServer: Warning: Can't find file '../../../../../../Users/xmigu/Desktop/TFG/TFG/TFG_V1/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
+[2021.04.09-12.27.26:515][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.04.09-12.27.26:515][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,187ms to complete.
+[2021.04.09-12.27.26:515][  0]LogFileHelpers: Loading map 'FirstPersonExampleMap' took 0.001
+[2021.04.09-12.27.26:517][  0]LogUnrealEdMisc: Total Editor Startup Time, took 12.963
+[2021.04.09-12.27.26:582][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.09-12.27.26:588][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.09-12.27.26:593][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.09-12.27.26:600][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.09-12.27.26:639][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0080 seconds. Added 3628 classes and 872 folders.
+[2021.04.09-12.27.26:641][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2021.04.09-12.27.26:643][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2021.04.09-12.27.26:643][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.04.09-12.27.26:643][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.04.09-12.27.26:644][  0]LogPakFile: OnPakFileMounted2Time == 0.000009
+[2021.04.09-12.27.26:644][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2021.04.09-12.27.26:644][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.04.09-12.27.26:644][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2021.04.09-12.27.26:644][  0]LogPakFile: OnPakFileMounted2Time == 0.000011
+[2021.04.09-12.27.26:645][  0]LogPakFile: PakFile PrimaryIndexSize=191
+[2021.04.09-12.27.26:645][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.04.09-12.27.26:645][  0]LogPakFile: PakFile FullDirectoryIndexSize=160
+[2021.04.09-12.27.26:645][  0]LogPakFile: OnPakFileMounted2Time == 0.000012
+[2021.04.09-12.27.26:646][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.04.09-12.27.26:646][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.04.09-12.27.26:646][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.04.09-12.27.26:646][  0]LogPakFile: OnPakFileMounted2Time == 0.000013
+[2021.04.09-12.27.26:646][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2021.04.09-12.27.26:646][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.04.09-12.27.26:646][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2021.04.09-12.27.26:646][  0]LogPakFile: OnPakFileMounted2Time == 0.000015
+[2021.04.09-12.27.26:647][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2021.04.09-12.27.26:647][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.04.09-12.27.26:647][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2021.04.09-12.27.26:647][  0]LogPakFile: OnPakFileMounted2Time == 0.000016
+[2021.04.09-12.27.26:647][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2021.04.09-12.27.26:648][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.04.09-12.27.26:648][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2021.04.09-12.27.26:648][  0]LogPakFile: OnPakFileMounted2Time == 0.000017
+[2021.04.09-12.27.26:648][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2021.04.09-12.27.26:648][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.04.09-12.27.26:648][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2021.04.09-12.27.26:648][  0]LogPakFile: OnPakFileMounted2Time == 0.000018
+[2021.04.09-12.27.26:649][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2021.04.09-12.27.26:649][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.04.09-12.27.26:649][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2021.04.09-12.27.26:649][  0]LogPakFile: OnPakFileMounted2Time == 0.000019
+[2021.04.09-12.27.26:650][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2021.04.09-12.27.26:650][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.04.09-12.27.26:650][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2021.04.09-12.27.26:650][  0]LogPakFile: OnPakFileMounted2Time == 0.000026
+[2021.04.09-12.27.26:651][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2021.04.09-12.27.26:651][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.04.09-12.27.26:651][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2021.04.09-12.27.26:651][  0]LogPakFile: OnPakFileMounted2Time == 0.000028
+[2021.04.09-12.27.26:651][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2021.04.09-12.27.26:651][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.04.09-12.27.26:651][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2021.04.09-12.27.26:651][  0]LogPakFile: OnPakFileMounted2Time == 0.000029
+[2021.04.09-12.27.26:652][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.04.09-12.27.26:652][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.04.09-12.27.26:652][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.04.09-12.27.26:652][  0]LogPakFile: OnPakFileMounted2Time == 0.000030
+[2021.04.09-12.27.26:652][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2021.04.09-12.27.26:652][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.04.09-12.27.26:652][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2021.04.09-12.27.26:653][  0]LogPakFile: OnPakFileMounted2Time == 0.000033
+[2021.04.09-12.27.26:653][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2021.04.09-12.27.26:653][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.04.09-12.27.26:653][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2021.04.09-12.27.26:653][  0]LogPakFile: OnPakFileMounted2Time == 0.000034
+[2021.04.09-12.27.26:654][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2021.04.09-12.27.26:654][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.04.09-12.27.26:654][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.04.09-12.27.26:654][  0]LogPakFile: OnPakFileMounted2Time == 0.000035
+[2021.04.09-12.27.26:655][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2021.04.09-12.27.26:655][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.04.09-12.27.26:655][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2021.04.09-12.27.26:655][  0]LogPakFile: OnPakFileMounted2Time == 0.000036
+[2021.04.09-12.27.26:655][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2021.04.09-12.27.26:655][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.04.09-12.27.26:655][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2021.04.09-12.27.26:655][  0]LogPakFile: OnPakFileMounted2Time == 0.000037
+[2021.04.09-12.27.26:656][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.04.09-12.27.26:656][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.04.09-12.27.26:656][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.04.09-12.27.26:656][  0]LogPakFile: OnPakFileMounted2Time == 0.000040
+[2021.04.09-12.27.26:657][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.04.09-12.27.26:657][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.04.09-12.27.26:657][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.04.09-12.27.26:657][  0]LogPakFile: OnPakFileMounted2Time == 0.000042
+[2021.04.09-12.27.26:657][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2021.04.09-12.27.26:657][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.04.09-12.27.26:657][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.04.09-12.27.26:657][  0]LogPakFile: OnPakFileMounted2Time == 0.000043
+[2021.04.09-12.27.26:658][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2021.04.09-12.27.26:658][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.04.09-12.27.26:658][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2021.04.09-12.27.26:658][  0]LogPakFile: OnPakFileMounted2Time == 0.000044
+[2021.04.09-12.27.26:659][  0]LogPakFile: PakFile PrimaryIndexSize=186
+[2021.04.09-12.27.26:659][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.04.09-12.27.26:659][  0]LogPakFile: PakFile FullDirectoryIndexSize=146
+[2021.04.09-12.27.26:659][  0]LogPakFile: OnPakFileMounted2Time == 0.000045
+[2021.04.09-12.27.26:660][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2021.04.09-12.27.26:660][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.04.09-12.27.26:660][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2021.04.09-12.27.26:660][  0]LogPakFile: OnPakFileMounted2Time == 0.000046
+[2021.04.09-12.27.26:661][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.04.09-12.27.26:661][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.04.09-12.27.26:661][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.04.09-12.27.26:661][  0]LogPakFile: OnPakFileMounted2Time == 0.000047
+[2021.04.09-12.27.26:662][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2021.04.09-12.27.26:662][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.04.09-12.27.26:662][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2021.04.09-12.27.26:662][  0]LogPakFile: OnPakFileMounted2Time == 0.000049
+[2021.04.09-12.27.26:710][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2021.04.09-12.27.26:711][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'SceneOutliner' in 0.0002 seconds. Added 2 classes and 0 folders.
+[2021.04.09-12.27.26:794][  0]LogSlate: Took 0.000134 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2021.04.09-12.27.26:798][  0]LogSlate: Took 0.000388 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2021.04.09-12.27.26:871][  0]LogRenderer: Reallocating scene render targets to support 992x428 Format 10 NumSamples 1 (Frame:1).
+[2021.04.09-12.27.27:098][  0]LogD3D12RHI: Creating RTPSO with 126 shaders (0 cached, 126 new) took 205.76 ms. Compile time 192.97 ms, link time 12.63 ms.
+[2021.04.09-12.27.27:131][  0]LogD3D12RHI: Creating RT View Heap with 250000 entries
+[2021.04.09-12.27.27:143][  0]LogD3D12RHI: Creating RT Sampler Heap with 2048 entries
+[2021.04.09-12.27.28:425][  0]LogD3D12RHI: Creating RTPSO with 10 shaders (0 cached, 10 new) took 1281.00 ms. Compile time 17.56 ms, link time 1263.41 ms.
+[2021.04.09-12.27.28:425][  0]LogD3D12RHI: Creating RT View Heap with 250000 entries
+[2021.04.09-12.27.28:439][  0]LogD3D12RHI: Creating RT Sampler Heap with 2048 entries
+[2021.04.09-12.27.28:496][  0]LogD3D12RHI: Creating RTPSO with 3 shaders (2 cached, 1 new) took 56.31 ms. Compile time 0.51 ms, link time 55.78 ms.
+[2021.04.09-12.27.28:496][  0]LogD3D12RHI: Creating RT View Heap with 250000 entries
+[2021.04.09-12.27.28:510][  0]LogD3D12RHI: Creating RT Sampler Heap with 2048 entries
+[2021.04.09-12.27.28:653][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2021.04.09-12.27.28:653][  0]LogLoad: (Engine Initialization) Total time: 15.10 seconds
+[2021.04.09-12.27.28:653][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2021.04.09-12.27.28:653][  0]LogInit: First time updating LLM stats...
+[2021.04.09-12.27.28:700][  0]LogAssetRegistry: Asset discovery search completed in 11.6926 seconds
+[2021.04.09-12.27.28:701][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000003 seconds (updated 0 objects)
+[2021.04.09-12.27.28:724][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2021.04.09-12.27.28:793][  4]LogSlate: Took 0.000329 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2021.04.09-12.27.29:691][ 58]LogSlate: Took 0.000121 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2021.04.09-12.27.32:363][203]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/TFG/Miguel/IA/IA_Loco/IA_Loco.IA_Loco
+[2021.04.09-12.27.32:547][203]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'BlueprintGraph' in 0.0006 seconds. Added 126 classes and 0 folders.
+[2021.04.09-12.27.33:342][203]LogAssetEditorSubsystem: Opening Asset editor for DataTable /Game/TFG/Miguel/Dialogs/Dialogs_-_Frases_al_aire.Dialogs_-_Frases_al_aire
+[2021.04.09-12.27.33:736][208]LogD3D12RHI: Creating RT View Heap with 250000 entries
+[2021.04.09-12.27.33:742][208]LogD3D12RHI: Creating RT Sampler Heap with 2048 entries
+[2021.04.09-12.27.33:742][208]LogD3D12RHI: Creating RT View Heap with 250000 entries
+[2021.04.09-12.27.33:754][208]LogD3D12RHI: Creating RT Sampler Heap with 2048 entries
+[2021.04.09-12.27.33:756][208]LogD3D12RHI: Creating RT View Heap with 250000 entries
+[2021.04.09-12.27.33:766][208]LogD3D12RHI: Creating RT Sampler Heap with 2048 entries
+[2021.04.09-12.27.36:321][357]LogSlate: Took 0.000404 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2021.04.09-12.27.36:477][358]LogSlate: Took 0.000245 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2021.04.09-12.28.53:113][896]BlueprintLog: New page: Compile IA_Loco
+[2021.04.09-12.28.53:210][896]LogUObjectHash: Compacting FUObjectHashTables data took   3.37ms
+[2021.04.09-12.28.53:343][896]LogSlate: Took 0.000089 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2021.04.09-12.28.53:621][908]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TFG/Miguel/IA/IA_Loco/IA_Loco" FILE="../../../../../../Users/xmigu/Desktop/TFG/TFG/TFG_V1/Content/TFG/Miguel/IA/IA_Loco/IA_Loco.uasset" SILENT=true
+[2021.04.09-12.28.53:668][908]LogSavePackage: Moving '../../../../../../Users/xmigu/Desktop/TFG/TFG/TFG_V1/Saved/IA_LocoCB283E3149BE96670D4E33A5853F42DB.tmp' to '../../../../../../Users/xmigu/Desktop/TFG/TFG/TFG_V1/Content/TFG/Miguel/IA/IA_Loco/IA_Loco.uasset'
+[2021.04.09-12.28.53:683][908]AssetCheck: New page: Asset Save: IA_Loco
+[2021.04.09-12.28.53:683][908]LogContentValidation: Display: Validating Blueprint /Game/TFG/Miguel/IA/IA_Loco/IA_Loco.IA_Loco
+[2021.04.09-12.29.00:789][329]LogSlate: Took 0.000468 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2021.04.09-12.29.12:256][961]LogDialogs: Warning: Suppressed: This could break connections, do you want to search all Variable 'DialogosObjeto' instances, change its type, and recompile?
+[2021.04.09-12.29.31:864][ 94]BlueprintLog: New page: Compile IA_Loco
+[2021.04.09-12.29.31:916][ 94]LogUObjectHash: Compacting FUObjectHashTables data took   3.06ms
+[2021.04.09-12.29.32:407][114]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TFG/Miguel/IA/IA_Loco/IA_Loco" FILE="../../../../../../Users/xmigu/Desktop/TFG/TFG/TFG_V1/Content/TFG/Miguel/IA/IA_Loco/IA_Loco.uasset" SILENT=true
+[2021.04.09-12.29.32:443][114]LogSavePackage: Moving '../../../../../../Users/xmigu/Desktop/TFG/TFG/TFG_V1/Saved/IA_Loco65002AEB4B95B105FFA3438D1076D929.tmp' to '../../../../../../Users/xmigu/Desktop/TFG/TFG/TFG_V1/Content/TFG/Miguel/IA/IA_Loco/IA_Loco.uasset'
+[2021.04.09-12.29.32:457][114]AssetCheck: New page: Asset Save: IA_Loco
+[2021.04.09-12.29.32:457][114]LogContentValidation: Display: Validating Blueprint /Game/TFG/Miguel/IA/IA_Loco/IA_Loco.IA_Loco
+[2021.04.09-12.29.41:982][681]LogSlate: Window 'Find in Blueprints' being destroyed
+[2021.04.09-12.29.41:986][681]LogSlate: Window 'Find in Blueprints' being destroyed
+[2021.04.09-12.29.44:504][829]LogAssetEditorSubsystem: Opening Asset editor for DataTable /Game/TFG/Miguel/Dialogs/Dialogs_Tutorial.Dialogs_Tutorial
+[2021.04.09-12.29.47:448][998]LogAssetEditorSubsystem: Opening Asset editor for UserDefinedStruct /Game/TFG/Miguel/Dialogs/Dialogs_Struck.Dialogs_Struck
+[2021.04.09-12.29.51:482][234]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TFG/Miguel/Dialogs/Dialogs_Struck" FILE="../../../../../../Users/xmigu/Desktop/TFG/TFG/TFG_V1/Content/TFG/Miguel/Dialogs/Dialogs_Struck.uasset" SILENT=true
+[2021.04.09-12.29.51:484][234]LogSavePackage: Moving '../../../../../../Users/xmigu/Desktop/TFG/TFG/TFG_V1/Saved/Dialogs_StruckA0D056514821EC26E4263D88710BEB9A.tmp' to '../../../../../../Users/xmigu/Desktop/TFG/TFG/TFG_V1/Content/TFG/Miguel/Dialogs/Dialogs_Struck.uasset'
+[2021.04.09-12.29.51:493][234]AssetCheck: New page: Asset Save: Dialogs_Struck
+[2021.04.09-12.29.51:493][234]LogContentValidation: Display: Validating UserDefinedStruct /Game/TFG/Miguel/Dialogs/Dialogs_Struck.Dialogs_Struck
+[2021.04.09-12.29.57:646][554]BlueprintLog: New page: Compile IA_Loco
+[2021.04.09-12.29.57:693][554]LogUObjectHash: Compacting FUObjectHashTables data took   2.86ms
+[2021.04.09-12.29.58:166][574]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TFG/Miguel/IA/IA_Loco/IA_Loco" FILE="../../../../../../Users/xmigu/Desktop/TFG/TFG/TFG_V1/Content/TFG/Miguel/IA/IA_Loco/IA_Loco.uasset" SILENT=true
+[2021.04.09-12.29.58:203][574]LogSavePackage: Moving '../../../../../../Users/xmigu/Desktop/TFG/TFG/TFG_V1/Saved/IA_LocoBD9A003444F8D2873F72DF808601E61F.tmp' to '../../../../../../Users/xmigu/Desktop/TFG/TFG/TFG_V1/Content/TFG/Miguel/IA/IA_Loco/IA_Loco.uasset'
+[2021.04.09-12.29.58:216][574]AssetCheck: New page: Asset Save: IA_Loco
+[2021.04.09-12.29.58:216][574]LogContentValidation: Display: Validating Blueprint /Game/TFG/Miguel/IA/IA_Loco/IA_Loco.IA_Loco
+[2021.04.09-12.32.44:040][305]BlueprintLog: New page: Compile IA_Loco
+[2021.04.09-12.32.44:090][305]LogUObjectHash: Compacting FUObjectHashTables data took   3.02ms
+[2021.04.09-12.32.44:525][324]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TFG/Miguel/IA/IA_Loco/IA_Loco" FILE="../../../../../../Users/xmigu/Desktop/TFG/TFG/TFG_V1/Content/TFG/Miguel/IA/IA_Loco/IA_Loco.uasset" SILENT=true
+[2021.04.09-12.32.44:568][324]LogSavePackage: Moving '../../../../../../Users/xmigu/Desktop/TFG/TFG/TFG_V1/Saved/IA_Loco66C4C45F4CFD34CE2C124C87F0E9C4E9.tmp' to '../../../../../../Users/xmigu/Desktop/TFG/TFG/TFG_V1/Content/TFG/Miguel/IA/IA_Loco/IA_Loco.uasset'
+[2021.04.09-12.32.44:579][324]AssetCheck: New page: Asset Save: IA_Loco
+[2021.04.09-12.32.44:579][324]LogContentValidation: Display: Validating Blueprint /Game/TFG/Miguel/IA/IA_Loco/IA_Loco.IA_Loco
+[2021.04.09-12.36.11:739][279]LogAssetEditorSubsystem: Opening Asset editor for BehaviorTree /Game/TFG/Miguel/IA/IA_Loco/BehaviourTrees/BT_IALoco.BT_IALoco
+[2021.04.09-12.36.16:452][555]LogAssetEditorSubsystem: Opening Asset editor for BehaviorTree /Game/TFG/Miguel/IA/IA_Loco/BehaviourTrees/BT_WalkAndTalk.BT_WalkAndTalk
+[2021.04.09-12.37.00:061][155]LogSavePackage: Moving '../../../../../../Users/xmigu/Desktop/TFG/TFG/TFG_V1/Saved/BT_WalkAndTalk7F9597F8479A64189DAC4BA9BCFA1F86.tmp' to '../../../../../../Users/xmigu/Desktop/TFG/TFG/TFG_V1/Content/TFG/Miguel/IA/IA_Loco/BehaviourTrees/BT_WalkAndTalk.uasset'
+[2021.04.09-12.37.00:083][155]AssetCheck: New page: Asset Save: BT_WalkAndTalk
+[2021.04.09-12.37.00:083][155]LogContentValidation: Display: Validating BehaviorTree /Game/TFG/Miguel/IA/IA_Loco/BehaviourTrees/BT_WalkAndTalk.BT_WalkAndTalk
+[2021.04.09-12.37.55:111][447]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/TFG/Miguel/IA/IA_Loco/Task/BTT_SayKeyObjectLine.BTT_SayKeyObjectLine
+[2021.04.09-12.38.32:956][690]LogContentBrowser: Attempting asset rename: BTT_SayKeyObjectLine -> BTT_SayDialogue
+[2021.04.09-12.38.32:990][690]LogMetaData: Removing '/Game/TFG/Miguel/IA/IA_Loco/Task/BTT_SayDialogue.BTT_SayDialogue_C' ref from Metadata '/Game/TFG/Miguel/IA/IA_Loco/Task/BTT_SayKeyObjectLine.PackageMetaData'
+[2021.04.09-12.38.32:991][690]LogMetaData: Removing '/Game/TFG/Miguel/IA/IA_Loco/Task/BTT_SayDialogue.SKEL_BTT_SayDialogue_C' ref from Metadata '/Game/TFG/Miguel/IA/IA_Loco/Task/BTT_SayKeyObjectLine.PackageMetaData'
+[2021.04.09-12.38.32:991][690]LogMetaData: Removing '/Game/TFG/Miguel/IA/IA_Loco/Task/BTT_SayDialogue.BTT_SayDialogue_C:ReceiveExecuteAI' ref from Metadata '/Game/TFG/Miguel/IA/IA_Loco/Task/BTT_SayKeyObjectLine.PackageMetaData'
+[2021.04.09-12.38.32:991][690]LogMetaData: Removing '/Game/TFG/Miguel/IA/IA_Loco/Task/BTT_SayDialogue.SKEL_BTT_SayDialogue_C:ReceiveExecuteAI' ref from Metadata '/Game/TFG/Miguel/IA/IA_Loco/Task/BTT_SayKeyObjectLine.PackageMetaData'
+[2021.04.09-12.38.33:061][690]LogSavePackage: Moving '../../../../../../Users/xmigu/Desktop/TFG/TFG/TFG_V1/Saved/BTT_SayDialogue2057200442AF26C5A4A523910BCCD1A4.tmp' to '../../../../../../Users/xmigu/Desktop/TFG/TFG/TFG_V1/Content/TFG/Miguel/IA/IA_Loco/Task/BTT_SayDialogue.uasset'
+[2021.04.09-12.38.33:127][690]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/TFG/Miguel/IA/IA_Loco/Task/BTT_SayKeyObjectLine.BTT_SayKeyObjectLine'
+[2021.04.09-12.38.33:197][690]LogUObjectHash: Compacting FUObjectHashTables data took   3.27ms
+[2021.04.09-12.38.33:233][690]LogUObjectHash: Compacting FUObjectHashTables data took   1.83ms
+[2021.04.09-12.38.33:256][690]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2021.04.09-12.38.33:317][690]LogSavePackage: Moving '../../../../../../Users/xmigu/Desktop/TFG/TFG/TFG_V1/Saved/BT_IALoco220EC0D14765432F31B05D889E4715D5.tmp' to '../../../../../../Users/xmigu/Desktop/TFG/TFG/TFG_V1/Content/TFG/Miguel/IA/IA_Loco/BehaviourTrees/BT_IALoco.uasset'
+[2021.04.09-12.38.33:343][690]LogPackageName: SearchForPackageOnDisk took   0.000s to resolve /Game/TFG/Miguel/IA/IA_Loco/Task/BTT_SayDialogue.
+[2021.04.09-12.38.33:351][690]AssetCheck: New page: Asset Save: multiple assets
+[2021.04.09-12.38.33:351][690]LogContentValidation: Display: Validating BehaviorTree /Game/TFG/Miguel/IA/IA_Loco/BehaviourTrees/BT_IALoco.BT_IALoco
+[2021.04.09-12.38.33:351][690]LogContentValidation: Display: Validating Blueprint /Game/TFG/Miguel/IA/IA_Loco/Task/BTT_SayDialogue.BTT_SayDialogue
+[2021.04.09-12.40.27:485][502]BlueprintLog: New page: Compile BTT_SayDialogue
+[2021.04.09-12.40.27:525][502]LogUObjectHash: Compacting FUObjectHashTables data took   3.02ms
+[2021.04.09-12.40.27:924][523]LogSavePackage: Moving '../../../../../../Users/xmigu/Desktop/TFG/TFG/TFG_V1/Saved/BTT_SayDialogue3AF58E274038621D65E4D09D538737D0.tmp' to '../../../../../../Users/xmigu/Desktop/TFG/TFG/TFG_V1/Content/TFG/Miguel/IA/IA_Loco/Task/BTT_SayDialogue.uasset'
+[2021.04.09-12.40.27:935][523]AssetCheck: New page: Asset Save: BTT_SayDialogue
+[2021.04.09-12.40.27:935][523]LogContentValidation: Display: Validating Blueprint /Game/TFG/Miguel/IA/IA_Loco/Task/BTT_SayDialogue.BTT_SayDialogue
+[2021.04.09-12.43.45:614][922]LogUObjectHash: Compacting FUObjectHashTables data took   2.95ms
+[2021.04.09-12.43.45:615][922]LogFileHelpers: Editor autosave (incl. external actors) for '/Temp/Untitled_0' took 0.028
+[2021.04.09-12.43.45:617][922]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/TFG/Miguel/IA/IA_Loco/BehaviourTrees/BT_IALoco] ([1] browsable assets)...
+[2021.04.09-12.43.45:617][922]OBJ SavePackage: Finished generating thumbnails for package [/Game/TFG/Miguel/IA/IA_Loco/BehaviourTrees/BT_IALoco]
+[2021.04.09-12.43.45:628][922]LogSavePackage: Moving '../../../../../../Users/xmigu/Desktop/TFG/TFG/TFG_V1/Saved/BT_IALoco_Auto1BA5BFDDD42CAB59AB38BE5B4C30AFD60.tmp' to '../../../../../../Users/xmigu/Desktop/TFG/TFG/TFG_V1/Saved/Autosaves/Game/TFG/Miguel/IA/IA_Loco/BehaviourTrees/BT_IALoco_Auto1.uasset'
+[2021.04.09-12.43.45:629][922]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/TFG/Miguel/IA/IA_Loco/Task/BTT_SayDialogue] ([1] browsable assets)...
+[2021.04.09-12.43.45:629][922]OBJ SavePackage: Finished generating thumbnails for package [/Game/TFG/Miguel/IA/IA_Loco/Task/BTT_SayDialogue]
+[2021.04.09-12.43.45:635][922]LogSavePackage: Moving '../../../../../../Users/xmigu/Desktop/TFG/TFG/TFG_V1/Saved/BTT_SayDialogue_Auto19B39B0AE4B7433B0DAABE9BE1BDA98DB.tmp' to '../../../../../../Users/xmigu/Desktop/TFG/TFG/TFG_V1/Saved/Autosaves/Game/TFG/Miguel/IA/IA_Loco/Task/BTT_SayDialogue_Auto1.uasset'
+[2021.04.09-12.43.45:636][922]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/TFG/Miguel/Dialogs/Dialogs_-_Frases_al_aire] ([1] browsable assets)...
+[2021.04.09-12.43.45:636][922]OBJ SavePackage: Finished generating thumbnails for package [/Game/TFG/Miguel/Dialogs/Dialogs_-_Frases_al_aire]
+[2021.04.09-12.43.45:638][922]LogSavePackage: Moving '../../../../../../Users/xmigu/Desktop/TFG/TFG/TFG_V1/Saved/Dialogs_-_Frases_al_aire_Auto1CF4FD0D942B756B1ABAB929DD78A5DF3.tmp' to '../../../../../../Users/xmigu/Desktop/TFG/TFG/TFG_V1/Saved/Autosaves/Game/TFG/Miguel/Dialogs/Dialogs_-_Frases_al_aire_Auto1.uasset'
+[2021.04.09-12.43.45:639][922]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/TFG/Miguel/Dialogs/Dialogs_Tutorial] ([1] browsable assets)...
+[2021.04.09-12.43.45:639][922]OBJ SavePackage: Finished generating thumbnails for package [/Game/TFG/Miguel/Dialogs/Dialogs_Tutorial]
+[2021.04.09-12.43.45:640][922]LogSavePackage: Moving '../../../../../../Users/xmigu/Desktop/TFG/TFG/TFG_V1/Saved/Dialogs_Tutorial_Auto1202F8D6D4EC70CCEB9E39CA51776AB49.tmp' to '../../../../../../Users/xmigu/Desktop/TFG/TFG/TFG_V1/Saved/Autosaves/Game/TFG/Miguel/Dialogs/Dialogs_Tutorial_Auto1.uasset'
+[2021.04.09-12.43.45:641][922]LogFileHelpers: Auto-saving content packages took 0.026
+[2021.04.09-12.49.43:366][140]LogEditorTransaction: Undo Remove Variable
+[2021.04.09-12.52.01:825][332]BlueprintLog: New page: Compile BTT_SayDialogue
+[2021.04.09-12.52.01:871][332]LogUObjectHash: Compacting FUObjectHashTables data took   3.59ms
+[2021.04.09-12.52.02:429][361]LogSavePackage: Moving '../../../../../../Users/xmigu/Desktop/TFG/TFG/TFG_V1/Saved/BTT_SayDialogue6A4AA7DB4A2C3773F11D908EFB53AB78.tmp' to '../../../../../../Users/xmigu/Desktop/TFG/TFG/TFG_V1/Content/TFG/Miguel/IA/IA_Loco/Task/BTT_SayDialogue.uasset'
+[2021.04.09-12.52.02:442][361]AssetCheck: New page: Asset Save: BTT_SayDialogue
+[2021.04.09-12.52.02:442][361]LogContentValidation: Display: Validating Blueprint /Game/TFG/Miguel/IA/IA_Loco/Task/BTT_SayDialogue.BTT_SayDialogue
+[2021.04.09-12.53.10:884][438]BlueprintLog: New page: Compile BTT_SayDialogue
+[2021.04.09-12.53.10:931][438]LogUObjectHash: Compacting FUObjectHashTables data took   3.26ms
+[2021.04.09-12.53.11:441][465]LogSavePackage: Moving '../../../../../../Users/xmigu/Desktop/TFG/TFG/TFG_V1/Saved/BTT_SayDialogueEE5D4FAE4A82385FF49206A117BDA187.tmp' to '../../../../../../Users/xmigu/Desktop/TFG/TFG/TFG_V1/Content/TFG/Miguel/IA/IA_Loco/Task/BTT_SayDialogue.uasset'
+[2021.04.09-12.53.11:453][465]AssetCheck: New page: Asset Save: BTT_SayDialogue
+[2021.04.09-12.53.11:453][465]LogContentValidation: Display: Validating Blueprint /Game/TFG/Miguel/IA/IA_Loco/Task/BTT_SayDialogue.BTT_SayDialogue
+[2021.04.09-12.54.23:210][747]BlueprintLog: New page: Compile BTT_SayDialogue
+[2021.04.09-12.54.23:255][747]LogUObjectHash: Compacting FUObjectHashTables data took   3.07ms
+[2021.04.09-12.54.23:705][770]LogSavePackage: Moving '../../../../../../Users/xmigu/Desktop/TFG/TFG/TFG_V1/Saved/BTT_SayDialogueB762E167462226CA325029B9CF99C088.tmp' to '../../../../../../Users/xmigu/Desktop/TFG/TFG/TFG_V1/Content/TFG/Miguel/IA/IA_Loco/Task/BTT_SayDialogue.uasset'
+[2021.04.09-12.54.23:716][770]AssetCheck: New page: Asset Save: BTT_SayDialogue
+[2021.04.09-12.54.23:716][770]LogContentValidation: Display: Validating Blueprint /Game/TFG/Miguel/IA/IA_Loco/Task/BTT_SayDialogue.BTT_SayDialogue
+[2021.04.09-12.55.23:421][ 71]BlueprintLog: New page: Compile BTT_SayDialogue
+[2021.04.09-12.55.23:465][ 71]LogUObjectHash: Compacting FUObjectHashTables data took   3.12ms
+[2021.04.09-12.55.24:158][109]LogSavePackage: Moving '../../../../../../Users/xmigu/Desktop/TFG/TFG/TFG_V1/Saved/BTT_SayDialogueA3EFFE1942AAC0CFDE0861A00E9D416E.tmp' to '../../../../../../Users/xmigu/Desktop/TFG/TFG/TFG_V1/Content/TFG/Miguel/IA/IA_Loco/Task/BTT_SayDialogue.uasset'
+[2021.04.09-12.55.24:171][109]AssetCheck: New page: Asset Save: BTT_SayDialogue
+[2021.04.09-12.55.24:171][109]LogContentValidation: Display: Validating Blueprint /Game/TFG/Miguel/IA/IA_Loco/Task/BTT_SayDialogue.BTT_SayDialogue
+[2021.04.09-12.55.33:383][659]BlueprintLog: New page: Compile BTT_SayDialogue
+[2021.04.09-12.55.33:428][659]LogUObjectHash: Compacting FUObjectHashTables data took   3.08ms
+[2021.04.09-12.55.33:841][680]LogSavePackage: Moving '../../../../../../Users/xmigu/Desktop/TFG/TFG/TFG_V1/Saved/BTT_SayDialogue03165E23489F960BB92C87869944DCE2.tmp' to '../../../../../../Users/xmigu/Desktop/TFG/TFG/TFG_V1/Content/TFG/Miguel/IA/IA_Loco/Task/BTT_SayDialogue.uasset'
+[2021.04.09-12.55.33:854][680]AssetCheck: New page: Asset Save: BTT_SayDialogue
+[2021.04.09-12.55.33:854][680]LogContentValidation: Display: Validating Blueprint /Game/TFG/Miguel/IA/IA_Loco/Task/BTT_SayDialogue.BTT_SayDialogue
+[2021.04.09-12.55.35:373][771]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2021.04.09-12.55.35:387][771]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.04.09-12.55.35:390][771]PIE: New page: PIE session: Untitled_0 (9 abr. 2021 16:55:35)
+[2021.04.09-12.55.35:434][771]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2021.04.09-12.55.35:436][771]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2021.04.09-12.55.35:437][771]LogPlayLevel: Creating play world package: /Temp/UEDPIE_0_Untitled_0
+[2021.04.09-12.55.35:440][771]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003130s)
+[2021.04.09-12.55.35:442][771]LogAIModule: Creating AISystem for world Untitled
+[2021.04.09-12.55.35:442][771]LogPlayLevel: PIE: World Init took: (0.001749s)
+[2021.04.09-12.55.35:442][771]LogPlayLevel: PIE: Created PIE world by copying editor world from /Temp/Untitled_0.Untitled to /Temp/UEDPIE_0_Untitled_0.Untitled (0.005355s)
+[2021.04.09-12.55.35:467][771]LogUObjectHash: Compacting FUObjectHashTables data took   2.74ms
+[2021.04.09-12.55.35:471][771]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2021.04.09-12.55.35:471][771]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.04.09-12.55.35:471][771]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.04.09-12.55.35:471][771]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.04.09-12.55.35:471][771]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.04.09-12.55.35:471][771]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.04.09-12.55.35:471][771]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.04.09-12.55.35:471][771]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.04.09-12.55.35:471][771]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.04.09-12.55.35:471][771]LogAudio: Display: Using built-in audio occlusion.
+[2021.04.09-12.55.35:471][771]LogAudioMixer: Display: Initializing audio mixer.
+[2021.04.09-12.55.35:474][771]LogAudioMixer: Display: 0: FrontLeft
+[2021.04.09-12.55.35:474][771]LogAudioMixer: Display: 1: FrontRight
+[2021.04.09-12.55.35:482][771]LogAudioMixer: Display: Using Audio Device VS278 (NVIDIA High Definition Audio)
+[2021.04.09-12.55.35:482][771]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.04.09-12.55.35:482][771]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.04.09-12.55.35:482][771]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.04.09-12.55.35:483][771]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.04.09-12.55.35:483][771]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.04.09-12.55.35:483][771]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.04.09-12.55.35:498][771]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.04.09-12.55.35:498][771]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.04.09-12.55.35:498][771]LogInit: FAudioDevice initialized.
+[2021.04.09-12.55.35:498][771]LogAudio: Display: Audio Device (ID: 2) registered with world 'Untitled'.
+[2021.04.09-12.55.35:544][771]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.09-12.55.35:546][771]LogLinker: Warning: Failed to load '/Game/FirstPersonBP/Blueprints/FirstPersonGameMode': Can't find file.
+[2021.04.09-12.55.35:546][771]LogLinker: Warning: Failed to load '/Game/FirstPersonBP/Blueprints/FirstPersonGameMode': Can't find file.
+[2021.04.09-12.55.35:546][771]LogUObjectGlobals: Warning: Failed to find object 'Class /Game/FirstPersonBP/Blueprints/FirstPersonGameMode.FirstPersonGameMode_C'
+[2021.04.09-12.55.35:546][771]LogLoad: Game class is 'GameModeBase'
+[2021.04.09-12.55.35:554][771]LogWorld: Bringing World /Temp/UEDPIE_0_Untitled_0.Untitled up for play (max tick rate 60) at 2021.04.09-14.55.35
+[2021.04.09-12.55.35:556][771]LogWorld: Bringing up level for play took: 0.002024
+[2021.04.09-12.55.35:558][771]LogOnline: OSS: Creating online subsystem instance for: :Context_4
+[2021.04.09-12.55.35:574][771]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'MovieSceneCapture' in 0.0003 seconds. Added 20 classes and 0 folders.
+[2021.04.09-12.55.35:588][771]PIE: Server logged in
+[2021.04.09-12.55.35:590][771]PIE: Play in editor total start time 0,212 seconds.
+[2021.04.09-12.55.35:681][772]LogRenderer: Reallocating scene render targets to support 1604x792 Format 10 NumSamples 1 (Frame:1).
+[2021.04.09-12.55.36:885][825]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.09-12.55.36:885][825]LogWorld: BeginTearingDown for /Temp/UEDPIE_0_Untitled_0
+[2021.04.09-12.55.36:886][825]LogSlate: Window 'TFG_V1 Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2021.04.09-12.55.36:891][825]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2021.04.09-12.55.36:892][825]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.09-12.55.36:903][825]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.04.09-12.55.36:908][825]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.09-12.55.36:940][825]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.04.09-12.55.36:945][825]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.04.09-12.55.36:947][825]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.04.09-12.55.37:001][825]LogUObjectHash: Compacting FUObjectHashTables data took   4.85ms
+[2021.04.09-12.55.37:022][826]LogPlayLevel: Display: Destroying online subsystem :Context_4
+[2021.04.09-12.55.45:656][337]LogUObjectHash: Compacting FUObjectHashTables data took   3.29ms
+[2021.04.09-12.55.47:638][337]LogSlate: Window 'Save Content' being destroyed
+[2021.04.09-12.55.47:712][337]LogSavePackage: Moving '../../../../../../Users/xmigu/Desktop/TFG/TFG/TFG_V1/Saved/BT_IALoco16CDDF85406F5BC799F3FB937601D36C.tmp' to '../../../../../../Users/xmigu/Desktop/TFG/TFG/TFG_V1/Content/TFG/Miguel/IA/IA_Loco/BehaviourTrees/BT_IALoco.uasset'
+[2021.04.09-12.55.47:715][337]LogSavePackage: Moving '../../../../../../Users/xmigu/Desktop/TFG/TFG/TFG_V1/Saved/Dialogs_-_Frases_al_aireCB995EC34D4DF3261AD0D28C5143A989.tmp' to '../../../../../../Users/xmigu/Desktop/TFG/TFG/TFG_V1/Content/TFG/Miguel/Dialogs/Dialogs_-_Frases_al_aire.uasset'
+[2021.04.09-12.55.47:716][337]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TFG/Miguel/Dialogs/Dialogs_Tutorial" FILE="../../../../../../Users/xmigu/Desktop/TFG/TFG/TFG_V1/Content/TFG/Miguel/Dialogs/Dialogs_Tutorial.uasset" SILENT=true
+[2021.04.09-12.55.47:717][337]LogSavePackage: Moving '../../../../../../Users/xmigu/Desktop/TFG/TFG/TFG_V1/Saved/Dialogs_Tutorial4B070B854B3076ED2D8830AF2CBD3782.tmp' to '../../../../../../Users/xmigu/Desktop/TFG/TFG/TFG_V1/Content/TFG/Miguel/Dialogs/Dialogs_Tutorial.uasset'
+[2021.04.09-12.55.47:872][337]LogBlueprint: Error: [AssetLog] C:\Users\xmigu\Desktop\TFG\TFG\TFG_V1\Content\TFG\Miguel\IA\IA_Loco\Task\BTT_DisplayLine.uasset: [Compiler] In use pin  Dialogos Huida  no longer exists on node  Get . Please refresh node or break links to remove pin.
+[2021.04.09-12.55.47:872][337]LogBlueprint: Error: [AssetLog] C:\Users\xmigu\Desktop\TFG\TFG\TFG_V1\Content\TFG\Miguel\IA\IA_Loco\Task\BTT_DisplayLine.uasset: [Compiler] In use pin  Dialogos Pasado  no longer exists on node  Get . Please refresh node or break links to remove pin.
+[2021.04.09-12.55.47:873][337]LogBlueprint: Error: [AssetLog] C:\Users\xmigu\Desktop\TFG\TFG\TFG_V1\Content\TFG\Miguel\IA\IA_Loco\Task\BTT_DisplayLine.uasset: [Compiler] The current value of the ' Array ' pin is invalid: Array inputs (like 'Target Array') must have an input wired into them (try connecting a MakeArray node).
+[2021.04.09-12.55.47:874][337]LogBlueprint: Error: [AssetLog] C:\Users\xmigu\Desktop\TFG\TFG\TFG_V1\Content\TFG\Miguel\IA\IA_Loco\Task\BTT_DisplayLine.uasset: [Compiler] The current value of the ' Array ' pin is invalid: Array inputs (like 'Target Array') must have an input wired into them (try connecting a MakeArray node).
+[2021.04.09-12.55.48:190][337]LogAssetEditorSubsystem: Opening Asset editor for World /Game/TFG/Miguel/Levels/NivelPruebaMiguel.NivelPruebaMiguel
+[2021.04.09-12.55.48:191][337]Cmd: MAP LOAD FILE="../../../../../../Users/xmigu/Desktop/TFG/TFG/TFG_V1/Content/TFG/Miguel/Levels/NivelPruebaMiguel.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.04.09-12.55.48:192][337]LightingResults: New page: Lighting Build
+[2021.04.09-12.55.48:197][337]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'StatsViewer' in 0.0002 seconds. Added 6 classes and 0 folders.
+[2021.04.09-12.55.48:199][337]LoadErrors: New page: Loading map: NivelPruebaMiguel.umap
+[2021.04.09-12.55.48:229][337]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2021.04.09-12.55.48:229][337]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.09-12.55.48:229][337]MapCheck: New page: Map Check
+[2021.04.09-12.55.48:229][337]LightingResults: New page: Lighting Build
+[2021.04.09-12.55.48:266][337]LogUObjectHash: Compacting FUObjectHashTables data took   3.08ms
+[2021.04.09-12.55.48:267][337]LogAudio: Display: Audio Device (ID: 1) registered with world 'NivelPruebaMiguel'.
+[2021.04.09-12.55.48:357][337]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.04.09-12.55.48:357][337]LogAIModule: Creating AISystem for world NivelPruebaMiguel
+[2021.04.09-12.55.48:398][337]LogUObjectHash: Compacting FUObjectHashTables data took   2.79ms
+[2021.04.09-12.55.48:407][337]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.04.09-12.55.48:407][337]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,112ms to complete.
+[2021.04.09-12.55.48:407][337]LogFileHelpers: Loading map 'NivelPruebaMiguel' took 0.217
+[2021.04.09-12.55.48:440][337]AssetCheck: New page: Asset Save: multiple assets
+[2021.04.09-12.55.48:440][337]LogContentValidation: Display: Validating BehaviorTree /Game/TFG/Miguel/IA/IA_Loco/BehaviourTrees/BT_IALoco.BT_IALoco
+[2021.04.09-12.55.48:440][337]LogContentValidation: Display: Validating DataTable /Game/TFG/Miguel/Dialogs/Dialogs_-_Frases_al_aire.Dialogs_-_Frases_al_aire
+[2021.04.09-12.55.48:441][337]LogContentValidation: Display: Validating DataTable /Game/TFG/Miguel/Dialogs/Dialogs_Tutorial.Dialogs_Tutorial
+[2021.04.09-12.55.48:740][338]LogD3D12RHI: Creating RT View Heap with 250000 entries
+[2021.04.09-12.55.48:756][338]LogD3D12RHI: Creating RT Sampler Heap with 2048 entries
+[2021.04.09-12.55.48:836][338]LogD3D12RHI: Creating RTPSO with 137 shaders (0 cached, 2 new) took 14.68 ms. Compile time 7.73 ms, link time 6.72 ms.
+[2021.04.09-12.55.48:946][342]LogD3D12RHI: Creating RT View Heap with 250000 entries
+[2021.04.09-12.55.48:960][343]LogD3D12RHI: Creating RT Sampler Heap with 2048 entries
+[2021.04.09-12.55.49:727][388]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2021.04.09-12.55.49:736][388]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.04.09-12.55.49:736][388]BlueprintLog: Warning: Blueprint failed to compile:  BTT_DisplayLine
+[2021.04.09-12.55.49:737][388]LogCustomDialog: Dialog displayed:
+[2021.04.09-12.55.51:595][388]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/TFG/Miguel/IA/IA_Loco/Task/BTT_DisplayLine.BTT_DisplayLine
+[2021.04.09-12.55.57:429][388]LogSlate: Window 'Blueprint Compilation Errors' being destroyed
+[2021.04.09-12.56.26:219][ 90]BlueprintLog: New page: Compile BTT_DisplayLine
+[2021.04.09-12.56.26:230][ 90]LogBlueprint: Error: [AssetLog] C:\Users\xmigu\Desktop\TFG\TFG\TFG_V1\Content\TFG\Miguel\IA\IA_Loco\Task\BTT_DisplayLine.uasset: [Compiler] The type of  Target Array  is undetermined.  Connect something to  Length  to imply a specific type.
+[2021.04.09-12.56.26:231][ 90]LogBlueprint: Error: [AssetLog] C:\Users\xmigu\Desktop\TFG\TFG\TFG_V1\Content\TFG\Miguel\IA\IA_Loco\Task\BTT_DisplayLine.uasset: [Compiler] The type of  Target Array  is undetermined.  Connect something to  Length  to imply a specific type.
+[2021.04.09-12.56.26:231][ 90]LogBlueprint: Error: [AssetLog] C:\Users\xmigu\Desktop\TFG\TFG\TFG_V1\Content\TFG\Miguel\IA\IA_Loco\Task\BTT_DisplayLine.uasset: [Compiler] The current value of the ' Target Array ' pin is invalid: Array inputs (like 'Target Array') must have an input wired into them (try connecting a MakeArray node).
+[2021.04.09-12.56.26:231][ 90]LogBlueprint: Error: [AssetLog] C:\Users\xmigu\Desktop\TFG\TFG\TFG_V1\Content\TFG\Miguel\IA\IA_Loco\Task\BTT_DisplayLine.uasset: [Compiler] The current value of the ' Array ' pin is invalid: Array inputs (like 'Target Array') must have an input wired into them (try connecting a MakeArray node).
+[2021.04.09-12.56.26:231][ 90]LogBlueprint: Error: [AssetLog] C:\Users\xmigu\Desktop\TFG\TFG\TFG_V1\Content\TFG\Miguel\IA\IA_Loco\Task\BTT_DisplayLine.uasset: [Compiler] The current value of the ' Target Array ' pin is invalid: Array inputs (like 'Target Array') must have an input wired into them (try connecting a MakeArray node).
+[2021.04.09-12.56.26:231][ 90]LogBlueprint: Error: [AssetLog] C:\Users\xmigu\Desktop\TFG\TFG\TFG_V1\Content\TFG\Miguel\IA\IA_Loco\Task\BTT_DisplayLine.uasset: [Compiler] The current value of the ' Array ' pin is invalid: Array inputs (like 'Target Array') must have an input wired into them (try connecting a MakeArray node).
+[2021.04.09-12.56.26:324][ 90]LogUObjectHash: Compacting FUObjectHashTables data took   5.09ms
+[2021.04.09-12.57.33:728][ 78]BlueprintLog: New page: Compile BTT_DisplayLine
+[2021.04.09-12.57.33:733][ 78]LogBlueprint: Error: [AssetLog] C:\Users\xmigu\Desktop\TFG\TFG\TFG_V1\Content\TFG\Miguel\IA\IA_Loco\Task\BTT_DisplayLine.uasset: [Compiler] The type of  Target Array  is undetermined.  Connect something to  Length  to imply a specific type.
+[2021.04.09-12.57.33:734][ 78]LogBlueprint: Error: [AssetLog] C:\Users\xmigu\Desktop\TFG\TFG\TFG_V1\Content\TFG\Miguel\IA\IA_Loco\Task\BTT_DisplayLine.uasset: [Compiler] The current value of the ' Target Array ' pin is invalid: Array inputs (like 'Target Array') must have an input wired into them (try connecting a MakeArray node).
+[2021.04.09-12.57.33:734][ 78]LogBlueprint: Error: [AssetLog] C:\Users\xmigu\Desktop\TFG\TFG\TFG_V1\Content\TFG\Miguel\IA\IA_Loco\Task\BTT_DisplayLine.uasset: [Compiler] The current value of the ' Array ' pin is invalid: Array inputs (like 'Target Array') must have an input wired into them (try connecting a MakeArray node).
+[2021.04.09-12.57.33:793][ 78]LogUObjectHash: Compacting FUObjectHashTables data took   4.56ms
+[2021.04.09-12.57.34:232][ 99]LogSavePackage: Moving '../../../../../../Users/xmigu/Desktop/TFG/TFG/TFG_V1/Saved/BTT_DisplayLineBCCA2FE9473057B39AA4ECADD38C308A.tmp' to '../../../../../../Users/xmigu/Desktop/TFG/TFG/TFG_V1/Content/TFG/Miguel/IA/IA_Loco/Task/BTT_DisplayLine.uasset'
+[2021.04.09-12.57.34:248][ 99]AssetCheck: New page: Asset Save: BTT_DisplayLine
+[2021.04.09-12.57.34:248][ 99]LogContentValidation: Display: Validating Blueprint /Game/TFG/Miguel/IA/IA_Loco/Task/BTT_DisplayLine.BTT_DisplayLine
+[2021.04.09-12.59.06:968][618]BlueprintLog: New page: Compile BTT_DisplayLine
+[2021.04.09-12.59.06:974][618]LogBlueprint: Error: [AssetLog] C:\Users\xmigu\Desktop\TFG\TFG\TFG_V1\Content\TFG\Miguel\IA\IA_Loco\Task\BTT_DisplayLine.uasset: [Compiler] The type of  Target Array  is undetermined.  Connect something to  Length  to imply a specific type.
+[2021.04.09-12.59.06:974][618]LogBlueprint: Error: [AssetLog] C:\Users\xmigu\Desktop\TFG\TFG\TFG_V1\Content\TFG\Miguel\IA\IA_Loco\Task\BTT_DisplayLine.uasset: [Compiler] The current value of the ' Target Array ' pin is invalid: Array inputs (like 'Target Array') must have an input wired into them (try connecting a MakeArray node).
+[2021.04.09-12.59.06:974][618]LogBlueprint: Error: [AssetLog] C:\Users\xmigu\Desktop\TFG\TFG\TFG_V1\Content\TFG\Miguel\IA\IA_Loco\Task\BTT_DisplayLine.uasset: [Compiler] The current value of the ' Array ' pin is invalid: Array inputs (like 'Target Array') must have an input wired into them (try connecting a MakeArray node).
+[2021.04.09-12.59.07:028][618]LogUObjectHash: Compacting FUObjectHashTables data took   4.68ms
+[2021.04.09-12.59.07:436][637]LogSavePackage: Moving '../../../../../../Users/xmigu/Desktop/TFG/TFG/TFG_V1/Saved/BTT_DisplayLine8F4EF1F149CBD6A040BA8681CE2E64CC.tmp' to '../../../../../../Users/xmigu/Desktop/TFG/TFG/TFG_V1/Content/TFG/Miguel/IA/IA_Loco/Task/BTT_DisplayLine.uasset'
+[2021.04.09-12.59.07:451][637]AssetCheck: New page: Asset Save: BTT_DisplayLine
+[2021.04.09-12.59.07:451][637]LogContentValidation: Display: Validating Blueprint /Game/TFG/Miguel/IA/IA_Loco/Task/BTT_DisplayLine.BTT_DisplayLine
+[2021.04.09-12.59.25:562][707]BlueprintLog: New page: Compile BTT_DisplayLine
+[2021.04.09-12.59.25:621][707]LogUObjectHash: Compacting FUObjectHashTables data took   4.05ms
+[2021.04.09-12.59.26:159][734]LogSavePackage: Moving '../../../../../../Users/xmigu/Desktop/TFG/TFG/TFG_V1/Saved/BTT_DisplayLine642647CA4DFC8AC5BBE614BE4D5875D6.tmp' to '../../../../../../Users/xmigu/Desktop/TFG/TFG/TFG_V1/Content/TFG/Miguel/IA/IA_Loco/Task/BTT_DisplayLine.uasset'
+[2021.04.09-12.59.26:172][734]AssetCheck: New page: Asset Save: BTT_DisplayLine
+[2021.04.09-12.59.26:172][734]LogContentValidation: Display: Validating Blueprint /Game/TFG/Miguel/IA/IA_Loco/Task/BTT_DisplayLine.BTT_DisplayLine
+[2021.04.09-12.59.35:971][316]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2021.04.09-12.59.35:981][316]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.04.09-12.59.35:981][316]PIE: New page: PIE session: NivelPruebaMiguel (9 abr. 2021 16:59:35)
+[2021.04.09-12.59.35:981][316]LogPlayLevel: Creating play world package: /Game/TFG/Miguel/Levels/UEDPIE_0_NivelPruebaMiguel
+[2021.04.09-12.59.35:997][316]LogPlayLevel: PIE: StaticDuplicateObject took: (0.016560s)
+[2021.04.09-12.59.35:998][316]LogAIModule: Creating AISystem for world NivelPruebaMiguel
+[2021.04.09-12.59.35:998][316]LogPlayLevel: PIE: World Init took: (0.000971s)
+[2021.04.09-12.59.35:999][316]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TFG/Miguel/Levels/NivelPruebaMiguel.NivelPruebaMiguel to /Game/TFG/Miguel/Levels/UEDPIE_0_NivelPruebaMiguel.NivelPruebaMiguel (0.017649s)
+[2021.04.09-12.59.36:035][316]LogUObjectHash: Compacting FUObjectHashTables data took   4.37ms
+[2021.04.09-12.59.36:035][316]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2021.04.09-12.59.36:035][316]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.04.09-12.59.36:035][316]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.04.09-12.59.36:035][316]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.04.09-12.59.36:035][316]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.04.09-12.59.36:035][316]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.04.09-12.59.36:035][316]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.04.09-12.59.36:035][316]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.04.09-12.59.36:036][316]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.04.09-12.59.36:036][316]LogAudio: Display: Using built-in audio occlusion.
+[2021.04.09-12.59.36:036][316]LogAudioMixer: Display: Initializing audio mixer.
+[2021.04.09-12.59.36:039][316]LogAudioMixer: Display: 0: FrontLeft
+[2021.04.09-12.59.36:039][316]LogAudioMixer: Display: 1: FrontRight
+[2021.04.09-12.59.36:048][316]LogAudioMixer: Display: Using Audio Device VS278 (NVIDIA High Definition Audio)
+[2021.04.09-12.59.36:048][316]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.04.09-12.59.36:048][316]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.04.09-12.59.36:048][316]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.04.09-12.59.36:048][316]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.04.09-12.59.36:048][316]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.04.09-12.59.36:048][316]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.04.09-12.59.36:062][316]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.04.09-12.59.36:062][316]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.04.09-12.59.36:062][316]LogInit: FAudioDevice initialized.
+[2021.04.09-12.59.36:062][316]LogAudio: Display: Audio Device (ID: 3) registered with world 'NivelPruebaMiguel'.
+[2021.04.09-12.59.36:101][316]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.09-12.59.36:101][316]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2021.04.09-12.59.36:108][316]LogWorld: Bringing World /Game/TFG/Miguel/Levels/UEDPIE_0_NivelPruebaMiguel.NivelPruebaMiguel up for play (max tick rate 60) at 2021.04.09-14.59.36
+[2021.04.09-12.59.36:124][316]LogWorld: Bringing up level for play took: 0.022245
+[2021.04.09-12.59.36:124][316]LogOnline: OSS: Creating online subsystem instance for: :Context_7
+[2021.04.09-12.59.36:145][316]PIE: Server logged in
+[2021.04.09-12.59.36:147][316]PIE: Play in editor total start time 0,171 seconds.
+[2021.04.09-12.59.50:244][144]LogBlueprintUserMessages: [BTT_PrintText_C_4] No veo un objeto
+[2021.04.09-12.59.56:045][490]LogBlueprintUserMessages: [BTT_PrintText_C_4] No veo un objeto
+[2021.04.09-13.00.07:245][158]LogBlueprintUserMessages: [BTT_PrintText_C_4] No veo un objeto
+[2021.04.09-13.00.18:205][797]LogBlueprintUserMessages: [BTT_PrintText_C_4] No veo un objeto
+[2021.04.09-13.00.27:077][288]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.09-13.00.27:077][288]LogWorld: BeginTearingDown for /Game/TFG/Miguel/Levels/UEDPIE_0_NivelPruebaMiguel
+[2021.04.09-13.00.27:078][288]LogSlate: Window 'TFG_V1 Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2021.04.09-13.00.27:083][288]LogWorld: UWorld::CleanupWorld for NivelPruebaMiguel, bSessionEnded=true, bCleanupResources=true
+[2021.04.09-13.00.27:083][288]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.09-13.00.27:096][288]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.04.09-13.00.27:172][288]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.09-13.00.27:209][288]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.04.09-13.00.27:209][288]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.04.09-13.00.27:211][288]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.04.09-13.00.27:236][288]LogUObjectHash: Compacting FUObjectHashTables data took   4.76ms
+[2021.04.09-13.00.27:278][289]LogPlayLevel: Display: Destroying online subsystem :Context_7
+[2021.04.09-13.01.02:355][364]LogSavePackage: Moving '../../../../../../Users/xmigu/Desktop/TFG/TFG/TFG_V1/Saved/BTT_SayDialogue24EE83D343E8F320762408AA05CAB131.tmp' to '../../../../../../Users/xmigu/Desktop/TFG/TFG/TFG_V1/Content/TFG/Miguel/IA/IA_Loco/Task/BTT_SayDialogue.uasset'
+[2021.04.09-13.01.02:367][364]AssetCheck: New page: Asset Save: BTT_SayDialogue
+[2021.04.09-13.01.02:367][364]LogContentValidation: Display: Validating Blueprint /Game/TFG/Miguel/IA/IA_Loco/Task/BTT_SayDialogue.BTT_SayDialogue
+[2021.04.09-13.01.30:491][ 44]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2021.04.09-13.01.30:518][ 44]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.04.09-13.01.30:518][ 44]PIE: New page: PIE session: NivelPruebaMiguel (9 abr. 2021 17:01:30)
+[2021.04.09-13.01.30:540][ 44]LogPlayLevel: Creating play world package: /Game/TFG/Miguel/Levels/UEDPIE_0_NivelPruebaMiguel
+[2021.04.09-13.01.30:563][ 44]LogPlayLevel: PIE: StaticDuplicateObject took: (0.022924s)
+[2021.04.09-13.01.30:563][ 44]LogAIModule: Creating AISystem for world NivelPruebaMiguel
+[2021.04.09-13.01.30:564][ 44]LogPlayLevel: PIE: World Init took: (0.000960s)
+[2021.04.09-13.01.30:564][ 44]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TFG/Miguel/Levels/NivelPruebaMiguel.NivelPruebaMiguel to /Game/TFG/Miguel/Levels/UEDPIE_0_NivelPruebaMiguel.NivelPruebaMiguel (0.024145s)
+[2021.04.09-13.01.30:600][ 44]LogUObjectHash: Compacting FUObjectHashTables data took   3.30ms
+[2021.04.09-13.01.30:602][ 44]LogAudio: Display: Creating Audio Device:                 Id: 4, Scope: Unique, Realtime: True
+[2021.04.09-13.01.30:602][ 44]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.04.09-13.01.30:602][ 44]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.04.09-13.01.30:602][ 44]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.04.09-13.01.30:602][ 44]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.04.09-13.01.30:602][ 44]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.04.09-13.01.30:602][ 44]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.04.09-13.01.30:602][ 44]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.04.09-13.01.30:602][ 44]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.04.09-13.01.30:602][ 44]LogAudio: Display: Using built-in audio occlusion.
+[2021.04.09-13.01.30:602][ 44]LogAudioMixer: Display: Initializing audio mixer.
+[2021.04.09-13.01.30:605][ 44]LogAudioMixer: Display: 0: FrontLeft
+[2021.04.09-13.01.30:605][ 44]LogAudioMixer: Display: 1: FrontRight
+[2021.04.09-13.01.30:613][ 44]LogAudioMixer: Display: Using Audio Device VS278 (NVIDIA High Definition Audio)
+[2021.04.09-13.01.30:614][ 44]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.04.09-13.01.30:614][ 44]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.04.09-13.01.30:614][ 44]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.04.09-13.01.30:614][ 44]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.04.09-13.01.30:614][ 44]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.04.09-13.01.30:614][ 44]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.04.09-13.01.30:628][ 44]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.04.09-13.01.30:628][ 44]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.04.09-13.01.30:628][ 44]LogInit: FAudioDevice initialized.
+[2021.04.09-13.01.30:628][ 44]LogAudio: Display: Audio Device (ID: 4) registered with world 'NivelPruebaMiguel'.
+[2021.04.09-13.01.30:666][ 44]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.09-13.01.30:666][ 44]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2021.04.09-13.01.30:668][ 44]LogWorld: Bringing World /Game/TFG/Miguel/Levels/UEDPIE_0_NivelPruebaMiguel.NivelPruebaMiguel up for play (max tick rate 60) at 2021.04.09-15.01.30
+[2021.04.09-13.01.30:670][ 44]LogWorld: Bringing up level for play took: 0.003808
+[2021.04.09-13.01.30:671][ 44]LogOnline: OSS: Creating online subsystem instance for: :Context_10
+[2021.04.09-13.01.30:676][ 44]PIE: Server logged in
+[2021.04.09-13.01.30:678][ 44]PIE: Play in editor total start time 0,181 seconds.
+[2021.04.09-13.01.30:784][ 45]LogRenderer: Reallocating scene render targets to support 1608x792 Format 10 NumSamples 1 (Frame:1).
+[2021.04.09-13.01.44:986][837]LogBlueprintUserMessages: [BTT_PrintText_C_4] No veo un objeto
+[2021.04.09-13.01.56:091][502]LogBlueprintUserMessages: [BTT_PrintText_C_4] No veo un objeto
+[2021.04.09-13.02.01:992][856]LogBlueprintUserMessages: [BTT_PrintText_C_4] No veo un objeto
+[2021.04.09-13.02.02:054][858]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.09-13.02.02:054][858]LogWorld: BeginTearingDown for /Game/TFG/Miguel/Levels/UEDPIE_0_NivelPruebaMiguel
+[2021.04.09-13.02.02:054][858]LogSlate: Window 'TFG_V1 Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2021.04.09-13.02.02:059][858]LogWorld: UWorld::CleanupWorld for NivelPruebaMiguel, bSessionEnded=true, bCleanupResources=true
+[2021.04.09-13.02.02:060][858]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.09-13.02.02:074][858]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.04.09-13.02.02:112][858]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.09-13.02.02:146][858]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.04.09-13.02.02:147][858]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.04.09-13.02.02:148][858]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.04.09-13.02.02:169][858]LogUObjectHash: Compacting FUObjectHashTables data took   3.41ms
+[2021.04.09-13.02.02:212][859]LogPlayLevel: Display: Destroying online subsystem :Context_10
+[2021.04.09-13.02.17:856][786]LogSavePackage: Moving '../../../../../../Users/xmigu/Desktop/TFG/TFG/TFG_V1/Saved/BT_IALocoA87B2626416913FD840D5E94FB6050BE.tmp' to '../../../../../../Users/xmigu/Desktop/TFG/TFG/TFG_V1/Content/TFG/Miguel/IA/IA_Loco/BehaviourTrees/BT_IALoco.uasset'
+[2021.04.09-13.02.17:868][786]AssetCheck: New page: Asset Save: BT_IALoco
+[2021.04.09-13.02.17:868][786]LogContentValidation: Display: Validating BehaviorTree /Game/TFG/Miguel/IA/IA_Loco/BehaviourTrees/BT_IALoco.BT_IALoco
+[2021.04.09-13.02.20:618][951]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2021.04.09-13.02.20:628][951]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.04.09-13.02.20:628][951]PIE: New page: PIE session: NivelPruebaMiguel (9 abr. 2021 17:02:20)
+[2021.04.09-13.02.20:628][951]LogPlayLevel: Creating play world package: /Game/TFG/Miguel/Levels/UEDPIE_0_NivelPruebaMiguel
+[2021.04.09-13.02.20:638][951]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009740s)
+[2021.04.09-13.02.20:638][951]LogAIModule: Creating AISystem for world NivelPruebaMiguel
+[2021.04.09-13.02.20:638][951]LogPlayLevel: PIE: World Init took: (0.001069s)
+[2021.04.09-13.02.20:638][951]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TFG/Miguel/Levels/NivelPruebaMiguel.NivelPruebaMiguel to /Game/TFG/Miguel/Levels/UEDPIE_0_NivelPruebaMiguel.NivelPruebaMiguel (0.010917s)
+[2021.04.09-13.02.20:673][951]LogUObjectHash: Compacting FUObjectHashTables data took   3.24ms
+[2021.04.09-13.02.20:676][951]LogAudio: Display: Creating Audio Device:                 Id: 5, Scope: Unique, Realtime: True
+[2021.04.09-13.02.20:676][951]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.04.09-13.02.20:676][951]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.04.09-13.02.20:676][951]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.04.09-13.02.20:676][951]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.04.09-13.02.20:676][951]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.04.09-13.02.20:676][951]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.04.09-13.02.20:676][951]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.04.09-13.02.20:676][951]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.04.09-13.02.20:676][951]LogAudio: Display: Using built-in audio occlusion.
+[2021.04.09-13.02.20:676][951]LogAudioMixer: Display: Initializing audio mixer.
+[2021.04.09-13.02.20:679][951]LogAudioMixer: Display: 0: FrontLeft
+[2021.04.09-13.02.20:679][951]LogAudioMixer: Display: 1: FrontRight
+[2021.04.09-13.02.20:687][951]LogAudioMixer: Display: Using Audio Device VS278 (NVIDIA High Definition Audio)
+[2021.04.09-13.02.20:687][951]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.04.09-13.02.20:687][951]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.04.09-13.02.20:688][951]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.04.09-13.02.20:688][951]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.04.09-13.02.20:688][951]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.04.09-13.02.20:688][951]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.04.09-13.02.20:702][951]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.04.09-13.02.20:702][951]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.04.09-13.02.20:702][951]LogInit: FAudioDevice initialized.
+[2021.04.09-13.02.20:702][951]LogAudio: Display: Audio Device (ID: 5) registered with world 'NivelPruebaMiguel'.
+[2021.04.09-13.02.20:724][951]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.09-13.02.20:724][951]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2021.04.09-13.02.20:726][951]LogWorld: Bringing World /Game/TFG/Miguel/Levels/UEDPIE_0_NivelPruebaMiguel.NivelPruebaMiguel up for play (max tick rate 60) at 2021.04.09-15.02.20
+[2021.04.09-13.02.20:728][951]LogWorld: Bringing up level for play took: 0.003873
+[2021.04.09-13.02.20:729][951]LogOnline: OSS: Creating online subsystem instance for: :Context_11
+[2021.04.09-13.02.20:733][951]PIE: Server logged in
+[2021.04.09-13.02.20:735][951]PIE: Play in editor total start time 0,112 seconds.
+[2021.04.09-13.02.34:561][774]LogBlueprintUserMessages: [BTT_PrintText_C_4] No veo un objeto
+[2021.04.09-13.02.40:778][147]LogBlueprintUserMessages: [BTS_BuscaAlJugador_C_0] Busco al jugador
+[2021.04.09-13.02.46:428][486]LogBlueprintUserMessages: [BTT_PrintText_C_5] Digo frase buscando al jugador
+[2021.04.09-13.02.49:544][673]LogBlueprintUserMessages: [BTT_PrintText_C_5] Digo frase buscando al jugador
+[2021.04.09-13.02.52:662][860]LogBlueprintUserMessages: [BTT_PrintText_C_5] Digo frase buscando al jugador
+[2021.04.09-13.02.52:945][877]LogBlueprintUserMessages: [BTT_PrintText_C_6] Digo frase de que escucho algo
+[2021.04.09-13.03.21:684][569]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.09-13.03.21:684][569]LogWorld: BeginTearingDown for /Game/TFG/Miguel/Levels/UEDPIE_0_NivelPruebaMiguel
+[2021.04.09-13.03.21:684][569]LogSlate: Window 'TFG_V1 Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2021.04.09-13.03.21:687][569]LogWorld: UWorld::CleanupWorld for NivelPruebaMiguel, bSessionEnded=true, bCleanupResources=true
+[2021.04.09-13.03.21:688][569]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.09-13.03.21:694][569]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.04.09-13.03.21:732][569]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.09-13.03.21:767][569]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.04.09-13.03.21:768][569]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.04.09-13.03.21:768][569]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.04.09-13.03.21:791][569]LogUObjectHash: Compacting FUObjectHashTables data took   3.43ms
+[2021.04.09-13.03.21:833][570]LogPlayLevel: Display: Destroying online subsystem :Context_11
+[2021.04.09-13.03.52:859][421]LogSavePackage: Moving '../../../../../../Users/xmigu/Desktop/TFG/TFG/TFG_V1/Saved/BT_IALoco33855AC8446C41101F37A2A2E57EB7C3.tmp' to '../../../../../../Users/xmigu/Desktop/TFG/TFG/TFG_V1/Content/TFG/Miguel/IA/IA_Loco/BehaviourTrees/BT_IALoco.uasset'
+[2021.04.09-13.03.52:871][421]AssetCheck: New page: Asset Save: BT_IALoco
+[2021.04.09-13.03.52:871][421]LogContentValidation: Display: Validating BehaviorTree /Game/TFG/Miguel/IA/IA_Loco/BehaviourTrees/BT_IALoco.BT_IALoco
+[2021.04.09-13.03.56:576][642]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2021.04.09-13.03.56:586][642]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.04.09-13.03.56:586][642]PIE: New page: PIE session: NivelPruebaMiguel (9 abr. 2021 17:03:56)
+[2021.04.09-13.03.56:586][642]LogPlayLevel: Creating play world package: /Game/TFG/Miguel/Levels/UEDPIE_0_NivelPruebaMiguel
+[2021.04.09-13.03.56:596][642]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010386s)
+[2021.04.09-13.03.56:597][642]LogAIModule: Creating AISystem for world NivelPruebaMiguel
+[2021.04.09-13.03.56:597][642]LogPlayLevel: PIE: World Init took: (0.001022s)
+[2021.04.09-13.03.56:597][642]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TFG/Miguel/Levels/NivelPruebaMiguel.NivelPruebaMiguel to /Game/TFG/Miguel/Levels/UEDPIE_0_NivelPruebaMiguel.NivelPruebaMiguel (0.011521s)
+[2021.04.09-13.03.56:633][642]LogUObjectHash: Compacting FUObjectHashTables data took   3.48ms
+[2021.04.09-13.03.56:636][642]LogAudio: Display: Creating Audio Device:                 Id: 6, Scope: Unique, Realtime: True
+[2021.04.09-13.03.56:636][642]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.04.09-13.03.56:636][642]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.04.09-13.03.56:636][642]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.04.09-13.03.56:636][642]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.04.09-13.03.56:636][642]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.04.09-13.03.56:636][642]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.04.09-13.03.56:636][642]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.04.09-13.03.56:636][642]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.04.09-13.03.56:636][642]LogAudio: Display: Using built-in audio occlusion.
+[2021.04.09-13.03.56:637][642]LogAudioMixer: Display: Initializing audio mixer.
+[2021.04.09-13.03.56:639][642]LogAudioMixer: Display: 0: FrontLeft
+[2021.04.09-13.03.56:639][642]LogAudioMixer: Display: 1: FrontRight
+[2021.04.09-13.03.56:647][642]LogAudioMixer: Display: Using Audio Device VS278 (NVIDIA High Definition Audio)
+[2021.04.09-13.03.56:647][642]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.04.09-13.03.56:647][642]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.04.09-13.03.56:647][642]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.04.09-13.03.56:648][642]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.04.09-13.03.56:648][642]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.04.09-13.03.56:648][642]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.04.09-13.03.56:661][642]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.04.09-13.03.56:661][642]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.04.09-13.03.56:661][642]LogInit: FAudioDevice initialized.
+[2021.04.09-13.03.56:661][642]LogAudio: Display: Audio Device (ID: 6) registered with world 'NivelPruebaMiguel'.
+[2021.04.09-13.03.56:683][642]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.09-13.03.56:684][642]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2021.04.09-13.03.56:685][642]LogWorld: Bringing World /Game/TFG/Miguel/Levels/UEDPIE_0_NivelPruebaMiguel.NivelPruebaMiguel up for play (max tick rate 60) at 2021.04.09-15.03.56
+[2021.04.09-13.03.56:688][642]LogWorld: Bringing up level for play took: 0.003581
+[2021.04.09-13.03.56:688][642]LogOnline: OSS: Creating online subsystem instance for: :Context_12
+[2021.04.09-13.03.56:693][642]PIE: Server logged in
+[2021.04.09-13.03.56:694][642]PIE: Play in editor total start time 0,113 seconds.
+[2021.04.09-13.04.10:330][455]LogBlueprintUserMessages: [BTT_PrintText_C_4] No veo un objeto
+[2021.04.09-13.04.16:696][837]LogBlueprintUserMessages: [BTS_BuscaAlJugador_C_0] Busco al jugador
+[2021.04.09-13.04.20:046][ 38]LogBlueprintUserMessages: [BTT_PrintText_C_5] Digo frase buscando al jugador
+[2021.04.09-13.04.25:814][384]LogBlueprintUserMessages: [BTT_PrintText_C_5] Digo frase buscando al jugador
+[2021.04.09-13.04.27:563][489]LogBlueprintUserMessages: [BTT_PrintText_C_6] Digo frase de que escucho algo
+[2021.04.09-13.04.31:963][753]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'DialogosTarea' of length 0 in '/Game/TFG/Miguel/IA/IA_Loco/IA_Loco.IA_Loco_C'!
+[2021.04.09-13.04.48:214][701]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.09-13.04.48:214][701]LogWorld: BeginTearingDown for /Game/TFG/Miguel/Levels/UEDPIE_0_NivelPruebaMiguel
+[2021.04.09-13.04.48:214][701]LogSlate: Window 'TFG_V1 Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2021.04.09-13.04.48:217][701]LogWorld: UWorld::CleanupWorld for NivelPruebaMiguel, bSessionEnded=true, bCleanupResources=true
+[2021.04.09-13.04.48:217][701]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.09-13.04.48:228][701]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.04.09-13.04.48:265][701]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.09-13.04.48:299][701]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.04.09-13.04.48:299][701]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.04.09-13.04.48:300][701]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.04.09-13.04.48:322][701]LogUObjectHash: Compacting FUObjectHashTables data took   3.42ms
+[2021.04.09-13.04.48:364][702]LogPlayLevel: Display: Destroying online subsystem :Context_12
+[2021.04.09-13.05.08:851][918]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2021.04.09-13.05.08:862][918]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.04.09-13.05.08:862][918]PIE: New page: PIE session: NivelPruebaMiguel (9 abr. 2021 17:05:08)
+[2021.04.09-13.05.08:862][918]LogPlayLevel: Creating play world package: /Game/TFG/Miguel/Levels/UEDPIE_0_NivelPruebaMiguel
+[2021.04.09-13.05.08:872][918]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010412s)
+[2021.04.09-13.05.08:873][918]LogAIModule: Creating AISystem for world NivelPruebaMiguel
+[2021.04.09-13.05.08:873][918]LogPlayLevel: PIE: World Init took: (0.000981s)
+[2021.04.09-13.05.08:873][918]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TFG/Miguel/Levels/NivelPruebaMiguel.NivelPruebaMiguel to /Game/TFG/Miguel/Levels/UEDPIE_0_NivelPruebaMiguel.NivelPruebaMiguel (0.011510s)
+[2021.04.09-13.05.08:910][918]LogUObjectHash: Compacting FUObjectHashTables data took   3.83ms
+[2021.04.09-13.05.08:913][918]LogAudio: Display: Creating Audio Device:                 Id: 7, Scope: Unique, Realtime: True
+[2021.04.09-13.05.08:913][918]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.04.09-13.05.08:913][918]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.04.09-13.05.08:913][918]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.04.09-13.05.08:913][918]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.04.09-13.05.08:913][918]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.04.09-13.05.08:913][918]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.04.09-13.05.08:913][918]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.04.09-13.05.08:913][918]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.04.09-13.05.08:913][918]LogAudio: Display: Using built-in audio occlusion.
+[2021.04.09-13.05.08:913][918]LogAudioMixer: Display: Initializing audio mixer.
+[2021.04.09-13.05.08:916][918]LogAudioMixer: Display: 0: FrontLeft
+[2021.04.09-13.05.08:916][918]LogAudioMixer: Display: 1: FrontRight
+[2021.04.09-13.05.08:924][918]LogAudioMixer: Display: Using Audio Device VS278 (NVIDIA High Definition Audio)
+[2021.04.09-13.05.08:924][918]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.04.09-13.05.08:924][918]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.04.09-13.05.08:924][918]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.04.09-13.05.08:924][918]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.04.09-13.05.08:924][918]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.04.09-13.05.08:924][918]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.04.09-13.05.08:940][918]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.04.09-13.05.08:940][918]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.04.09-13.05.08:940][918]LogInit: FAudioDevice initialized.
+[2021.04.09-13.05.08:940][918]LogAudio: Display: Audio Device (ID: 7) registered with world 'NivelPruebaMiguel'.
+[2021.04.09-13.05.08:968][918]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.09-13.05.08:969][918]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2021.04.09-13.05.08:971][918]LogWorld: Bringing World /Game/TFG/Miguel/Levels/UEDPIE_0_NivelPruebaMiguel.NivelPruebaMiguel up for play (max tick rate 60) at 2021.04.09-15.05.08
+[2021.04.09-13.05.08:973][918]LogWorld: Bringing up level for play took: 0.003498
+[2021.04.09-13.05.08:973][918]LogOnline: OSS: Creating online subsystem instance for: :Context_13
+[2021.04.09-13.05.08:977][918]PIE: Server logged in
+[2021.04.09-13.05.08:979][918]PIE: Play in editor total start time 0,123 seconds.
+[2021.04.09-13.05.22:746][739]LogBlueprintUserMessages: [BTT_PrintText_C_4] No veo un objeto
+[2021.04.09-13.05.29:030][116]LogBlueprintUserMessages: [BTS_BuscaAlJugador_C_0] Busco al jugador
+[2021.04.09-13.05.30:296][192]LogBlueprintUserMessages: [BTT_PrintText_C_6] Digo frase de que escucho algo
+[2021.04.09-13.05.35:029][476]LogBlueprintDebug: Warning: Hit breakpoint on node 'K2Node_IfThenElse', from offset 64
+[2021.04.09-13.05.35:029][476]LogBlueprintDebug: 
+Script call stack:
+	Function /Game/TFG/Miguel/IA/IA_Loco/Task/BTT_SayDialogue.BTT_SayDialogue_C:ReceiveExecuteAI
+	Function /Game/TFG/Miguel/IA/IA_Loco/Task/BTT_SayDialogue.BTT_SayDialogue_C:ExecuteUbergraph_BTT_SayDialogue
+
+[2021.04.09-13.05.43:186][476]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'DialogosTarea' of length 0 in '/Game/TFG/Miguel/IA/IA_Loco/IA_Loco.IA_Loco_C'!
+[2021.04.09-13.05.43:187][476]LogBlueprintDebug: Warning: Hit breakpoint on node 'K2Node_GetDataTableRow', from offset 240
+[2021.04.09-13.05.43:187][476]LogBlueprintDebug: 
+Script call stack:
+	Function /Game/TFG/Miguel/IA/IA_Loco/Task/BTT_SayDialogue.BTT_SayDialogue_C:ReceiveExecuteAI
+	Function /Game/TFG/Miguel/IA/IA_Loco/Task/BTT_SayDialogue.BTT_SayDialogue_C:ExecuteUbergraph_BTT_SayDialogue
+
+[2021.04.09-13.05.50:763][857]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.09-13.05.50:763][857]LogWorld: BeginTearingDown for /Game/TFG/Miguel/Levels/UEDPIE_0_NivelPruebaMiguel
+[2021.04.09-13.05.50:763][857]LogSlate: Window 'TFG_V1 Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2021.04.09-13.05.50:766][857]LogWorld: UWorld::CleanupWorld for NivelPruebaMiguel, bSessionEnded=true, bCleanupResources=true
+[2021.04.09-13.05.50:767][857]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.09-13.05.50:780][857]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.04.09-13.05.50:817][857]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.09-13.05.50:854][857]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.04.09-13.05.50:854][857]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.04.09-13.05.50:855][857]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.04.09-13.05.50:878][857]LogUObjectHash: Compacting FUObjectHashTables data took   3.51ms
+[2021.04.09-13.05.50:922][858]LogPlayLevel: Display: Destroying online subsystem :Context_13
+[2021.04.09-13.06.02:557][541]BlueprintLog: New page: Compile BTT_SayDialogue
+[2021.04.09-13.06.02:619][541]LogUObjectHash: Compacting FUObjectHashTables data took   3.49ms
+[2021.04.09-13.06.03:049][563]LogSavePackage: Moving '../../../../../../Users/xmigu/Desktop/TFG/TFG/TFG_V1/Saved/BTT_SayDialogue7E44FE23411BD88DA757EBB47C59555F.tmp' to '../../../../../../Users/xmigu/Desktop/TFG/TFG/TFG_V1/Content/TFG/Miguel/IA/IA_Loco/Task/BTT_SayDialogue.uasset'
+[2021.04.09-13.06.03:062][563]AssetCheck: New page: Asset Save: BTT_SayDialogue
+[2021.04.09-13.06.03:062][563]LogContentValidation: Display: Validating Blueprint /Game/TFG/Miguel/IA/IA_Loco/Task/BTT_SayDialogue.BTT_SayDialogue
+[2021.04.09-13.06.04:542][652]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2021.04.09-13.06.04:552][652]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.04.09-13.06.04:552][652]PIE: New page: PIE session: NivelPruebaMiguel (9 abr. 2021 17:06:04)
+[2021.04.09-13.06.04:590][652]LogPlayLevel: Creating play world package: /Game/TFG/Miguel/Levels/UEDPIE_0_NivelPruebaMiguel
+[2021.04.09-13.06.04:608][652]LogPlayLevel: PIE: StaticDuplicateObject took: (0.018268s)
+[2021.04.09-13.06.04:609][652]LogAIModule: Creating AISystem for world NivelPruebaMiguel
+[2021.04.09-13.06.04:609][652]LogPlayLevel: PIE: World Init took: (0.000963s)
+[2021.04.09-13.06.04:609][652]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TFG/Miguel/Levels/NivelPruebaMiguel.NivelPruebaMiguel to /Game/TFG/Miguel/Levels/UEDPIE_0_NivelPruebaMiguel.NivelPruebaMiguel (0.019481s)
+[2021.04.09-13.06.04:646][652]LogUObjectHash: Compacting FUObjectHashTables data took   4.68ms
+[2021.04.09-13.06.04:648][652]LogAudio: Display: Creating Audio Device:                 Id: 8, Scope: Unique, Realtime: True
+[2021.04.09-13.06.04:648][652]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.04.09-13.06.04:648][652]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.04.09-13.06.04:648][652]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.04.09-13.06.04:648][652]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.04.09-13.06.04:648][652]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.04.09-13.06.04:648][652]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.04.09-13.06.04:648][652]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.04.09-13.06.04:648][652]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.04.09-13.06.04:648][652]LogAudio: Display: Using built-in audio occlusion.
+[2021.04.09-13.06.04:648][652]LogAudioMixer: Display: Initializing audio mixer.
+[2021.04.09-13.06.04:651][652]LogAudioMixer: Display: 0: FrontLeft
+[2021.04.09-13.06.04:651][652]LogAudioMixer: Display: 1: FrontRight
+[2021.04.09-13.06.04:659][652]LogAudioMixer: Display: Using Audio Device VS278 (NVIDIA High Definition Audio)
+[2021.04.09-13.06.04:659][652]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.04.09-13.06.04:659][652]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.04.09-13.06.04:659][652]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.04.09-13.06.04:659][652]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.04.09-13.06.04:659][652]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.04.09-13.06.04:659][652]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.04.09-13.06.04:674][652]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.04.09-13.06.04:674][652]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.04.09-13.06.04:674][652]LogInit: FAudioDevice initialized.
+[2021.04.09-13.06.04:674][652]LogAudio: Display: Audio Device (ID: 8) registered with world 'NivelPruebaMiguel'.
+[2021.04.09-13.06.04:703][652]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.09-13.06.04:703][652]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2021.04.09-13.06.04:705][652]LogWorld: Bringing World /Game/TFG/Miguel/Levels/UEDPIE_0_NivelPruebaMiguel.NivelPruebaMiguel up for play (max tick rate 60) at 2021.04.09-15.06.04
+[2021.04.09-13.06.04:707][652]LogWorld: Bringing up level for play took: 0.003627
+[2021.04.09-13.06.04:708][652]LogOnline: OSS: Creating online subsystem instance for: :Context_14
+[2021.04.09-13.06.04:712][652]PIE: Server logged in
+[2021.04.09-13.06.04:713][652]PIE: Play in editor total start time 0,166 seconds.
+[2021.04.09-13.06.06:883][774]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.09-13.06.06:883][774]LogWorld: BeginTearingDown for /Game/TFG/Miguel/Levels/UEDPIE_0_NivelPruebaMiguel
+[2021.04.09-13.06.06:884][774]LogSlate: Window 'TFG_V1 Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2021.04.09-13.06.06:891][774]LogWorld: UWorld::CleanupWorld for NivelPruebaMiguel, bSessionEnded=true, bCleanupResources=true
+[2021.04.09-13.06.06:891][774]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.09-13.06.06:904][774]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.04.09-13.06.06:941][774]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.09-13.06.06:977][774]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.04.09-13.06.06:977][774]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.04.09-13.06.06:978][774]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.04.09-13.06.07:001][774]LogUObjectHash: Compacting FUObjectHashTables data took   3.71ms
+[2021.04.09-13.06.07:043][775]LogPlayLevel: Display: Destroying online subsystem :Context_14
+[2021.04.09-13.06.16:875][363]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2021.04.09-13.06.16:885][363]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.04.09-13.06.16:885][363]PIE: New page: PIE session: NivelPruebaMiguel (9 abr. 2021 17:06:16)
+[2021.04.09-13.06.16:885][363]LogPlayLevel: Creating play world package: /Game/TFG/Miguel/Levels/UEDPIE_0_NivelPruebaMiguel
+[2021.04.09-13.06.16:896][363]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010558s)
+[2021.04.09-13.06.16:897][363]LogAIModule: Creating AISystem for world NivelPruebaMiguel
+[2021.04.09-13.06.16:897][363]LogPlayLevel: PIE: World Init took: (0.001049s)
+[2021.04.09-13.06.16:897][363]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TFG/Miguel/Levels/NivelPruebaMiguel.NivelPruebaMiguel to /Game/TFG/Miguel/Levels/UEDPIE_0_NivelPruebaMiguel.NivelPruebaMiguel (0.011732s)
+[2021.04.09-13.06.16:933][363]LogUObjectHash: Compacting FUObjectHashTables data took   3.34ms
+[2021.04.09-13.06.16:935][363]LogAudio: Display: Creating Audio Device:                 Id: 9, Scope: Unique, Realtime: True
+[2021.04.09-13.06.16:935][363]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.04.09-13.06.16:935][363]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.04.09-13.06.16:935][363]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.04.09-13.06.16:935][363]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.04.09-13.06.16:935][363]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.04.09-13.06.16:935][363]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.04.09-13.06.16:935][363]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.04.09-13.06.16:935][363]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.04.09-13.06.16:936][363]LogAudio: Display: Using built-in audio occlusion.
+[2021.04.09-13.06.16:936][363]LogAudioMixer: Display: Initializing audio mixer.
+[2021.04.09-13.06.16:938][363]LogAudioMixer: Display: 0: FrontLeft
+[2021.04.09-13.06.16:938][363]LogAudioMixer: Display: 1: FrontRight
+[2021.04.09-13.06.16:946][363]LogAudioMixer: Display: Using Audio Device VS278 (NVIDIA High Definition Audio)
+[2021.04.09-13.06.16:946][363]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.04.09-13.06.16:946][363]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.04.09-13.06.16:946][363]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.04.09-13.06.16:947][363]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.04.09-13.06.16:947][363]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.04.09-13.06.16:947][363]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.04.09-13.06.16:961][363]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.04.09-13.06.16:961][363]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.04.09-13.06.16:961][363]LogInit: FAudioDevice initialized.
+[2021.04.09-13.06.16:961][363]LogAudio: Display: Audio Device (ID: 9) registered with world 'NivelPruebaMiguel'.
+[2021.04.09-13.06.16:983][363]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.09-13.06.16:983][363]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2021.04.09-13.06.16:985][363]LogWorld: Bringing World /Game/TFG/Miguel/Levels/UEDPIE_0_NivelPruebaMiguel.NivelPruebaMiguel up for play (max tick rate 60) at 2021.04.09-15.06.16
+[2021.04.09-13.06.16:987][363]LogWorld: Bringing up level for play took: 0.003664
+[2021.04.09-13.06.16:987][363]LogOnline: OSS: Creating online subsystem instance for: :Context_15
+[2021.04.09-13.06.16:992][363]PIE: Server logged in
+[2021.04.09-13.06.16:995][363]PIE: Play in editor total start time 0,114 seconds.
+[2021.04.09-13.06.30:553][169]LogBlueprintUserMessages: [BTT_PrintText_C_4] No veo un objeto
+[2021.04.09-13.06.36:987][555]LogBlueprintUserMessages: [BTS_BuscaAlJugador_C_0] Busco al jugador
+[2021.04.09-13.06.38:104][622]LogBlueprintUserMessages: [BTT_PrintText_C_6] Digo frase de que escucho algo
+[2021.04.09-13.06.43:736][960]LogBlueprintDebug: Warning: Hit breakpoint on node 'K2Node_IfThenElse', from offset 130
+[2021.04.09-13.06.43:736][960]LogBlueprintDebug: 
+Script call stack:
+	Function /Game/TFG/Miguel/IA/IA_Loco/Task/BTT_SayDialogue.BTT_SayDialogue_C:ReceiveExecuteAI
+	Function /Game/TFG/Miguel/IA/IA_Loco/Task/BTT_SayDialogue.BTT_SayDialogue_C:ExecuteUbergraph_BTT_SayDialogue
+
+[2021.04.09-13.06.47:526][960]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'DialogosTarea' of length 0 in '/Game/TFG/Miguel/IA/IA_Loco/IA_Loco.IA_Loco_C'!
+[2021.04.09-13.06.51:002][960]LogBlueprintUserMessages: [BTT_SayKeyObjectLine_C_1] Hello
+[2021.04.09-13.06.51:764][  4]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.09-13.06.51:764][  4]LogWorld: BeginTearingDown for /Game/TFG/Miguel/Levels/UEDPIE_0_NivelPruebaMiguel
+[2021.04.09-13.06.51:764][  4]LogSlate: Window 'TFG_V1 Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2021.04.09-13.06.51:767][  4]LogWorld: UWorld::CleanupWorld for NivelPruebaMiguel, bSessionEnded=true, bCleanupResources=true
+[2021.04.09-13.06.51:767][  4]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.09-13.06.51:780][  4]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.04.09-13.06.51:792][  4]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.09-13.06.51:827][  4]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.04.09-13.06.51:827][  4]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.04.09-13.06.51:828][  4]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.04.09-13.06.51:850][  4]LogUObjectHash: Compacting FUObjectHashTables data took   3.71ms
+[2021.04.09-13.06.51:885][  5]LogPlayLevel: Display: Destroying online subsystem :Context_15
+[2021.04.09-13.06.56:862][207]LogSlate: Window 'Message Log' being destroyed
+[2021.04.09-13.06.56:867][207]LogSlate: Window 'Message Log' being destroyed
+[2021.04.09-13.07.25:107][884]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2021.04.09-13.07.25:107][884]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.09-13.08.15:298][866]BlueprintLog: New page: Compile IA_Loco
+[2021.04.09-13.08.15:370][866]LogUObjectHash: Compacting FUObjectHashTables data took   3.57ms
+[2021.04.09-13.08.16:043][898]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TFG/Miguel/IA/IA_Loco/IA_Loco" FILE="../../../../../../Users/xmigu/Desktop/TFG/TFG/TFG_V1/Content/TFG/Miguel/IA/IA_Loco/IA_Loco.uasset" SILENT=true
+[2021.04.09-13.08.16:087][898]LogSavePackage: Moving '../../../../../../Users/xmigu/Desktop/TFG/TFG/TFG_V1/Saved/IA_Loco2AFFC2E549A37966BBA71392FE68AFD6.tmp' to '../../../../../../Users/xmigu/Desktop/TFG/TFG/TFG_V1/Content/TFG/Miguel/IA/IA_Loco/IA_Loco.uasset'
+[2021.04.09-13.08.16:102][898]AssetCheck: New page: Asset Save: IA_Loco
+[2021.04.09-13.08.16:102][898]LogContentValidation: Display: Validating Blueprint /Game/TFG/Miguel/IA/IA_Loco/IA_Loco.IA_Loco
+[2021.04.09-13.08.17:138][960]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2021.04.09-13.08.17:146][960]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.04.09-13.08.17:147][960]PIE: New page: PIE session: NivelPruebaMiguel (9 abr. 2021 17:08:17)
+[2021.04.09-13.08.17:147][960]LogPlayLevel: Creating play world package: /Game/TFG/Miguel/Levels/UEDPIE_0_NivelPruebaMiguel
+[2021.04.09-13.08.17:158][960]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010894s)
+[2021.04.09-13.08.17:159][960]LogAIModule: Creating AISystem for world NivelPruebaMiguel
+[2021.04.09-13.08.17:159][960]LogPlayLevel: PIE: World Init took: (0.001182s)
+[2021.04.09-13.08.17:159][960]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TFG/Miguel/Levels/NivelPruebaMiguel.NivelPruebaMiguel to /Game/TFG/Miguel/Levels/UEDPIE_0_NivelPruebaMiguel.NivelPruebaMiguel (0.012198s)
+[2021.04.09-13.08.18:469][960]LogThreadingWindows: Error: Runnable thread TaskGraphThreadNP 0 crashed.
+[2021.04.09-13.08.18:469][960]LogWindows: Error: === Critical error: ===
+[2021.04.09-13.08.18:469][960]LogWindows: Error: 
+[2021.04.09-13.08.18:469][960]LogWindows: Error: Fatal error!
+[2021.04.09-13.08.18:469][960]LogWindows: Error: 
+[2021.04.09-13.08.18:469][960]LogWindows: Error: Unhandled Exception: EXCEPTION_ACCESS_VIOLATION reading address 0xffffffffffffffff
+[2021.04.09-13.08.18:469][960]LogWindows: Error: 
+[2021.04.09-13.08.18:469][960]LogWindows: Error: [Callstack] 0x00007ffec8965973 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.04.09-13.08.18:469][960]LogWindows: Error: [Callstack] 0x00007ffec8ac3ec7 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.04.09-13.08.18:469][960]LogWindows: Error: [Callstack] 0x00007ffec895d3f6 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.04.09-13.08.18:469][960]LogWindows: Error: [Callstack] 0x00007ffec875b7cb UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.04.09-13.08.18:469][960]LogWindows: Error: [Callstack] 0x00007ffe9d1907b6 UE4Editor-Engine.dll!UnknownFunction []
+[2021.04.09-13.08.18:469][960]LogWindows: Error: [Callstack] 0x00007ffec89d637b UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.04.09-13.08.18:469][960]LogWindows: Error: [Callstack] 0x00007ffec8996d11 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.04.09-13.08.18:469][960]LogWindows: Error: [Callstack] 0x00007ffec899fb19 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.04.09-13.08.18:469][960]LogWindows: Error: [Callstack] 0x00007ffebc70df29 UE4Editor-Core.dll!UnknownFunction []
+[2021.04.09-13.08.18:469][960]LogWindows: Error: [Callstack] 0x00007ffebc70f190 UE4Editor-Core.dll!UnknownFunction []
+[2021.04.09-13.08.18:469][960]LogWindows: Error: [Callstack] 0x00007ffebc7164c5 UE4Editor-Core.dll!UnknownFunction []
+[2021.04.09-13.08.18:469][960]LogWindows: Error: [Callstack] 0x00007ffebcc689eb UE4Editor-Core.dll!UnknownFunction []
+[2021.04.09-13.08.18:469][960]LogWindows: Error: [Callstack] 0x00007ffebcc61680 UE4Editor-Core.dll!UnknownFunction []
+[2021.04.09-13.08.18:469][960]LogWindows: Error: [Callstack] 0x00007fff193f7034 KERNEL32.DLL!UnknownFunction []
+[2021.04.09-13.08.18:469][960]LogWindows: Error: [Callstack] 0x00007fff1a1e2651 ntdll.dll!UnknownFunction []
+[2021.04.09-13.08.18:469][960]LogWindows: Error: 
+[2021.04.09-13.08.18:469][960]LogWindows: Error: Crash in runnable thread TaskGraphThreadNP 0
+[2021.04.09-13.08.23:479][960]LogExit: Executing StaticShutdownAfterError
+[2021.04.09-13.08.23:479][960]LogWindows: FPlatformMisc::RequestExit(1)
+[2021.04.09-13.08.23:479][960]LogCore: Engine exit requested (reason: Win RequestExit)
+[2021.04.09-13.08.23:484][960]Log file closed, 04/09/21 15:08:23
