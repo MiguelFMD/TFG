@@ -3790,3 +3790,339 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.05.03-15.09.07:428][346]LogContentValidation: Display: Validating StaticMesh /Game/TFG/Afor/Levels/CASA/burrarrrr_TECHO.burrarrrr_TECHO
 [2021.05.03-15.09.07:428][346]LogContentValidation: Display: Validating StaticMesh /Game/TFG/Afor/Levels/CASA/burrarrrr_SUELO_SEGUNDO_PISO.burrarrrr_SUELO_SEGUNDO_PISO
 [2021.05.03-15.09.07:428][346]LogContentValidation: Display: Validating World /Game/TFG/Afor/Levels/NIVELDELSENYOR.NIVELDELSENYOR
+[2021.05.03-15.10.10:671][158]Cmd: DELETE
+[2021.05.03-15.10.10:671][158]Cmd: ACTOR DELETE
+[2021.05.03-15.10.10:681][158]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.05.03-15.10.10:698][158]LogUObjectHash: Compacting FUObjectHashTables data took   1.02ms
+[2021.05.03-15.10.10:703][158]LogEditorActor: Deleted 1 Actors (0.032 secs)
+[2021.05.03-15.10.17:169][543]Cmd: DELETE
+[2021.05.03-15.10.17:169][543]Cmd: ACTOR DELETE
+[2021.05.03-15.10.17:180][543]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.05.03-15.10.17:180][543]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.05.03-15.10.17:180][543]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.05.03-15.10.17:181][543]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.05.03-15.10.17:181][543]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.05.03-15.10.17:181][543]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.05.03-15.10.17:181][543]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.05.03-15.10.17:182][543]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.05.03-15.10.17:182][543]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.05.03-15.10.17:182][543]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.05.03-15.10.17:182][543]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.05.03-15.10.17:183][543]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.05.03-15.10.17:183][543]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.05.03-15.10.17:183][543]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.05.03-15.10.17:183][543]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.05.03-15.10.17:190][543]LogUObjectHash: Compacting FUObjectHashTables data took   0.30ms
+[2021.05.03-15.10.17:192][543]LogEditorActor: Deleted 15 Actors (0.022 secs)
+[2021.05.03-15.10.24:667][973]Cmd: TRANSACTION UNDO
+[2021.05.03-15.10.24:667][973]LogEditorTransaction: Undo Move Actors
+[2021.05.03-15.11.44:256][379]Cmd: DELETE
+[2021.05.03-15.11.44:256][379]Cmd: ACTOR DELETE
+[2021.05.03-15.11.44:262][379]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.05.03-15.11.44:262][379]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.05.03-15.11.44:263][379]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.05.03-15.11.44:263][379]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.05.03-15.11.44:270][379]LogUObjectHash: Compacting FUObjectHashTables data took   1.02ms
+[2021.05.03-15.11.44:273][379]LogEditorActor: Deleted 4 Actors (0.016 secs)
+[2021.05.03-15.11.49:805][704]Cmd: DELETE
+[2021.05.03-15.11.49:805][704]Cmd: ACTOR DELETE
+[2021.05.03-15.11.49:813][704]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.05.03-15.11.49:820][704]LogUObjectHash: Compacting FUObjectHashTables data took   0.35ms
+[2021.05.03-15.11.49:822][704]LogEditorActor: Deleted 1 Actors (0.017 secs)
+[2021.05.03-15.11.51:366][796]Cmd: DELETE
+[2021.05.03-15.11.51:366][796]Cmd: ACTOR DELETE
+[2021.05.03-15.11.51:374][796]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.05.03-15.11.51:382][796]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2021.05.03-15.11.51:384][796]LogEditorActor: Deleted 1 Actors (0.017 secs)
+[2021.05.03-15.11.53:579][926]Cmd: DELETE
+[2021.05.03-15.11.53:579][926]Cmd: ACTOR DELETE
+[2021.05.03-15.11.53:586][926]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.05.03-15.11.53:593][926]LogUObjectHash: Compacting FUObjectHashTables data took   0.35ms
+[2021.05.03-15.11.53:594][926]LogEditorActor: Deleted 1 Actors (0.015 secs)
+[2021.05.03-15.12.14:897][181]Cmd: DELETE
+[2021.05.03-15.12.14:898][181]Cmd: ACTOR DELETE
+[2021.05.03-15.12.14:905][181]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.05.03-15.12.14:912][181]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2021.05.03-15.12.14:914][181]LogEditorActor: Deleted 1 Actors (0.016 secs)
+[2021.05.03-15.12.26:511][864]Cmd: DELETE
+[2021.05.03-15.12.26:511][864]Cmd: ACTOR DELETE
+[2021.05.03-15.12.26:521][864]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.05.03-15.12.26:522][864]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.05.03-15.12.26:522][864]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.05.03-15.12.26:522][864]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.05.03-15.12.26:522][864]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.05.03-15.12.26:522][864]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.05.03-15.12.26:522][864]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.05.03-15.12.26:524][864]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.05.03-15.12.26:524][864]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.05.03-15.12.26:524][864]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.05.03-15.12.26:524][864]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.05.03-15.12.26:524][864]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.05.03-15.12.26:530][864]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.05.03-15.12.26:531][864]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.05.03-15.12.26:531][864]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.05.03-15.12.26:531][864]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.05.03-15.12.26:531][864]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.05.03-15.12.26:532][864]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.05.03-15.12.26:532][864]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.05.03-15.12.26:532][864]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.05.03-15.12.26:532][864]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.05.03-15.12.26:539][864]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2021.05.03-15.12.26:541][864]LogEditorActor: Deleted 21 Actors (0.031 secs)
+[2021.05.03-15.12.28:504][980]Cmd: DELETE
+[2021.05.03-15.12.28:504][980]Cmd: ACTOR DELETE
+[2021.05.03-15.12.28:511][980]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.05.03-15.12.28:517][980]LogUObjectHash: Compacting FUObjectHashTables data took   0.31ms
+[2021.05.03-15.12.28:518][980]LogEditorActor: Deleted 1 Actors (0.014 secs)
+[2021.05.03-15.12.33:237][252]Cmd: DELETE
+[2021.05.03-15.12.33:237][252]Cmd: ACTOR DELETE
+[2021.05.03-15.12.33:247][252]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.05.03-15.12.33:247][252]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.05.03-15.12.33:248][252]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.05.03-15.12.33:248][252]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.05.03-15.12.33:248][252]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.05.03-15.12.33:248][252]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.05.03-15.12.33:248][252]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.05.03-15.12.33:249][252]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.05.03-15.12.33:249][252]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.05.03-15.12.33:249][252]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.05.03-15.12.33:256][252]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2021.05.03-15.12.33:257][252]LogEditorActor: Deleted 10 Actors (0.020 secs)
+[2021.05.03-15.12.37:299][493]Cmd: DELETE
+[2021.05.03-15.12.37:299][493]Cmd: ACTOR DELETE
+[2021.05.03-15.12.37:308][493]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.05.03-15.12.37:308][493]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.05.03-15.12.37:308][493]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.05.03-15.12.37:309][493]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.05.03-15.12.37:315][493]LogUObjectHash: Compacting FUObjectHashTables data took   0.31ms
+[2021.05.03-15.12.37:316][493]LogEditorActor: Deleted 4 Actors (0.017 secs)
+[2021.05.03-15.12.45:069][952]Cmd: DELETE
+[2021.05.03-15.12.45:069][952]Cmd: ACTOR DELETE
+[2021.05.03-15.12.45:077][952]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.05.03-15.12.45:084][952]LogUObjectHash: Compacting FUObjectHashTables data took   0.36ms
+[2021.05.03-15.12.45:086][952]LogEditorActor: Deleted 1 Actors (0.016 secs)
+[2021.05.03-15.12.51:834][353]Cmd: DELETE
+[2021.05.03-15.12.51:834][353]Cmd: ACTOR DELETE
+[2021.05.03-15.12.51:844][353]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.05.03-15.12.51:845][353]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.05.03-15.12.51:845][353]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.05.03-15.12.51:845][353]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.05.03-15.12.51:845][353]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.05.03-15.12.51:845][353]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.05.03-15.12.51:846][353]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.05.03-15.12.51:846][353]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.05.03-15.12.51:846][353]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.05.03-15.12.51:846][353]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.05.03-15.12.51:847][353]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.05.03-15.12.51:847][353]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.05.03-15.12.51:847][353]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.05.03-15.12.51:847][353]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.05.03-15.12.51:848][353]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.05.03-15.12.51:848][353]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.05.03-15.12.51:848][353]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.05.03-15.12.51:848][353]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.05.03-15.12.51:848][353]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.05.03-15.12.51:848][353]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.05.03-15.12.51:849][353]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.05.03-15.12.51:856][353]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2021.05.03-15.12.51:860][353]LogEditorActor: Deleted 21 Actors (0.026 secs)
+[2021.05.03-15.12.54:159][489]Cmd: DELETE
+[2021.05.03-15.12.54:159][489]Cmd: ACTOR DELETE
+[2021.05.03-15.12.54:171][489]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.05.03-15.12.54:171][489]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.05.03-15.12.54:171][489]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.05.03-15.12.54:171][489]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.05.03-15.12.54:171][489]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.05.03-15.12.54:172][489]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.05.03-15.12.54:172][489]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.05.03-15.12.54:172][489]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.05.03-15.12.54:172][489]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.05.03-15.12.54:172][489]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.05.03-15.12.54:173][489]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.05.03-15.12.54:173][489]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.05.03-15.12.54:173][489]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.05.03-15.12.54:173][489]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.05.03-15.12.54:173][489]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.05.03-15.12.54:173][489]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.05.03-15.12.54:173][489]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.05.03-15.12.54:174][489]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.05.03-15.12.54:174][489]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.05.03-15.12.54:174][489]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.05.03-15.12.54:181][489]LogUObjectHash: Compacting FUObjectHashTables data took   0.32ms
+[2021.05.03-15.12.54:181][489]LogEditorActor: Deleted 20 Actors (0.022 secs)
+[2021.05.03-15.12.56:900][650]Cmd: DELETE
+[2021.05.03-15.12.56:900][650]Cmd: ACTOR DELETE
+[2021.05.03-15.12.56:908][650]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.05.03-15.12.56:908][650]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.05.03-15.12.56:908][650]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.05.03-15.12.56:908][650]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.05.03-15.12.56:909][650]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.05.03-15.12.56:909][650]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.05.03-15.12.56:909][650]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.05.03-15.12.56:909][650]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.05.03-15.12.56:909][650]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.05.03-15.12.56:909][650]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.05.03-15.12.56:909][650]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.05.03-15.12.56:910][650]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.05.03-15.12.56:919][650]LogUObjectHash: Compacting FUObjectHashTables data took   2.16ms
+[2021.05.03-15.12.56:920][650]LogEditorActor: Deleted 12 Actors (0.020 secs)
+[2021.05.03-15.13.09:045][372]Cmd: DELETE
+[2021.05.03-15.13.09:045][372]Cmd: ACTOR DELETE
+[2021.05.03-15.13.09:052][372]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.05.03-15.13.09:059][372]LogUObjectHash: Compacting FUObjectHashTables data took   0.32ms
+[2021.05.03-15.13.09:060][372]LogEditorActor: Deleted 1 Actors (0.015 secs)
+[2021.05.03-15.13.15:231][737]Cmd: DELETE
+[2021.05.03-15.13.15:231][737]Cmd: ACTOR DELETE
+[2021.05.03-15.13.15:237][737]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.05.03-15.13.15:244][737]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
+[2021.05.03-15.13.15:244][737]LogEditorActor: Deleted 1 Actors (0.014 secs)
+[2021.05.03-15.13.18:273][917]Cmd: DELETE
+[2021.05.03-15.13.18:273][917]Cmd: ACTOR DELETE
+[2021.05.03-15.13.18:280][917]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.05.03-15.13.18:287][917]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2021.05.03-15.13.18:289][917]LogEditorActor: Deleted 1 Actors (0.016 secs)
+[2021.05.03-15.13.26:600][408]Cmd: DELETE
+[2021.05.03-15.13.26:601][408]Cmd: ACTOR DELETE
+[2021.05.03-15.13.26:606][408]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.05.03-15.13.26:613][408]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2021.05.03-15.13.26:615][408]LogEditorActor: Deleted 1 Actors (0.014 secs)
+[2021.05.03-15.13.32:839][777]Cmd: DELETE
+[2021.05.03-15.13.32:839][777]Cmd: ACTOR DELETE
+[2021.05.03-15.13.32:845][777]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.05.03-15.13.32:852][777]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
+[2021.05.03-15.13.32:854][777]LogEditorActor: Deleted 1 Actors (0.015 secs)
+[2021.05.03-15.13.50:080][795]Cmd: DELETE
+[2021.05.03-15.13.50:080][795]Cmd: ACTOR DELETE
+[2021.05.03-15.13.50:087][795]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.05.03-15.13.50:094][795]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2021.05.03-15.13.50:095][795]LogEditorActor: Deleted 1 Actors (0.015 secs)
+[2021.05.03-15.13.52:976][966]Cmd: DELETE
+[2021.05.03-15.13.52:976][966]Cmd: ACTOR DELETE
+[2021.05.03-15.13.52:984][966]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.05.03-15.13.52:990][966]LogUObjectHash: Compacting FUObjectHashTables data took   0.31ms
+[2021.05.03-15.13.52:992][966]LogEditorActor: Deleted 1 Actors (0.016 secs)
+[2021.05.03-15.13.53:989][ 25]Cmd: DELETE
+[2021.05.03-15.13.53:990][ 25]Cmd: ACTOR DELETE
+[2021.05.03-15.13.53:997][ 25]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.05.03-15.13.54:004][ 25]LogUObjectHash: Compacting FUObjectHashTables data took   0.32ms
+[2021.05.03-15.13.54:005][ 25]LogEditorActor: Deleted 1 Actors (0.015 secs)
+[2021.05.03-15.13.54:707][ 66]Cmd: DELETE
+[2021.05.03-15.13.54:707][ 66]Cmd: ACTOR DELETE
+[2021.05.03-15.13.54:715][ 66]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.05.03-15.13.54:721][ 66]LogUObjectHash: Compacting FUObjectHashTables data took   0.32ms
+[2021.05.03-15.13.54:727][ 66]LogEditorActor: Deleted 1 Actors (0.020 secs)
+[2021.05.03-15.14.31:849][272]Cmd: DELETE
+[2021.05.03-15.14.31:849][272]Cmd: ACTOR DELETE
+[2021.05.03-15.14.31:853][272]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.05.03-15.14.31:861][272]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2021.05.03-15.14.31:863][272]LogEditorActor: Deleted 1 Actors (0.014 secs)
+[2021.05.03-15.14.41:192][820]Cmd: DELETE
+[2021.05.03-15.14.41:192][820]Cmd: ACTOR DELETE
+[2021.05.03-15.14.41:198][820]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.05.03-15.14.41:205][820]LogUObjectHash: Compacting FUObjectHashTables data took   0.35ms
+[2021.05.03-15.14.41:207][820]LogEditorActor: Deleted 1 Actors (0.015 secs)
+[2021.05.03-15.14.55:753][677]Cmd: DELETE
+[2021.05.03-15.14.55:754][677]Cmd: ACTOR DELETE
+[2021.05.03-15.14.55:760][677]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.05.03-15.14.55:766][677]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2021.05.03-15.14.55:768][677]LogEditorActor: Deleted 1 Actors (0.014 secs)
+[2021.05.03-15.14.56:355][712]Cmd: DELETE
+[2021.05.03-15.14.56:356][712]Cmd: ACTOR DELETE
+[2021.05.03-15.14.56:361][712]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.05.03-15.14.56:368][712]LogUObjectHash: Compacting FUObjectHashTables data took   0.31ms
+[2021.05.03-15.14.56:371][712]LogEditorActor: Deleted 1 Actors (0.015 secs)
+[2021.05.03-15.16.19:212][634]Cmd: DELETE
+[2021.05.03-15.16.19:212][634]Cmd: ACTOR DELETE
+[2021.05.03-15.16.19:216][634]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.05.03-15.16.19:223][634]LogUObjectHash: Compacting FUObjectHashTables data took   0.36ms
+[2021.05.03-15.16.19:225][634]LogEditorActor: Deleted 1 Actors (0.012 secs)
+[2021.05.03-15.16.27:038][ 97]Cmd: DELETE
+[2021.05.03-15.16.27:038][ 97]Cmd: ACTOR DELETE
+[2021.05.03-15.16.27:045][ 97]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.05.03-15.16.27:052][ 97]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2021.05.03-15.16.27:053][ 97]LogEditorActor: Deleted 1 Actors (0.014 secs)
+[2021.05.03-15.16.41:306][942]Cmd: DELETE
+[2021.05.03-15.16.41:306][942]Cmd: ACTOR DELETE
+[2021.05.03-15.16.41:312][942]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.05.03-15.16.41:320][942]LogUObjectHash: Compacting FUObjectHashTables data took   0.35ms
+[2021.05.03-15.16.41:322][942]LogEditorActor: Deleted 1 Actors (0.016 secs)
+[2021.05.03-15.16.43:759][ 87]Cmd: DELETE
+[2021.05.03-15.16.43:759][ 87]Cmd: ACTOR DELETE
+[2021.05.03-15.16.43:769][ 87]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.05.03-15.16.43:776][ 87]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2021.05.03-15.16.43:777][ 87]LogEditorActor: Deleted 1 Actors (0.018 secs)
+[2021.05.03-15.16.45:351][181]Cmd: DELETE
+[2021.05.03-15.16.45:351][181]Cmd: ACTOR DELETE
+[2021.05.03-15.16.45:357][181]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.05.03-15.16.45:364][181]LogUObjectHash: Compacting FUObjectHashTables data took   0.31ms
+[2021.05.03-15.16.45:365][181]LogEditorActor: Deleted 1 Actors (0.013 secs)
+[2021.05.03-15.16.48:137][346]Cmd: DELETE
+[2021.05.03-15.16.48:137][346]Cmd: ACTOR DELETE
+[2021.05.03-15.16.48:143][346]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.05.03-15.16.48:149][346]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2021.05.03-15.16.48:150][346]LogEditorActor: Deleted 1 Actors (0.014 secs)
+[2021.05.03-15.16.50:732][500]Cmd: DELETE
+[2021.05.03-15.16.50:733][500]Cmd: ACTOR DELETE
+[2021.05.03-15.16.50:739][500]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.05.03-15.16.50:746][500]LogUObjectHash: Compacting FUObjectHashTables data took   0.35ms
+[2021.05.03-15.16.50:747][500]LogEditorActor: Deleted 1 Actors (0.014 secs)
+[2021.05.03-15.16.53:514][664]Cmd: DELETE
+[2021.05.03-15.16.53:514][664]Cmd: ACTOR DELETE
+[2021.05.03-15.16.53:522][664]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.05.03-15.16.53:531][664]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2021.05.03-15.16.53:533][664]LogEditorActor: Deleted 1 Actors (0.018 secs)
+[2021.05.03-15.16.54:952][749]Cmd: DELETE
+[2021.05.03-15.16.54:952][749]Cmd: ACTOR DELETE
+[2021.05.03-15.16.54:958][749]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.05.03-15.16.54:965][749]LogUObjectHash: Compacting FUObjectHashTables data took   0.35ms
+[2021.05.03-15.16.54:966][749]LogEditorActor: Deleted 1 Actors (0.014 secs)
+[2021.05.03-15.16.58:448][957]Cmd: DELETE
+[2021.05.03-15.16.58:448][957]Cmd: ACTOR DELETE
+[2021.05.03-15.16.58:454][957]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.05.03-15.16.58:460][957]LogUObjectHash: Compacting FUObjectHashTables data took   0.31ms
+[2021.05.03-15.16.58:462][957]LogEditorActor: Deleted 1 Actors (0.014 secs)
+[2021.05.03-15.17.14:093][879]Cmd: DELETE
+[2021.05.03-15.17.14:094][879]Cmd: ACTOR DELETE
+[2021.05.03-15.17.14:100][879]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.05.03-15.17.14:106][879]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2021.05.03-15.17.14:109][879]LogEditorActor: Deleted 1 Actors (0.015 secs)
+[2021.05.03-15.17.18:774][156]Cmd: DELETE
+[2021.05.03-15.17.18:774][156]Cmd: ACTOR DELETE
+[2021.05.03-15.17.18:780][156]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.05.03-15.17.18:786][156]LogUObjectHash: Compacting FUObjectHashTables data took   0.31ms
+[2021.05.03-15.17.18:788][156]LogEditorActor: Deleted 1 Actors (0.014 secs)
+[2021.05.03-15.17.22:340][367]Cmd: DELETE
+[2021.05.03-15.17.22:340][367]Cmd: ACTOR DELETE
+[2021.05.03-15.17.22:346][367]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.05.03-15.17.22:353][367]LogUObjectHash: Compacting FUObjectHashTables data took   0.31ms
+[2021.05.03-15.17.22:354][367]LogEditorActor: Deleted 1 Actors (0.014 secs)
+[2021.05.03-15.18.03:860][838]Cmd: DELETE
+[2021.05.03-15.18.03:860][838]Cmd: ACTOR DELETE
+[2021.05.03-15.18.03:864][838]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.05.03-15.18.03:871][838]LogUObjectHash: Compacting FUObjectHashTables data took   0.32ms
+[2021.05.03-15.18.03:873][838]LogEditorActor: Deleted 1 Actors (0.013 secs)
+[2021.05.03-15.18.22:569][947]Cmd: DELETE
+[2021.05.03-15.18.22:569][947]Cmd: ACTOR DELETE
+[2021.05.03-15.18.22:575][947]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.05.03-15.18.22:581][947]LogUObjectHash: Compacting FUObjectHashTables data took   0.31ms
+[2021.05.03-15.18.22:582][947]LogEditorActor: Deleted 1 Actors (0.014 secs)
+[2021.05.03-15.18.44:929][275]Cmd: DELETE
+[2021.05.03-15.18.44:930][275]Cmd: ACTOR DELETE
+[2021.05.03-15.18.44:936][275]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.05.03-15.18.44:943][275]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2021.05.03-15.18.44:945][275]LogEditorActor: Deleted 1 Actors (0.015 secs)
+[2021.05.03-15.19.02:121][301]Cmd: DELETE
+[2021.05.03-15.19.02:121][301]Cmd: ACTOR DELETE
+[2021.05.03-15.19.02:124][301]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.05.03-15.19.02:131][301]LogUObjectHash: Compacting FUObjectHashTables data took   0.32ms
+[2021.05.03-15.19.02:135][301]LogEditorActor: Deleted 1 Actors (0.014 secs)
+[2021.05.03-15.19.03:427][379]Cmd: TRANSACTION UNDO
+[2021.05.03-15.19.03:428][379]LogEditorTransaction: Undo Delete Actors
+[2021.05.03-15.19.28:870][847]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TFG/Afor/Levels/NIVELDELSENYOR" FILE="../../../../GitHub/TFG/TFG_V1/Content/TFG/Afor/Levels/NIVELDELSENYOR.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.05.03-15.19.28:880][847]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2021.05.03-15.19.28:980][847]LogSavePackage: Moving '../../../../GitHub/TFG/TFG_V1/Saved/NIVELDELSENYOR32F1F80D490AA34F65C716AB5FB91619.tmp' to '../../../../GitHub/TFG/TFG_V1/Content/TFG/Afor/Levels/NIVELDELSENYOR.umap'
+[2021.05.03-15.19.29:002][847]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TFG/Afor/Levels/NIVELDELSENYOR_BuiltData" FILE="../../../../GitHub/TFG/TFG_V1/Content/TFG/Afor/Levels/NIVELDELSENYOR_BuiltData.uasset" SILENT=true
+[2021.05.03-15.19.29:012][847]LogSavePackage: Moving '../../../../GitHub/TFG/TFG_V1/Saved/NIVELDELSENYOR_BuiltData70CDB6AE47B1983DCA3FF09E80A78E8E.tmp' to '../../../../GitHub/TFG/TFG_V1/Content/TFG/Afor/Levels/NIVELDELSENYOR_BuiltData.uasset'
+[2021.05.03-15.19.29:047][847]AssetCheck: New page: Asset Save: multiple assets
+[2021.05.03-15.19.29:047][847]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/TFG/Afor/Levels/NIVELDELSENYOR_BuiltData.NIVELDELSENYOR_BuiltData
+[2021.05.03-15.19.29:047][847]LogContentValidation: Display: Validating World /Game/TFG/Afor/Levels/NIVELDELSENYOR.NIVELDELSENYOR
