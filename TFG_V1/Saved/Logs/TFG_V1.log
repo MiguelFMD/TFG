@@ -4946,3 +4946,1596 @@ Make sure 'BP_HidingPlace_C' has been compiled for  Get HidingInterface
 [2021.05.05-09.18.20:818][421]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
 [2021.05.05-09.18.23:246][553]LogWorld: UWorld::CleanupWorld for World_50, bSessionEnded=true, bCleanupResources=true
 [2021.05.05-09.18.23:246][553]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.05-09.18.50:205][771]LogUObjectHash: Compacting FUObjectHashTables data took   3.23ms
+[2021.05.05-09.18.50:246][771]LogSavePackage: Moving '../../../../../../Users/xmigu/Desktop/TFG/TFG/TFG_V1/Saved/NivelPruebaMiguel_Auto7CDF6BAD74A0E367BE4DAB19BEB4F1D72.tmp' to '../../../../../../Users/xmigu/Desktop/TFG/TFG/TFG_V1/Saved/Autosaves/Game/TFG/Miguel/Levels/NivelPruebaMiguel_Auto7.umap'
+[2021.05.05-09.18.50:248][771]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/TFG/Miguel/Levels/NivelPruebaMiguel' took 0.086
+[2021.05.05-09.18.50:248][771]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.086
+[2021.05.05-09.19.22:573][751]LogUObjectHash: Compacting FUObjectHashTables data took   2.91ms
+[2021.05.05-09.19.22:602][751]LogSavePackage: Moving '../../../../../../Users/xmigu/Desktop/TFG/TFG/TFG_V1/Saved/NivelPruebaMiguel14D28BB94046540241BC8DA782A2A6D2.tmp' to '../../../../../../Users/xmigu/Desktop/TFG/TFG/TFG_V1/Content/TFG/Miguel/Levels/NivelPruebaMiguel.umap'
+[2021.05.05-09.19.22:627][751]LogSavePackage: Moving '../../../../../../Users/xmigu/Desktop/TFG/TFG/TFG_V1/Saved/NivelPruebaMiguel_BuiltData52471A1D4C409B70F726348557E3F950.tmp' to '../../../../../../Users/xmigu/Desktop/TFG/TFG/TFG_V1/Content/TFG/Miguel/Levels/NivelPruebaMiguel_BuiltData.uasset'
+[2021.05.05-09.19.22:642][751]AssetCheck: New page: Asset Save: multiple assets
+[2021.05.05-09.19.22:642][751]LogContentValidation: Display: Validating World /Game/TFG/Miguel/Levels/NivelPruebaMiguel.NivelPruebaMiguel
+[2021.05.05-09.19.22:642][751]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/TFG/Miguel/Levels/NivelPruebaMiguel_BuiltData.NivelPruebaMiguel_BuiltData
+[2021.05.05-09.20.40:079][963]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2021.05.05-09.20.40:085][963]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.05.05-09.20.40:085][963]PIE: New page: PIE session: NivelPruebaMiguel (5 may. 2021 13:20:40)
+[2021.05.05-09.20.40:134][963]LogPlayLevel: Creating play world package: /Game/TFG/Miguel/Levels/UEDPIE_0_NivelPruebaMiguel
+[2021.05.05-09.20.40:147][963]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012584s)
+[2021.05.05-09.20.40:148][963]LogAIModule: Creating AISystem for world NivelPruebaMiguel
+[2021.05.05-09.20.40:148][963]LogPlayLevel: PIE: World Init took: (0.001096s)
+[2021.05.05-09.20.40:148][963]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TFG/Miguel/Levels/NivelPruebaMiguel.NivelPruebaMiguel to /Game/TFG/Miguel/Levels/UEDPIE_0_NivelPruebaMiguel.NivelPruebaMiguel (0.013831s)
+[2021.05.05-09.20.40:186][963]LogUObjectHash: Compacting FUObjectHashTables data took   3.18ms
+[2021.05.05-09.20.40:190][963]LogAudio: Display: Creating Audio Device:                 Id: 53, Scope: Unique, Realtime: True
+[2021.05.05-09.20.40:190][963]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.05.05-09.20.40:190][963]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.05.05-09.20.40:190][963]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.05.05-09.20.40:190][963]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.05.05-09.20.40:191][963]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.05.05-09.20.40:191][963]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.05.05-09.20.40:191][963]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.05.05-09.20.40:191][963]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.05.05-09.20.40:191][963]LogAudio: Display: Using built-in audio occlusion.
+[2021.05.05-09.20.40:191][963]LogAudioMixer: Display: Initializing audio mixer.
+[2021.05.05-09.20.40:194][963]LogAudioMixer: Display: 0: FrontLeft
+[2021.05.05-09.20.40:194][963]LogAudioMixer: Display: 1: FrontRight
+[2021.05.05-09.20.40:201][963]LogAudioMixer: Display: Using Audio Device VS278 (NVIDIA High Definition Audio)
+[2021.05.05-09.20.40:202][963]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.05.05-09.20.40:202][963]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.05.05-09.20.40:202][963]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.05.05-09.20.40:202][963]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.05.05-09.20.40:202][963]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.05.05-09.20.40:202][963]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.05.05-09.20.40:216][963]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.05.05-09.20.40:216][963]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.05.05-09.20.40:216][963]LogInit: FAudioDevice initialized.
+[2021.05.05-09.20.40:216][963]LogAudio: Display: Audio Device (ID: 53) registered with world 'NivelPruebaMiguel'.
+[2021.05.05-09.20.40:263][963]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.05-09.20.40:263][963]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2021.05.05-09.20.40:265][963]LogWorld: Bringing World /Game/TFG/Miguel/Levels/UEDPIE_0_NivelPruebaMiguel.NivelPruebaMiguel up for play (max tick rate 60) at 2021.05.05-11.20.40
+[2021.05.05-09.20.40:269][963]LogWorld: Bringing up level for play took: 0.005527
+[2021.05.05-09.20.40:269][963]LogOnline: OSS: Creating online subsystem instance for: :Context_88
+[2021.05.05-09.20.40:276][963]PIE: Server logged in
+[2021.05.05-09.20.40:278][963]PIE: Play in editor total start time 0,194 seconds.
+[2021.05.05-09.20.47:554][395]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.05-09.20.47:554][395]LogWorld: BeginTearingDown for /Game/TFG/Miguel/Levels/UEDPIE_0_NivelPruebaMiguel
+[2021.05.05-09.20.47:555][395]LogSlate: Window 'TFG_V1 Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2021.05.05-09.20.47:562][395]LogWorld: UWorld::CleanupWorld for NivelPruebaMiguel, bSessionEnded=true, bCleanupResources=true
+[2021.05.05-09.20.47:562][395]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.05-09.20.47:578][395]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.05.05-09.20.47:624][395]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.05-09.20.47:659][395]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.05.05-09.20.47:660][395]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.05.05-09.20.47:683][395]LogUObjectHash: Compacting FUObjectHashTables data took   3.05ms
+[2021.05.05-09.20.47:750][396]LogPlayLevel: Display: Destroying online subsystem :Context_88
+[2021.05.05-09.31.28:413][ 16]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2021.05.05-09.31.28:419][ 16]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.05.05-09.31.28:419][ 16]PIE: New page: PIE session: NivelPruebaMiguel (5 may. 2021 13:31:28)
+[2021.05.05-09.31.28:419][ 16]LogPlayLevel: Creating play world package: /Game/TFG/Miguel/Levels/UEDPIE_0_NivelPruebaMiguel
+[2021.05.05-09.31.28:431][ 16]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011751s)
+[2021.05.05-09.31.28:432][ 16]LogAIModule: Creating AISystem for world NivelPruebaMiguel
+[2021.05.05-09.31.28:432][ 16]LogPlayLevel: PIE: World Init took: (0.000997s)
+[2021.05.05-09.31.28:432][ 16]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TFG/Miguel/Levels/NivelPruebaMiguel.NivelPruebaMiguel to /Game/TFG/Miguel/Levels/UEDPIE_0_NivelPruebaMiguel.NivelPruebaMiguel (0.012866s)
+[2021.05.05-09.31.28:471][ 16]LogUObjectHash: Compacting FUObjectHashTables data took   3.08ms
+[2021.05.05-09.31.28:475][ 16]LogAudio: Display: Creating Audio Device:                 Id: 54, Scope: Unique, Realtime: True
+[2021.05.05-09.31.28:475][ 16]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.05.05-09.31.28:475][ 16]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.05.05-09.31.28:475][ 16]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.05.05-09.31.28:475][ 16]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.05.05-09.31.28:475][ 16]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.05.05-09.31.28:475][ 16]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.05.05-09.31.28:475][ 16]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.05.05-09.31.28:475][ 16]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.05.05-09.31.28:476][ 16]LogAudio: Display: Using built-in audio occlusion.
+[2021.05.05-09.31.28:476][ 16]LogAudioMixer: Display: Initializing audio mixer.
+[2021.05.05-09.31.28:478][ 16]LogAudioMixer: Display: 0: FrontLeft
+[2021.05.05-09.31.28:478][ 16]LogAudioMixer: Display: 1: FrontRight
+[2021.05.05-09.31.28:487][ 16]LogAudioMixer: Display: Using Audio Device VS278 (NVIDIA High Definition Audio)
+[2021.05.05-09.31.28:487][ 16]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.05.05-09.31.28:487][ 16]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.05.05-09.31.28:487][ 16]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.05.05-09.31.28:488][ 16]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.05.05-09.31.28:488][ 16]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.05.05-09.31.28:488][ 16]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.05.05-09.31.28:501][ 16]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.05.05-09.31.28:501][ 16]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.05.05-09.31.28:501][ 16]LogInit: FAudioDevice initialized.
+[2021.05.05-09.31.28:501][ 16]LogAudio: Display: Audio Device (ID: 54) registered with world 'NivelPruebaMiguel'.
+[2021.05.05-09.31.28:543][ 16]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.05-09.31.28:543][ 16]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2021.05.05-09.31.28:545][ 16]LogWorld: Bringing World /Game/TFG/Miguel/Levels/UEDPIE_0_NivelPruebaMiguel.NivelPruebaMiguel up for play (max tick rate 60) at 2021.05.05-11.31.28
+[2021.05.05-09.31.28:549][ 16]LogWorld: Bringing up level for play took: 0.005255
+[2021.05.05-09.31.28:549][ 16]LogOnline: OSS: Creating online subsystem instance for: :Context_89
+[2021.05.05-09.31.28:557][ 16]PIE: Server logged in
+[2021.05.05-09.31.28:560][ 16]PIE: Play in editor total start time 0,142 seconds.
+[2021.05.05-09.31.38:417][603]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.05-09.31.38:417][603]LogWorld: BeginTearingDown for /Game/TFG/Miguel/Levels/UEDPIE_0_NivelPruebaMiguel
+[2021.05.05-09.31.38:418][603]LogSlate: Window 'TFG_V1 Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2021.05.05-09.31.38:423][603]LogWorld: UWorld::CleanupWorld for NivelPruebaMiguel, bSessionEnded=true, bCleanupResources=true
+[2021.05.05-09.31.38:423][603]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.05-09.31.38:434][603]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.05.05-09.31.38:480][603]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.05-09.31.38:516][603]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.05.05-09.31.38:517][603]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.05.05-09.31.38:540][603]LogUObjectHash: Compacting FUObjectHashTables data took   3.65ms
+[2021.05.05-09.31.38:606][604]LogPlayLevel: Display: Destroying online subsystem :Context_89
+[2021.05.05-09.31.53:548][492]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2021.05.05-09.31.53:554][492]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.05.05-09.31.53:554][492]PIE: New page: PIE session: NivelPruebaMiguel (5 may. 2021 13:31:53)
+[2021.05.05-09.31.53:555][492]LogPlayLevel: Creating play world package: /Game/TFG/Miguel/Levels/UEDPIE_0_NivelPruebaMiguel
+[2021.05.05-09.31.53:567][492]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012527s)
+[2021.05.05-09.31.53:568][492]LogAIModule: Creating AISystem for world NivelPruebaMiguel
+[2021.05.05-09.31.53:568][492]LogPlayLevel: PIE: World Init took: (0.000875s)
+[2021.05.05-09.31.53:568][492]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TFG/Miguel/Levels/NivelPruebaMiguel.NivelPruebaMiguel to /Game/TFG/Miguel/Levels/UEDPIE_0_NivelPruebaMiguel.NivelPruebaMiguel (0.013516s)
+[2021.05.05-09.31.53:604][492]LogUObjectHash: Compacting FUObjectHashTables data took   2.76ms
+[2021.05.05-09.31.53:607][492]LogAudio: Display: Creating Audio Device:                 Id: 55, Scope: Unique, Realtime: True
+[2021.05.05-09.31.53:607][492]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.05.05-09.31.53:607][492]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.05.05-09.31.53:607][492]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.05.05-09.31.53:607][492]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.05.05-09.31.53:607][492]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.05.05-09.31.53:607][492]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.05.05-09.31.53:607][492]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.05.05-09.31.53:607][492]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.05.05-09.31.53:608][492]LogAudio: Display: Using built-in audio occlusion.
+[2021.05.05-09.31.53:608][492]LogAudioMixer: Display: Initializing audio mixer.
+[2021.05.05-09.31.53:610][492]LogAudioMixer: Display: 0: FrontLeft
+[2021.05.05-09.31.53:610][492]LogAudioMixer: Display: 1: FrontRight
+[2021.05.05-09.31.53:618][492]LogAudioMixer: Display: Using Audio Device VS278 (NVIDIA High Definition Audio)
+[2021.05.05-09.31.53:619][492]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.05.05-09.31.53:619][492]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.05.05-09.31.53:619][492]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.05.05-09.31.53:619][492]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.05.05-09.31.53:619][492]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.05.05-09.31.53:619][492]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.05.05-09.31.53:633][492]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.05.05-09.31.53:633][492]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.05.05-09.31.53:633][492]LogInit: FAudioDevice initialized.
+[2021.05.05-09.31.53:633][492]LogAudio: Display: Audio Device (ID: 55) registered with world 'NivelPruebaMiguel'.
+[2021.05.05-09.31.53:674][492]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.05-09.31.53:675][492]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2021.05.05-09.31.53:677][492]LogWorld: Bringing World /Game/TFG/Miguel/Levels/UEDPIE_0_NivelPruebaMiguel.NivelPruebaMiguel up for play (max tick rate 60) at 2021.05.05-11.31.53
+[2021.05.05-09.31.53:680][492]LogWorld: Bringing up level for play took: 0.005212
+[2021.05.05-09.31.53:681][492]LogOnline: OSS: Creating online subsystem instance for: :Context_90
+[2021.05.05-09.31.53:688][492]PIE: Server logged in
+[2021.05.05-09.31.53:691][492]PIE: Play in editor total start time 0,138 seconds.
+[2021.05.05-09.31.58:478][775]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.05-09.31.58:478][775]LogWorld: BeginTearingDown for /Game/TFG/Miguel/Levels/UEDPIE_0_NivelPruebaMiguel
+[2021.05.05-09.31.58:479][775]LogSlate: Window 'TFG_V1 Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2021.05.05-09.31.58:484][775]LogWorld: UWorld::CleanupWorld for NivelPruebaMiguel, bSessionEnded=true, bCleanupResources=true
+[2021.05.05-09.31.58:485][775]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.05-09.31.58:493][775]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.05.05-09.31.58:539][775]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.05-09.31.58:574][775]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.05.05-09.31.58:574][775]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.05.05-09.31.58:575][775]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.05.05-09.31.58:597][775]LogUObjectHash: Compacting FUObjectHashTables data took   2.95ms
+[2021.05.05-09.31.58:657][776]LogPlayLevel: Display: Destroying online subsystem :Context_90
+[2021.05.05-09.32.06:515][244]Cmd: TRANSACTION UNDO
+[2021.05.05-09.32.06:516][244]LogEditorTransaction: Undo Clear Children
+[2021.05.05-09.32.21:171][111]LogUObjectHash: Compacting FUObjectHashTables data took   2.93ms
+[2021.05.05-09.32.24:127][111]LogSlate: Window 'Delete Assets' being destroyed
+[2021.05.05-09.32.24:173][111]LogUObjectGlobals: Force Deleting 1 Package(s):
+	Asset Name: /Game/TFG/Miguel/Materials/OutLineMaterials/Materials/PP_Outliner_M_TaskPlace.PP_Outliner_M_TaskPlace
+[2021.05.05-09.32.25:319][111]LogUObjectHash: Compacting FUObjectHashTables data took   2.46ms
+[2021.05.05-09.32.25:359][111]LogUObjectHash: Compacting FUObjectHashTables data took   2.38ms
+[2021.05.05-09.32.25:392][111]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2021.05.05-09.32.27:476][228]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2021.05.05-09.32.27:482][228]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.05.05-09.32.27:482][228]PIE: New page: PIE session: NivelPruebaMiguel (5 may. 2021 13:32:27)
+[2021.05.05-09.32.27:507][228]LogPlayLevel: Creating play world package: /Game/TFG/Miguel/Levels/UEDPIE_0_NivelPruebaMiguel
+[2021.05.05-09.32.27:518][228]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010458s)
+[2021.05.05-09.32.27:519][228]LogAIModule: Creating AISystem for world NivelPruebaMiguel
+[2021.05.05-09.32.27:519][228]LogPlayLevel: PIE: World Init took: (0.001146s)
+[2021.05.05-09.32.27:519][228]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TFG/Miguel/Levels/NivelPruebaMiguel.NivelPruebaMiguel to /Game/TFG/Miguel/Levels/UEDPIE_0_NivelPruebaMiguel.NivelPruebaMiguel (0.011730s)
+[2021.05.05-09.32.27:552][228]LogUObjectHash: Compacting FUObjectHashTables data took   2.77ms
+[2021.05.05-09.32.27:554][228]LogAudio: Display: Creating Audio Device:                 Id: 56, Scope: Unique, Realtime: True
+[2021.05.05-09.32.27:554][228]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.05.05-09.32.27:554][228]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.05.05-09.32.27:554][228]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.05.05-09.32.27:554][228]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.05.05-09.32.27:554][228]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.05.05-09.32.27:554][228]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.05.05-09.32.27:554][228]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.05.05-09.32.27:554][228]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.05.05-09.32.27:554][228]LogAudio: Display: Using built-in audio occlusion.
+[2021.05.05-09.32.27:554][228]LogAudioMixer: Display: Initializing audio mixer.
+[2021.05.05-09.32.27:557][228]LogAudioMixer: Display: 0: FrontLeft
+[2021.05.05-09.32.27:557][228]LogAudioMixer: Display: 1: FrontRight
+[2021.05.05-09.32.27:565][228]LogAudioMixer: Display: Using Audio Device VS278 (NVIDIA High Definition Audio)
+[2021.05.05-09.32.27:565][228]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.05.05-09.32.27:565][228]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.05.05-09.32.27:565][228]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.05.05-09.32.27:565][228]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.05.05-09.32.27:565][228]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.05.05-09.32.27:565][228]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.05.05-09.32.27:580][228]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.05.05-09.32.27:580][228]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.05.05-09.32.27:580][228]LogInit: FAudioDevice initialized.
+[2021.05.05-09.32.27:580][228]LogAudio: Display: Audio Device (ID: 56) registered with world 'NivelPruebaMiguel'.
+[2021.05.05-09.32.27:612][228]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.05-09.32.27:613][228]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2021.05.05-09.32.27:615][228]LogWorld: Bringing World /Game/TFG/Miguel/Levels/UEDPIE_0_NivelPruebaMiguel.NivelPruebaMiguel up for play (max tick rate 60) at 2021.05.05-11.32.27
+[2021.05.05-09.32.27:618][228]LogWorld: Bringing up level for play took: 0.005049
+[2021.05.05-09.32.27:618][228]LogOnline: OSS: Creating online subsystem instance for: :Context_91
+[2021.05.05-09.32.27:625][228]PIE: Server logged in
+[2021.05.05-09.32.27:629][228]PIE: Play in editor total start time 0,148 seconds.
+[2021.05.05-09.32.31:468][454]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.05-09.32.31:468][454]LogWorld: BeginTearingDown for /Game/TFG/Miguel/Levels/UEDPIE_0_NivelPruebaMiguel
+[2021.05.05-09.32.31:468][454]LogSlate: Window 'TFG_V1 Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2021.05.05-09.32.31:473][454]LogWorld: UWorld::CleanupWorld for NivelPruebaMiguel, bSessionEnded=true, bCleanupResources=true
+[2021.05.05-09.32.31:474][454]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.05-09.32.31:482][454]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.05.05-09.32.31:524][454]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.05-09.32.31:560][454]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.05.05-09.32.31:561][454]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.05.05-09.32.31:584][454]LogUObjectHash: Compacting FUObjectHashTables data took   2.79ms
+[2021.05.05-09.32.31:648][455]LogPlayLevel: Display: Destroying online subsystem :Context_91
+[2021.05.05-09.32.41:573][ 44]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/TFG/Miguel/Materials/OutLineMaterials/Materials/PP_Outliner_M.PP_Outliner_M
+[2021.05.05-09.32.41:575][ 44]LogMaterial: Display: Missing cached shader map for material PP_Outliner_M, compiling. 
+[2021.05.05-09.32.41:644][ 44]LogMaterial: Display: Missing cached shader map for material PP_Outliner_M, compiling. 
+[2021.05.05-09.32.41:649][ 44]LogMaterial: Display: Missing cached shader map for material PP_Outliner_M, compiling. 
+[2021.05.05-09.32.41:656][ 44]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 6
+[2021.05.05-09.32.41:656][ 44]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 5
+[2021.05.05-09.32.41:656][ 44]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 4
+[2021.05.05-09.32.41:656][ 44]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 3
+[2021.05.05-09.32.41:656][ 44]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 2
+[2021.05.05-09.32.41:656][ 44]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 1
+[2021.05.05-09.32.41:659][ 44]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_3, compiling. 
+[2021.05.05-09.32.41:665][ 44]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_4, compiling. 
+[2021.05.05-09.32.41:669][ 44]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_5, compiling. 
+[2021.05.05-09.32.41:674][ 44]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 8
+[2021.05.05-09.32.41:674][ 44]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 7
+[2021.05.05-09.32.41:674][ 44]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_6, compiling. 
+[2021.05.05-09.32.41:679][ 44]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_7, compiling. 
+[2021.05.05-09.32.41:684][ 44]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_8, compiling. 
+[2021.05.05-09.32.41:689][ 44]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_2, compiling. 
+[2021.05.05-09.32.42:118][ 57]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 26
+[2021.05.05-09.32.42:443][ 69]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 25
+[2021.05.05-09.32.42:491][ 71]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 24
+[2021.05.05-09.32.42:514][ 72]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 23
+[2021.05.05-09.32.42:605][ 76]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 22
+[2021.05.05-09.32.42:627][ 77]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 21
+[2021.05.05-09.32.42:649][ 78]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 20
+[2021.05.05-09.32.42:770][ 83]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 19
+[2021.05.05-09.32.42:974][ 90]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 18
+[2021.05.05-09.32.43:002][ 91]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 17
+[2021.05.05-09.32.43:152][ 97]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 16
+[2021.05.05-09.32.43:152][ 97]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 15
+[2021.05.05-09.32.43:178][ 98]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 14
+[2021.05.05-09.32.43:237][100]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 13
+[2021.05.05-09.32.43:395][105]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 12
+[2021.05.05-09.32.43:488][108]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 11
+[2021.05.05-09.32.43:548][110]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 10
+[2021.05.05-09.32.43:651][113]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 9
+[2021.05.05-09.32.43:707][115]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 8
+[2021.05.05-09.32.43:736][116]MaterialEditorStats: Base pass shader without light map: 33 instructions
+[2021.05.05-09.32.43:736][116]MaterialEditorStats: Base pass vertex shader: 46 instructions
+[2021.05.05-09.32.43:736][116]MaterialEditorStats: Texture samplers: 2/16
+[2021.05.05-09.32.43:736][116]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(19)
+[2021.05.05-09.32.43:736][116]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2021.05.05-09.32.43:761][117]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 7
+[2021.05.05-09.32.43:761][117]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 6
+[2021.05.05-09.32.43:787][118]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 5
+[2021.05.05-09.32.43:864][121]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 4
+[2021.05.05-09.32.44:085][128]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 3
+[2021.05.05-09.32.44:169][131]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 2
+[2021.05.05-09.32.44:195][132]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 1
+[2021.05.05-09.32.54:527][739]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_3, compiling. 
+[2021.05.05-09.32.54:530][739]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_4, compiling. 
+[2021.05.05-09.32.54:533][739]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_5, compiling. 
+[2021.05.05-09.32.54:535][739]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 8
+[2021.05.05-09.32.54:535][739]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 7
+[2021.05.05-09.32.54:535][739]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 6
+[2021.05.05-09.32.54:535][739]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 5
+[2021.05.05-09.32.54:535][739]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 4
+[2021.05.05-09.32.54:535][739]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 3
+[2021.05.05-09.32.54:535][739]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 2
+[2021.05.05-09.32.54:536][739]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 1
+[2021.05.05-09.32.54:536][739]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_6, compiling. 
+[2021.05.05-09.32.54:538][739]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_7, compiling. 
+[2021.05.05-09.32.54:541][739]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_8, compiling. 
+[2021.05.05-09.32.54:544][739]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_2, compiling. 
+[2021.05.05-09.32.54:550][739]LogMaterial: Display: Missing cached shader map for material PP_Outliner_M, compiling. 
+[2021.05.05-09.32.54:566][739]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_3, compiling. 
+[2021.05.05-09.32.54:571][739]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_4, compiling. 
+[2021.05.05-09.32.54:575][739]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_5, compiling. 
+[2021.05.05-09.32.54:580][739]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_6, compiling. 
+[2021.05.05-09.32.54:585][739]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_7, compiling. 
+[2021.05.05-09.32.54:590][739]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_8, compiling. 
+[2021.05.05-09.32.54:594][739]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_2, compiling. 
+[2021.05.05-09.32.54:602][739]LogMaterial: Display: Missing cached shader map for material PP_Outliner_M, compiling. 
+[2021.05.05-09.32.54:610][739]LogSlate: Window 'Color Picker' being destroyed
+[2021.05.05-09.32.55:111][754]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 34
+[2021.05.05-09.32.55:135][755]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 33
+[2021.05.05-09.32.55:135][755]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 32
+[2021.05.05-09.32.55:157][756]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 31
+[2021.05.05-09.32.55:227][759]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 30
+[2021.05.05-09.32.55:271][761]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 29
+[2021.05.05-09.32.55:271][761]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 28
+[2021.05.05-09.32.55:271][761]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 27
+[2021.05.05-09.32.55:631][773]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 26
+[2021.05.05-09.32.55:704][776]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 25
+[2021.05.05-09.32.55:772][779]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 24
+[2021.05.05-09.32.55:796][780]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 23
+[2021.05.05-09.32.55:796][780]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 22
+[2021.05.05-09.32.55:815][780]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 21
+[2021.05.05-09.32.55:832][780]LogWorld: UWorld::CleanupWorld for World_51, bSessionEnded=true, bCleanupResources=true
+[2021.05.05-09.32.55:832][780]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.05-09.32.55:918][781]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 6
+[2021.05.05-09.32.55:918][781]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 5
+[2021.05.05-09.32.56:058][786]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 4
+[2021.05.05-09.32.56:293][796]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 3
+[2021.05.05-09.32.56:317][797]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 2
+[2021.05.05-09.32.56:317][797]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 1
+[2021.05.05-09.33.08:532][511]LogSavePackage: Moving '../../../../../../Users/xmigu/Desktop/TFG/TFG/TFG_V1/Saved/FirstPersonCharacter12C7F7634B0D0CA96D39EEBB6C6674A9.tmp' to '../../../../../../Users/xmigu/Desktop/TFG/TFG/TFG_V1/Content/Assets/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset'
+[2021.05.05-09.33.08:547][511]AssetCheck: New page: Asset Save: FirstPersonCharacter
+[2021.05.05-09.33.08:547][511]LogContentValidation: Display: Validating Blueprint /Game/Assets/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter
+[2021.05.05-09.33.26:763][589]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/TFG/Miguel/Actors/MyGameInstance.MyGameInstance
+[2021.05.05-09.33.46:872][757]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2021.05.05-09.35.49:501][977]BlueprintLog: New page: Compile BP_TaskPlace
+[2021.05.05-09.35.49:565][977]LogUObjectHash: Compacting FUObjectHashTables data took   4.21ms
+[2021.05.05-09.35.49:927][991]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TFG/Miguel/Actors/BP_TaskPlace" FILE="../../../../../../Users/xmigu/Desktop/TFG/TFG/TFG_V1/Content/TFG/Miguel/Actors/BP_TaskPlace.uasset" SILENT=true
+[2021.05.05-09.35.49:937][991]LogSavePackage: Moving '../../../../../../Users/xmigu/Desktop/TFG/TFG/TFG_V1/Saved/BP_TaskPlace98A71CB2466536930C92F2AB164C4852.tmp' to '../../../../../../Users/xmigu/Desktop/TFG/TFG/TFG_V1/Content/TFG/Miguel/Actors/BP_TaskPlace.uasset'
+[2021.05.05-09.35.49:950][991]AssetCheck: New page: Asset Save: BP_TaskPlace
+[2021.05.05-09.35.49:950][991]LogContentValidation: Display: Validating Blueprint /Game/TFG/Miguel/Actors/BP_TaskPlace.BP_TaskPlace
+[2021.05.05-09.35.57:792][455]BlueprintLog: New page: Compile MyGameInstance
+[2021.05.05-09.35.57:797][455]LogBlueprint: Error: [AssetLog] C:\Users\xmigu\Desktop\TFG\TFG\TFG_V1\Content\TFG\Miguel\Actors\MyGameInstance.uasset: [Compiler] This blueprint (self) is not a PrimitiveComponent, therefore ' Target ' must have a connection.
+[2021.05.05-09.35.57:839][455]LogUObjectHash: Compacting FUObjectHashTables data took   3.82ms
+[2021.05.05-09.35.58:204][471]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TFG/Miguel/Actors/MyGameInstance" FILE="../../../../../../Users/xmigu/Desktop/TFG/TFG/TFG_V1/Content/TFG/Miguel/Actors/MyGameInstance.uasset" SILENT=true
+[2021.05.05-09.35.58:213][471]LogSavePackage: Moving '../../../../../../Users/xmigu/Desktop/TFG/TFG/TFG_V1/Saved/MyGameInstance1D84950742C848FCF9D6C99834ACE46E.tmp' to '../../../../../../Users/xmigu/Desktop/TFG/TFG/TFG_V1/Content/TFG/Miguel/Actors/MyGameInstance.uasset'
+[2021.05.05-09.35.58:228][471]AssetCheck: New page: Asset Save: MyGameInstance
+[2021.05.05-09.35.58:229][471]LogContentValidation: Display: Validating Blueprint /Game/TFG/Miguel/Actors/MyGameInstance.MyGameInstance
+[2021.05.05-09.36.11:750][271]BlueprintLog: New page: Compile BP_TaskPlace
+[2021.05.05-09.36.11:811][271]LogUObjectHash: Compacting FUObjectHashTables data took   3.89ms
+[2021.05.05-09.36.12:426][299]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TFG/Miguel/Actors/BP_TaskPlace" FILE="../../../../../../Users/xmigu/Desktop/TFG/TFG/TFG_V1/Content/TFG/Miguel/Actors/BP_TaskPlace.uasset" SILENT=true
+[2021.05.05-09.36.12:435][299]LogSavePackage: Moving '../../../../../../Users/xmigu/Desktop/TFG/TFG/TFG_V1/Saved/BP_TaskPlace9B6E77CD42434B2918F4FC8FFDA17764.tmp' to '../../../../../../Users/xmigu/Desktop/TFG/TFG/TFG_V1/Content/TFG/Miguel/Actors/BP_TaskPlace.uasset'
+[2021.05.05-09.36.12:449][299]AssetCheck: New page: Asset Save: BP_TaskPlace
+[2021.05.05-09.36.12:449][299]LogContentValidation: Display: Validating Blueprint /Game/TFG/Miguel/Actors/BP_TaskPlace.BP_TaskPlace
+[2021.05.05-09.36.25:561][ 73]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2021.05.05-09.36.30:738][379]BlueprintLog: New page: Compile MyGameInstance
+[2021.05.05-09.36.30:743][379]LogBlueprint: Error: [AssetLog] C:\Users\xmigu\Desktop\TFG\TFG\TFG_V1\Content\TFG\Miguel\Actors\MyGameInstance.uasset: [Compiler] This blueprint (self) is not a PrimitiveComponent, therefore ' Target ' must have a connection.
+[2021.05.05-09.36.30:783][379]LogUObjectHash: Compacting FUObjectHashTables data took   3.82ms
+[2021.05.05-09.36.31:121][393]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TFG/Miguel/Actors/MyGameInstance" FILE="../../../../../../Users/xmigu/Desktop/TFG/TFG/TFG_V1/Content/TFG/Miguel/Actors/MyGameInstance.uasset" SILENT=true
+[2021.05.05-09.36.31:132][393]LogSavePackage: Moving '../../../../../../Users/xmigu/Desktop/TFG/TFG/TFG_V1/Saved/MyGameInstance378BC92A4C5094EDAFA2EC942409A8C3.tmp' to '../../../../../../Users/xmigu/Desktop/TFG/TFG/TFG_V1/Content/TFG/Miguel/Actors/MyGameInstance.uasset'
+[2021.05.05-09.36.31:146][393]AssetCheck: New page: Asset Save: MyGameInstance
+[2021.05.05-09.36.31:146][393]LogContentValidation: Display: Validating Blueprint /Game/TFG/Miguel/Actors/MyGameInstance.MyGameInstance
+[2021.05.05-09.37.10:091][716]BlueprintLog: New page: Compile MyGameInstance
+[2021.05.05-09.37.10:139][716]LogUObjectHash: Compacting FUObjectHashTables data took   4.17ms
+[2021.05.05-09.37.10:516][734]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TFG/Miguel/Actors/MyGameInstance" FILE="../../../../../../Users/xmigu/Desktop/TFG/TFG/TFG_V1/Content/TFG/Miguel/Actors/MyGameInstance.uasset" SILENT=true
+[2021.05.05-09.37.10:526][734]LogSavePackage: Moving '../../../../../../Users/xmigu/Desktop/TFG/TFG/TFG_V1/Saved/MyGameInstance5863CC69440DB651690457A031533D7A.tmp' to '../../../../../../Users/xmigu/Desktop/TFG/TFG/TFG_V1/Content/TFG/Miguel/Actors/MyGameInstance.uasset'
+[2021.05.05-09.37.10:542][734]AssetCheck: New page: Asset Save: MyGameInstance
+[2021.05.05-09.37.10:542][734]LogContentValidation: Display: Validating Blueprint /Game/TFG/Miguel/Actors/MyGameInstance.MyGameInstance
+[2021.05.05-09.37.44:502][762]BlueprintLog: New page: Compile MyGameInstance
+[2021.05.05-09.37.44:550][762]LogUObjectHash: Compacting FUObjectHashTables data took   4.22ms
+[2021.05.05-09.37.44:905][779]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TFG/Miguel/Actors/MyGameInstance" FILE="../../../../../../Users/xmigu/Desktop/TFG/TFG/TFG_V1/Content/TFG/Miguel/Actors/MyGameInstance.uasset" SILENT=true
+[2021.05.05-09.37.44:914][779]LogSavePackage: Moving '../../../../../../Users/xmigu/Desktop/TFG/TFG/TFG_V1/Saved/MyGameInstance22173588495914619C7FBD9FEB96B526.tmp' to '../../../../../../Users/xmigu/Desktop/TFG/TFG/TFG_V1/Content/TFG/Miguel/Actors/MyGameInstance.uasset'
+[2021.05.05-09.37.44:929][779]AssetCheck: New page: Asset Save: MyGameInstance
+[2021.05.05-09.37.44:929][779]LogContentValidation: Display: Validating Blueprint /Game/TFG/Miguel/Actors/MyGameInstance.MyGameInstance
+[2021.05.05-09.38.05:504][  8]BlueprintLog: New page: Compile MyGameInstance
+[2021.05.05-09.38.05:551][  8]LogUObjectHash: Compacting FUObjectHashTables data took   3.95ms
+[2021.05.05-09.38.05:886][ 23]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TFG/Miguel/Actors/MyGameInstance" FILE="../../../../../../Users/xmigu/Desktop/TFG/TFG/TFG_V1/Content/TFG/Miguel/Actors/MyGameInstance.uasset" SILENT=true
+[2021.05.05-09.38.05:895][ 23]LogSavePackage: Moving '../../../../../../Users/xmigu/Desktop/TFG/TFG/TFG_V1/Saved/MyGameInstance82FC08C94DE66734AB3257BD77ED202A.tmp' to '../../../../../../Users/xmigu/Desktop/TFG/TFG/TFG_V1/Content/TFG/Miguel/Actors/MyGameInstance.uasset'
+[2021.05.05-09.38.05:909][ 23]AssetCheck: New page: Asset Save: MyGameInstance
+[2021.05.05-09.38.05:909][ 23]LogContentValidation: Display: Validating Blueprint /Game/TFG/Miguel/Actors/MyGameInstance.MyGameInstance
+[2021.05.05-09.39.11:728][939]LogUObjectHash: Compacting FUObjectHashTables data took   3.87ms
+[2021.05.05-09.39.11:756][939]LogSavePackage: Moving '../../../../../../Users/xmigu/Desktop/TFG/TFG/TFG_V1/Saved/NivelPruebaMiguel_Auto8BD91584F4EFF32D640C4F39396F27DFB.tmp' to '../../../../../../Users/xmigu/Desktop/TFG/TFG/TFG_V1/Saved/Autosaves/Game/TFG/Miguel/Levels/NivelPruebaMiguel_Auto8.umap'
+[2021.05.05-09.39.11:758][939]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/TFG/Miguel/Levels/NivelPruebaMiguel' took 0.067
+[2021.05.05-09.39.11:758][939]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.067
+[2021.05.05-09.40.18:463][755]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2021.05.05-09.41.03:616][402]BlueprintLog: New page: Compile MyGameInstance
+[2021.05.05-09.41.03:665][402]LogUObjectHash: Compacting FUObjectHashTables data took   4.45ms
+[2021.05.05-09.41.04:119][423]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TFG/Miguel/Actors/MyGameInstance" FILE="../../../../../../Users/xmigu/Desktop/TFG/TFG/TFG_V1/Content/TFG/Miguel/Actors/MyGameInstance.uasset" SILENT=true
+[2021.05.05-09.41.04:129][423]LogSavePackage: Moving '../../../../../../Users/xmigu/Desktop/TFG/TFG/TFG_V1/Saved/MyGameInstanceCEABEC954F8F325AE2B594869952628B.tmp' to '../../../../../../Users/xmigu/Desktop/TFG/TFG/TFG_V1/Content/TFG/Miguel/Actors/MyGameInstance.uasset'
+[2021.05.05-09.41.04:145][423]AssetCheck: New page: Asset Save: MyGameInstance
+[2021.05.05-09.41.04:145][423]LogContentValidation: Display: Validating Blueprint /Game/TFG/Miguel/Actors/MyGameInstance.MyGameInstance
+[2021.05.05-09.41.14:923][ 58]LogWorld: UWorld::CleanupWorld for World_43, bSessionEnded=true, bCleanupResources=true
+[2021.05.05-09.41.14:923][ 58]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.05-09.41.14:932][ 58]LogWorld: UWorld::CleanupWorld for World_42, bSessionEnded=true, bCleanupResources=true
+[2021.05.05-09.41.14:932][ 58]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.05-09.44.36:412][698]BlueprintLog: New page: Compile FirstPersonCharacter
+[2021.05.05-09.44.36:502][698]LogUObjectHash: Compacting FUObjectHashTables data took   4.22ms
+[2021.05.05-09.44.36:863][706]LogSavePackage: Moving '../../../../../../Users/xmigu/Desktop/TFG/TFG/TFG_V1/Saved/FirstPersonCharacterC55906F94260492E46BF209683611ED0.tmp' to '../../../../../../Users/xmigu/Desktop/TFG/TFG/TFG_V1/Content/Assets/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset'
+[2021.05.05-09.44.36:880][706]AssetCheck: New page: Asset Save: FirstPersonCharacter
+[2021.05.05-09.44.36:880][706]LogContentValidation: Display: Validating Blueprint /Game/Assets/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter
+[2021.05.05-09.44.38:315][792]LogEditorViewport: Clicking on Actor (LMB): BP_TaskPlace_C (BP_TaskPlace)
+[2021.05.05-09.44.51:824][600]LogEditorViewport: Clicking on Actor (LMB): BP_TaskItem_C (BP_TaskItem)
+[2021.05.05-09.44.55:195][800]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2021.05.05-09.44.55:201][800]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.05.05-09.44.55:202][800]PIE: New page: PIE session: NivelPruebaMiguel (5 may. 2021 13:44:55)
+[2021.05.05-09.44.55:202][800]LogPlayLevel: Creating play world package: /Game/TFG/Miguel/Levels/UEDPIE_0_NivelPruebaMiguel
+[2021.05.05-09.44.55:214][800]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012413s)
+[2021.05.05-09.44.55:216][800]LogAIModule: Creating AISystem for world NivelPruebaMiguel
+[2021.05.05-09.44.55:216][800]LogPlayLevel: PIE: World Init took: (0.001827s)
+[2021.05.05-09.44.55:216][800]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TFG/Miguel/Levels/NivelPruebaMiguel.NivelPruebaMiguel to /Game/TFG/Miguel/Levels/UEDPIE_0_NivelPruebaMiguel.NivelPruebaMiguel (0.014403s)
+[2021.05.05-09.44.55:252][800]LogUObjectHash: Compacting FUObjectHashTables data took   4.02ms
+[2021.05.05-09.44.55:255][800]LogAudio: Display: Creating Audio Device:                 Id: 57, Scope: Unique, Realtime: True
+[2021.05.05-09.44.55:255][800]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.05.05-09.44.55:255][800]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.05.05-09.44.55:255][800]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.05.05-09.44.55:255][800]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.05.05-09.44.55:255][800]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.05.05-09.44.55:255][800]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.05.05-09.44.55:255][800]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.05.05-09.44.55:255][800]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.05.05-09.44.55:256][800]LogAudio: Display: Using built-in audio occlusion.
+[2021.05.05-09.44.55:256][800]LogAudioMixer: Display: Initializing audio mixer.
+[2021.05.05-09.44.55:259][800]LogAudioMixer: Display: 0: FrontLeft
+[2021.05.05-09.44.55:259][800]LogAudioMixer: Display: 1: FrontRight
+[2021.05.05-09.44.55:267][800]LogAudioMixer: Display: Using Audio Device VS278 (NVIDIA High Definition Audio)
+[2021.05.05-09.44.55:267][800]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.05.05-09.44.55:267][800]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.05.05-09.44.55:267][800]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.05.05-09.44.55:267][800]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.05.05-09.44.55:267][800]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.05.05-09.44.55:268][800]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.05.05-09.44.55:283][800]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.05.05-09.44.55:283][800]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.05.05-09.44.55:283][800]LogInit: FAudioDevice initialized.
+[2021.05.05-09.44.55:283][800]LogAudio: Display: Audio Device (ID: 57) registered with world 'NivelPruebaMiguel'.
+[2021.05.05-09.44.55:327][800]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.05-09.44.55:327][800]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2021.05.05-09.44.55:329][800]LogWorld: Bringing World /Game/TFG/Miguel/Levels/UEDPIE_0_NivelPruebaMiguel.NivelPruebaMiguel up for play (max tick rate 60) at 2021.05.05-11.44.55
+[2021.05.05-09.44.55:333][800]LogWorld: Bringing up level for play took: 0.005209
+[2021.05.05-09.44.55:333][800]LogOnline: OSS: Creating online subsystem instance for: :Context_94
+[2021.05.05-09.44.55:341][800]PIE: Server logged in
+[2021.05.05-09.44.55:345][800]PIE: Play in editor total start time 0,144 seconds.
+[2021.05.05-09.45.00:680][115]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.05-09.45.00:680][115]LogWorld: BeginTearingDown for /Game/TFG/Miguel/Levels/UEDPIE_0_NivelPruebaMiguel
+[2021.05.05-09.45.00:680][115]LogSlate: Window 'TFG_V1 Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2021.05.05-09.45.00:685][115]LogWorld: UWorld::CleanupWorld for NivelPruebaMiguel, bSessionEnded=true, bCleanupResources=true
+[2021.05.05-09.45.00:686][115]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.05-09.45.00:696][115]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.05.05-09.45.00:706][115]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.05-09.45.00:739][115]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.05.05-09.45.00:740][115]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.05.05-09.45.00:741][115]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.05.05-09.45.00:763][115]LogUObjectHash: Compacting FUObjectHashTables data took   2.99ms
+[2021.05.05-09.45.00:799][116]LogPlayLevel: Display: Destroying online subsystem :Context_94
+[2021.05.05-09.45.09:162][588]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TFG/Miguel/Actors/MyGameInstance" FILE="../../../../../../Users/xmigu/Desktop/TFG/TFG/TFG_V1/Content/TFG/Miguel/Actors/MyGameInstance.uasset" SILENT=true
+[2021.05.05-09.45.09:172][588]LogSavePackage: Moving '../../../../../../Users/xmigu/Desktop/TFG/TFG/TFG_V1/Saved/MyGameInstanceDDC1EBA94037B5FC46FF1B95DE4849A5.tmp' to '../../../../../../Users/xmigu/Desktop/TFG/TFG/TFG_V1/Content/TFG/Miguel/Actors/MyGameInstance.uasset'
+[2021.05.05-09.45.09:187][588]AssetCheck: New page: Asset Save: MyGameInstance
+[2021.05.05-09.45.09:187][588]LogContentValidation: Display: Validating Blueprint /Game/TFG/Miguel/Actors/MyGameInstance.MyGameInstance
+[2021.05.05-09.45.10:050][640]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2021.05.05-09.45.10:056][640]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.05.05-09.45.10:056][640]PIE: New page: PIE session: NivelPruebaMiguel (5 may. 2021 13:45:10)
+[2021.05.05-09.45.10:056][640]LogPlayLevel: Creating play world package: /Game/TFG/Miguel/Levels/UEDPIE_0_NivelPruebaMiguel
+[2021.05.05-09.45.10:067][640]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010950s)
+[2021.05.05-09.45.10:068][640]LogAIModule: Creating AISystem for world NivelPruebaMiguel
+[2021.05.05-09.45.10:068][640]LogPlayLevel: PIE: World Init took: (0.000920s)
+[2021.05.05-09.45.10:068][640]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TFG/Miguel/Levels/NivelPruebaMiguel.NivelPruebaMiguel to /Game/TFG/Miguel/Levels/UEDPIE_0_NivelPruebaMiguel.NivelPruebaMiguel (0.011984s)
+[2021.05.05-09.45.10:101][640]LogUObjectHash: Compacting FUObjectHashTables data took   2.86ms
+[2021.05.05-09.45.10:104][640]LogAudio: Display: Creating Audio Device:                 Id: 58, Scope: Unique, Realtime: True
+[2021.05.05-09.45.10:104][640]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.05.05-09.45.10:104][640]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.05.05-09.45.10:104][640]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.05.05-09.45.10:104][640]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.05.05-09.45.10:104][640]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.05.05-09.45.10:104][640]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.05.05-09.45.10:104][640]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.05.05-09.45.10:104][640]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.05.05-09.45.10:104][640]LogAudio: Display: Using built-in audio occlusion.
+[2021.05.05-09.45.10:104][640]LogAudioMixer: Display: Initializing audio mixer.
+[2021.05.05-09.45.10:107][640]LogAudioMixer: Display: 0: FrontLeft
+[2021.05.05-09.45.10:107][640]LogAudioMixer: Display: 1: FrontRight
+[2021.05.05-09.45.10:115][640]LogAudioMixer: Display: Using Audio Device VS278 (NVIDIA High Definition Audio)
+[2021.05.05-09.45.10:115][640]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.05.05-09.45.10:115][640]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.05.05-09.45.10:115][640]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.05.05-09.45.10:115][640]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.05.05-09.45.10:115][640]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.05.05-09.45.10:115][640]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.05.05-09.45.10:130][640]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.05.05-09.45.10:130][640]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.05.05-09.45.10:130][640]LogInit: FAudioDevice initialized.
+[2021.05.05-09.45.10:130][640]LogAudio: Display: Audio Device (ID: 58) registered with world 'NivelPruebaMiguel'.
+[2021.05.05-09.45.10:169][640]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.05-09.45.10:169][640]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2021.05.05-09.45.10:173][640]LogWorld: Bringing World /Game/TFG/Miguel/Levels/UEDPIE_0_NivelPruebaMiguel.NivelPruebaMiguel up for play (max tick rate 60) at 2021.05.05-11.45.10
+[2021.05.05-09.45.10:176][640]LogWorld: Bringing up level for play took: 0.006236
+[2021.05.05-09.45.10:176][640]LogOnline: OSS: Creating online subsystem instance for: :Context_95
+[2021.05.05-09.45.10:182][640]PIE: Server logged in
+[2021.05.05-09.45.10:184][640]PIE: Play in editor total start time 0,128 seconds.
+[2021.05.05-09.45.17:030][ 41]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.05-09.45.17:030][ 41]LogWorld: BeginTearingDown for /Game/TFG/Miguel/Levels/UEDPIE_0_NivelPruebaMiguel
+[2021.05.05-09.45.17:031][ 41]LogSlate: Window 'TFG_V1 Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2021.05.05-09.45.17:036][ 41]LogWorld: UWorld::CleanupWorld for NivelPruebaMiguel, bSessionEnded=true, bCleanupResources=true
+[2021.05.05-09.45.17:037][ 41]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.05-09.45.17:046][ 41]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.05.05-09.45.17:056][ 41]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.05-09.45.17:090][ 41]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.05.05-09.45.17:091][ 41]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.05.05-09.45.17:112][ 41]LogUObjectHash: Compacting FUObjectHashTables data took   3.22ms
+[2021.05.05-09.45.17:144][ 42]LogPlayLevel: Display: Destroying online subsystem :Context_95
+[2021.05.05-09.45.25:040][511]LogEditorViewport: Clicking on Actor (LMB): BP_TaskPlace_C (BP_TaskPlace)
+[2021.05.05-09.45.50:332][ 19]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2021.05.05-09.45.50:337][ 19]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.05.05-09.45.50:337][ 19]PIE: New page: PIE session: NivelPruebaMiguel (5 may. 2021 13:45:50)
+[2021.05.05-09.45.50:369][ 19]LogPlayLevel: Creating play world package: /Game/TFG/Miguel/Levels/UEDPIE_0_NivelPruebaMiguel
+[2021.05.05-09.45.50:381][ 19]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011497s)
+[2021.05.05-09.45.50:382][ 19]LogAIModule: Creating AISystem for world NivelPruebaMiguel
+[2021.05.05-09.45.50:382][ 19]LogPlayLevel: PIE: World Init took: (0.000936s)
+[2021.05.05-09.45.50:382][ 19]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TFG/Miguel/Levels/NivelPruebaMiguel.NivelPruebaMiguel to /Game/TFG/Miguel/Levels/UEDPIE_0_NivelPruebaMiguel.NivelPruebaMiguel (0.012584s)
+[2021.05.05-09.45.50:415][ 19]LogUObjectHash: Compacting FUObjectHashTables data took   2.86ms
+[2021.05.05-09.45.50:419][ 19]LogAudio: Display: Creating Audio Device:                 Id: 59, Scope: Unique, Realtime: True
+[2021.05.05-09.45.50:419][ 19]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.05.05-09.45.50:419][ 19]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.05.05-09.45.50:419][ 19]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.05.05-09.45.50:419][ 19]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.05.05-09.45.50:419][ 19]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.05.05-09.45.50:419][ 19]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.05.05-09.45.50:419][ 19]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.05.05-09.45.50:419][ 19]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.05.05-09.45.50:420][ 19]LogAudio: Display: Using built-in audio occlusion.
+[2021.05.05-09.45.50:420][ 19]LogAudioMixer: Display: Initializing audio mixer.
+[2021.05.05-09.45.50:422][ 19]LogAudioMixer: Display: 0: FrontLeft
+[2021.05.05-09.45.50:422][ 19]LogAudioMixer: Display: 1: FrontRight
+[2021.05.05-09.45.50:430][ 19]LogAudioMixer: Display: Using Audio Device VS278 (NVIDIA High Definition Audio)
+[2021.05.05-09.45.50:430][ 19]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.05.05-09.45.50:430][ 19]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.05.05-09.45.50:430][ 19]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.05.05-09.45.50:431][ 19]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.05.05-09.45.50:431][ 19]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.05.05-09.45.50:431][ 19]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.05.05-09.45.50:446][ 19]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.05.05-09.45.50:446][ 19]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.05.05-09.45.50:446][ 19]LogInit: FAudioDevice initialized.
+[2021.05.05-09.45.50:446][ 19]LogAudio: Display: Audio Device (ID: 59) registered with world 'NivelPruebaMiguel'.
+[2021.05.05-09.45.50:486][ 19]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.05-09.45.50:486][ 19]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2021.05.05-09.45.50:489][ 19]LogWorld: Bringing World /Game/TFG/Miguel/Levels/UEDPIE_0_NivelPruebaMiguel.NivelPruebaMiguel up for play (max tick rate 60) at 2021.05.05-11.45.50
+[2021.05.05-09.45.50:492][ 19]LogWorld: Bringing up level for play took: 0.005176
+[2021.05.05-09.45.50:492][ 19]LogOnline: OSS: Creating online subsystem instance for: :Context_96
+[2021.05.05-09.45.50:500][ 19]PIE: Server logged in
+[2021.05.05-09.45.50:502][ 19]PIE: Play in editor total start time 0,165 seconds.
+[2021.05.05-09.45.56:930][400]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.05-09.45.56:930][400]LogWorld: BeginTearingDown for /Game/TFG/Miguel/Levels/UEDPIE_0_NivelPruebaMiguel
+[2021.05.05-09.45.56:931][400]LogSlate: Window 'TFG_V1 Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2021.05.05-09.45.56:936][400]LogWorld: UWorld::CleanupWorld for NivelPruebaMiguel, bSessionEnded=true, bCleanupResources=true
+[2021.05.05-09.45.56:936][400]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.05-09.45.56:943][400]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.05.05-09.45.56:953][400]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.05-09.45.56:987][400]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.05.05-09.45.56:987][400]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.05.05-09.45.56:988][400]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.05.05-09.45.57:009][400]LogUObjectHash: Compacting FUObjectHashTables data took   3.50ms
+[2021.05.05-09.45.57:052][401]LogPlayLevel: Display: Destroying online subsystem :Context_96
+[2021.05.05-09.46.05:727][876]BlueprintLog: New page: Compile MyGameInstance
+[2021.05.05-09.46.05:797][876]LogUObjectHash: Compacting FUObjectHashTables data took   4.08ms
+[2021.05.05-09.46.06:072][888]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TFG/Miguel/Actors/MyGameInstance" FILE="../../../../../../Users/xmigu/Desktop/TFG/TFG/TFG_V1/Content/TFG/Miguel/Actors/MyGameInstance.uasset" SILENT=true
+[2021.05.05-09.46.06:080][888]LogSavePackage: Moving '../../../../../../Users/xmigu/Desktop/TFG/TFG/TFG_V1/Saved/MyGameInstance6E30CD0C484221A59CCE91835D8FF07C.tmp' to '../../../../../../Users/xmigu/Desktop/TFG/TFG/TFG_V1/Content/TFG/Miguel/Actors/MyGameInstance.uasset'
+[2021.05.05-09.46.06:095][888]AssetCheck: New page: Asset Save: MyGameInstance
+[2021.05.05-09.46.06:095][888]LogContentValidation: Display: Validating Blueprint /Game/TFG/Miguel/Actors/MyGameInstance.MyGameInstance
+[2021.05.05-09.48.14:635][523]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/TFG/Miguel/Actors/BP_TaskItem.BP_TaskItem
+[2021.05.05-09.50.21:162][997]BlueprintLog: New page: Compile BP_TaskItem
+[2021.05.05-09.50.21:270][997]LogUObjectHash: Compacting FUObjectHashTables data took   4.31ms
+[2021.05.05-09.50.21:582][  9]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TFG/Miguel/Actors/BP_TaskItem" FILE="../../../../../../Users/xmigu/Desktop/TFG/TFG/TFG_V1/Content/TFG/Miguel/Actors/BP_TaskItem.uasset" SILENT=true
+[2021.05.05-09.50.21:592][  9]LogSavePackage: Moving '../../../../../../Users/xmigu/Desktop/TFG/TFG/TFG_V1/Saved/BP_TaskItem9EFE65794205AC9A5D0B038B6D501815.tmp' to '../../../../../../Users/xmigu/Desktop/TFG/TFG/TFG_V1/Content/TFG/Miguel/Actors/BP_TaskItem.uasset'
+[2021.05.05-09.50.21:606][  9]AssetCheck: New page: Asset Save: BP_TaskItem
+[2021.05.05-09.50.21:606][  9]LogContentValidation: Display: Validating Blueprint /Game/TFG/Miguel/Actors/BP_TaskItem.BP_TaskItem
+[2021.05.05-09.50.25:110][216]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TFG/Miguel/Actors/BP_TaskItem" FILE="../../../../../../Users/xmigu/Desktop/TFG/TFG/TFG_V1/Content/TFG/Miguel/Actors/BP_TaskItem.uasset" SILENT=true
+[2021.05.05-09.50.25:117][216]LogSavePackage: Moving '../../../../../../Users/xmigu/Desktop/TFG/TFG/TFG_V1/Saved/BP_TaskItemF95B9609438510CB4F255090A0025660.tmp' to '../../../../../../Users/xmigu/Desktop/TFG/TFG/TFG_V1/Content/TFG/Miguel/Actors/BP_TaskItem.uasset'
+[2021.05.05-09.50.25:132][216]AssetCheck: New page: Asset Save: BP_TaskItem
+[2021.05.05-09.50.25:132][216]LogContentValidation: Display: Validating Blueprint /Game/TFG/Miguel/Actors/BP_TaskItem.BP_TaskItem
+[2021.05.05-09.51.01:003][331]BlueprintLog: New page: Compile BP_TaskPlace
+[2021.05.05-09.51.01:068][331]LogUObjectHash: Compacting FUObjectHashTables data took   3.97ms
+[2021.05.05-09.51.01:374][343]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TFG/Miguel/Actors/BP_TaskPlace" FILE="../../../../../../Users/xmigu/Desktop/TFG/TFG/TFG_V1/Content/TFG/Miguel/Actors/BP_TaskPlace.uasset" SILENT=true
+[2021.05.05-09.51.01:384][343]LogSavePackage: Moving '../../../../../../Users/xmigu/Desktop/TFG/TFG/TFG_V1/Saved/BP_TaskPlace7CA313BA416EAD737E84218E1B238FE0.tmp' to '../../../../../../Users/xmigu/Desktop/TFG/TFG/TFG_V1/Content/TFG/Miguel/Actors/BP_TaskPlace.uasset'
+[2021.05.05-09.51.01:398][343]AssetCheck: New page: Asset Save: BP_TaskPlace
+[2021.05.05-09.51.01:398][343]LogContentValidation: Display: Validating Blueprint /Game/TFG/Miguel/Actors/BP_TaskPlace.BP_TaskPlace
+[2021.05.05-09.51.07:020][675]BlueprintLog: New page: Compile BP_TaskPlace
+[2021.05.05-09.51.07:087][675]LogUObjectHash: Compacting FUObjectHashTables data took   3.92ms
+[2021.05.05-09.51.07:512][694]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TFG/Miguel/Actors/BP_TaskPlace" FILE="../../../../../../Users/xmigu/Desktop/TFG/TFG/TFG_V1/Content/TFG/Miguel/Actors/BP_TaskPlace.uasset" SILENT=true
+[2021.05.05-09.51.07:522][694]LogSavePackage: Moving '../../../../../../Users/xmigu/Desktop/TFG/TFG/TFG_V1/Saved/BP_TaskPlace1765F7034F8EF86FD22F0EB029331DD9.tmp' to '../../../../../../Users/xmigu/Desktop/TFG/TFG/TFG_V1/Content/TFG/Miguel/Actors/BP_TaskPlace.uasset'
+[2021.05.05-09.51.07:537][694]AssetCheck: New page: Asset Save: BP_TaskPlace
+[2021.05.05-09.51.07:537][694]LogContentValidation: Display: Validating Blueprint /Game/TFG/Miguel/Actors/BP_TaskPlace.BP_TaskPlace
+[2021.05.05-09.51.29:412][965]BlueprintLog: New page: Compile BP_TaskPlace
+[2021.05.05-09.51.29:479][965]LogUObjectHash: Compacting FUObjectHashTables data took   4.02ms
+[2021.05.05-09.51.29:789][977]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TFG/Miguel/Actors/BP_TaskPlace" FILE="../../../../../../Users/xmigu/Desktop/TFG/TFG/TFG_V1/Content/TFG/Miguel/Actors/BP_TaskPlace.uasset" SILENT=true
+[2021.05.05-09.51.29:802][977]LogSavePackage: Moving '../../../../../../Users/xmigu/Desktop/TFG/TFG/TFG_V1/Saved/BP_TaskPlace2A7215CB482AA90DAA898790F34BAB3C.tmp' to '../../../../../../Users/xmigu/Desktop/TFG/TFG/TFG_V1/Content/TFG/Miguel/Actors/BP_TaskPlace.uasset'
+[2021.05.05-09.51.29:816][977]AssetCheck: New page: Asset Save: BP_TaskPlace
+[2021.05.05-09.51.29:816][977]LogContentValidation: Display: Validating Blueprint /Game/TFG/Miguel/Actors/BP_TaskPlace.BP_TaskPlace
+[2021.05.05-09.51.30:592][ 24]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2021.05.05-09.51.30:598][ 24]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.05.05-09.51.30:598][ 24]PIE: New page: PIE session: NivelPruebaMiguel (5 may. 2021 13:51:30)
+[2021.05.05-09.51.30:599][ 24]LogPlayLevel: Creating play world package: /Game/TFG/Miguel/Levels/UEDPIE_0_NivelPruebaMiguel
+[2021.05.05-09.51.30:610][ 24]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011748s)
+[2021.05.05-09.51.30:611][ 24]LogAIModule: Creating AISystem for world NivelPruebaMiguel
+[2021.05.05-09.51.30:612][ 24]LogPlayLevel: PIE: World Init took: (0.001102s)
+[2021.05.05-09.51.30:612][ 24]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TFG/Miguel/Levels/NivelPruebaMiguel.NivelPruebaMiguel to /Game/TFG/Miguel/Levels/UEDPIE_0_NivelPruebaMiguel.NivelPruebaMiguel (0.012980s)
+[2021.05.05-09.51.30:648][ 24]LogUObjectHash: Compacting FUObjectHashTables data took   3.71ms
+[2021.05.05-09.51.30:649][ 24]LogAudio: Display: Creating Audio Device:                 Id: 60, Scope: Unique, Realtime: True
+[2021.05.05-09.51.30:649][ 24]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.05.05-09.51.30:649][ 24]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.05.05-09.51.30:649][ 24]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.05.05-09.51.30:649][ 24]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.05.05-09.51.30:649][ 24]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.05.05-09.51.30:649][ 24]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.05.05-09.51.30:649][ 24]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.05.05-09.51.30:649][ 24]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.05.05-09.51.30:650][ 24]LogAudio: Display: Using built-in audio occlusion.
+[2021.05.05-09.51.30:650][ 24]LogAudioMixer: Display: Initializing audio mixer.
+[2021.05.05-09.51.30:653][ 24]LogAudioMixer: Display: 0: FrontLeft
+[2021.05.05-09.51.30:653][ 24]LogAudioMixer: Display: 1: FrontRight
+[2021.05.05-09.51.30:661][ 24]LogAudioMixer: Display: Using Audio Device VS278 (NVIDIA High Definition Audio)
+[2021.05.05-09.51.30:662][ 24]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.05.05-09.51.30:662][ 24]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.05.05-09.51.30:662][ 24]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.05.05-09.51.30:662][ 24]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.05.05-09.51.30:662][ 24]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.05.05-09.51.30:662][ 24]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.05.05-09.51.30:677][ 24]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.05.05-09.51.30:677][ 24]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.05.05-09.51.30:677][ 24]LogInit: FAudioDevice initialized.
+[2021.05.05-09.51.30:677][ 24]LogAudio: Display: Audio Device (ID: 60) registered with world 'NivelPruebaMiguel'.
+[2021.05.05-09.51.30:720][ 24]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.05-09.51.30:720][ 24]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2021.05.05-09.51.30:723][ 24]LogWorld: Bringing World /Game/TFG/Miguel/Levels/UEDPIE_0_NivelPruebaMiguel.NivelPruebaMiguel up for play (max tick rate 60) at 2021.05.05-11.51.30
+[2021.05.05-09.51.30:726][ 24]LogWorld: Bringing up level for play took: 0.005250
+[2021.05.05-09.51.30:726][ 24]LogOnline: OSS: Creating online subsystem instance for: :Context_98
+[2021.05.05-09.51.30:732][ 24]PIE: Server logged in
+[2021.05.05-09.51.30:734][ 24]PIE: Play in editor total start time 0,137 seconds.
+[2021.05.05-09.51.35:895][331]LogBlueprintUserMessages: [BP_TaskPlace_2] dentro
+[2021.05.05-09.51.36:812][386]LogBlueprintUserMessages: [BP_TaskPlace_2] fuera
+[2021.05.05-09.51.37:463][425]LogBlueprintUserMessages: [BP_TaskPlace_2] dentro
+[2021.05.05-09.51.37:896][451]LogBlueprintUserMessages: [BP_TaskPlace_2] fuera
+[2021.05.05-09.51.38:446][484]LogBlueprintUserMessages: [BP_TaskPlace_2] dentro
+[2021.05.05-09.51.39:096][523]LogBlueprintUserMessages: [BP_TaskPlace_2] fuera
+[2021.05.05-09.51.39:696][559]LogBlueprintUserMessages: [BP_TaskPlace_2] dentro
+[2021.05.05-09.51.40:196][589]LogBlueprintUserMessages: [BP_TaskPlace_2] fuera
+[2021.05.05-09.51.40:879][630]LogBlueprintUserMessages: [BP_TaskPlace_2] dentro
+[2021.05.05-09.51.41:145][646]LogBlueprintUserMessages: [BTT_SayDialogue_C_3] No entiendo la manía de esconder las llaves en los cajones en vez de comprar un llavero
+[2021.05.05-09.51.43:130][765]LogBlueprintUserMessages: [BP_TaskPlace_2] fuera
+[2021.05.05-09.51.44:091][821]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.05-09.51.44:091][821]LogWorld: BeginTearingDown for /Game/TFG/Miguel/Levels/UEDPIE_0_NivelPruebaMiguel
+[2021.05.05-09.51.44:092][821]LogSlate: Window 'TFG_V1 Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2021.05.05-09.51.44:098][821]LogWorld: UWorld::CleanupWorld for NivelPruebaMiguel, bSessionEnded=true, bCleanupResources=true
+[2021.05.05-09.51.44:099][821]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.05-09.51.44:117][821]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.05.05-09.51.44:128][821]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.05-09.51.44:164][821]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.05.05-09.51.44:165][821]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.05.05-09.51.44:166][821]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.05.05-09.51.44:189][821]LogUObjectHash: Compacting FUObjectHashTables data took   3.98ms
+[2021.05.05-09.51.44:247][822]LogPlayLevel: Display: Destroying online subsystem :Context_98
+[2021.05.05-09.52.08:090][242]BlueprintLog: New page: Compile BP_TaskItem
+[2021.05.05-09.52.08:153][242]LogUObjectHash: Compacting FUObjectHashTables data took   4.16ms
+[2021.05.05-09.52.08:564][260]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TFG/Miguel/Actors/BP_TaskItem" FILE="../../../../../../Users/xmigu/Desktop/TFG/TFG/TFG_V1/Content/TFG/Miguel/Actors/BP_TaskItem.uasset" SILENT=true
+[2021.05.05-09.52.08:574][260]LogSavePackage: Moving '../../../../../../Users/xmigu/Desktop/TFG/TFG/TFG_V1/Saved/BP_TaskItem1427F5194AA98F86812112AF471DE8BB.tmp' to '../../../../../../Users/xmigu/Desktop/TFG/TFG/TFG_V1/Content/TFG/Miguel/Actors/BP_TaskItem.uasset'
+[2021.05.05-09.52.08:588][260]AssetCheck: New page: Asset Save: BP_TaskItem
+[2021.05.05-09.52.08:588][260]LogContentValidation: Display: Validating Blueprint /Game/TFG/Miguel/Actors/BP_TaskItem.BP_TaskItem
+[2021.05.05-09.52.10:476][373]BlueprintLog: New page: Compile BP_TaskItem
+[2021.05.05-09.52.10:538][373]LogUObjectHash: Compacting FUObjectHashTables data took   3.96ms
+[2021.05.05-09.52.11:017][395]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TFG/Miguel/Actors/BP_TaskItem" FILE="../../../../../../Users/xmigu/Desktop/TFG/TFG/TFG_V1/Content/TFG/Miguel/Actors/BP_TaskItem.uasset" SILENT=true
+[2021.05.05-09.52.11:027][395]LogSavePackage: Moving '../../../../../../Users/xmigu/Desktop/TFG/TFG/TFG_V1/Saved/BP_TaskItem9F109FB344E9102EA1AD49B1C53A87EF.tmp' to '../../../../../../Users/xmigu/Desktop/TFG/TFG/TFG_V1/Content/TFG/Miguel/Actors/BP_TaskItem.uasset'
+[2021.05.05-09.52.11:041][395]AssetCheck: New page: Asset Save: BP_TaskItem
+[2021.05.05-09.52.11:041][395]LogContentValidation: Display: Validating Blueprint /Game/TFG/Miguel/Actors/BP_TaskItem.BP_TaskItem
+[2021.05.05-09.52.25:028][225]BlueprintLog: New page: Compile BP_TaskItem
+[2021.05.05-09.52.25:096][225]LogUObjectHash: Compacting FUObjectHashTables data took   3.92ms
+[2021.05.05-09.52.25:442][239]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TFG/Miguel/Actors/BP_TaskItem" FILE="../../../../../../Users/xmigu/Desktop/TFG/TFG/TFG_V1/Content/TFG/Miguel/Actors/BP_TaskItem.uasset" SILENT=true
+[2021.05.05-09.52.25:452][239]LogSavePackage: Moving '../../../../../../Users/xmigu/Desktop/TFG/TFG/TFG_V1/Saved/BP_TaskItemAB9E7A314987111875EDEC8CA3799924.tmp' to '../../../../../../Users/xmigu/Desktop/TFG/TFG/TFG_V1/Content/TFG/Miguel/Actors/BP_TaskItem.uasset'
+[2021.05.05-09.52.25:466][239]AssetCheck: New page: Asset Save: BP_TaskItem
+[2021.05.05-09.52.25:466][239]LogContentValidation: Display: Validating Blueprint /Game/TFG/Miguel/Actors/BP_TaskItem.BP_TaskItem
+[2021.05.05-09.52.32:395][646]BlueprintLog: New page: Compile BP_TaskItem
+[2021.05.05-09.52.32:461][646]LogUObjectHash: Compacting FUObjectHashTables data took   4.06ms
+[2021.05.05-09.52.32:797][659]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TFG/Miguel/Actors/BP_TaskItem" FILE="../../../../../../Users/xmigu/Desktop/TFG/TFG/TFG_V1/Content/TFG/Miguel/Actors/BP_TaskItem.uasset" SILENT=true
+[2021.05.05-09.52.32:807][659]LogSavePackage: Moving '../../../../../../Users/xmigu/Desktop/TFG/TFG/TFG_V1/Saved/BP_TaskItemE5E9DD1141520F69C14C01B57EECEA66.tmp' to '../../../../../../Users/xmigu/Desktop/TFG/TFG/TFG_V1/Content/TFG/Miguel/Actors/BP_TaskItem.uasset'
+[2021.05.05-09.52.32:824][659]AssetCheck: New page: Asset Save: BP_TaskItem
+[2021.05.05-09.52.32:824][659]LogContentValidation: Display: Validating Blueprint /Game/TFG/Miguel/Actors/BP_TaskItem.BP_TaskItem
+[2021.05.05-09.53.04:292][532]BlueprintLog: New page: Compile MyGameInstance
+[2021.05.05-09.53.04:340][532]LogUObjectHash: Compacting FUObjectHashTables data took   4.12ms
+[2021.05.05-09.53.04:666][547]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TFG/Miguel/Actors/MyGameInstance" FILE="../../../../../../Users/xmigu/Desktop/TFG/TFG/TFG_V1/Content/TFG/Miguel/Actors/MyGameInstance.uasset" SILENT=true
+[2021.05.05-09.53.04:675][547]LogSavePackage: Moving '../../../../../../Users/xmigu/Desktop/TFG/TFG/TFG_V1/Saved/MyGameInstanceE7B843294881E5BC4448128B076CFB18.tmp' to '../../../../../../Users/xmigu/Desktop/TFG/TFG/TFG_V1/Content/TFG/Miguel/Actors/MyGameInstance.uasset'
+[2021.05.05-09.53.04:691][547]AssetCheck: New page: Asset Save: MyGameInstance
+[2021.05.05-09.53.04:691][547]LogContentValidation: Display: Validating Blueprint /Game/TFG/Miguel/Actors/MyGameInstance.MyGameInstance
+[2021.05.05-09.53.37:018][475]BlueprintLog: New page: Compile BP_TaskItem
+[2021.05.05-09.53.37:085][475]LogUObjectHash: Compacting FUObjectHashTables data took   4.33ms
+[2021.05.05-09.53.37:473][491]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TFG/Miguel/Actors/BP_TaskItem" FILE="../../../../../../Users/xmigu/Desktop/TFG/TFG/TFG_V1/Content/TFG/Miguel/Actors/BP_TaskItem.uasset" SILENT=true
+[2021.05.05-09.53.37:483][491]LogSavePackage: Moving '../../../../../../Users/xmigu/Desktop/TFG/TFG/TFG_V1/Saved/BP_TaskItemF73A7F2C4752C331FDB6D8A5D4520512.tmp' to '../../../../../../Users/xmigu/Desktop/TFG/TFG/TFG_V1/Content/TFG/Miguel/Actors/BP_TaskItem.uasset'
+[2021.05.05-09.53.37:497][491]AssetCheck: New page: Asset Save: BP_TaskItem
+[2021.05.05-09.53.37:497][491]LogContentValidation: Display: Validating Blueprint /Game/TFG/Miguel/Actors/BP_TaskItem.BP_TaskItem
+[2021.05.05-09.53.40:415][666]BlueprintLog: New page: Compile MyGameInstance
+[2021.05.05-09.53.40:462][666]LogUObjectHash: Compacting FUObjectHashTables data took   4.15ms
+[2021.05.05-09.53.40:807][682]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TFG/Miguel/Actors/MyGameInstance" FILE="../../../../../../Users/xmigu/Desktop/TFG/TFG/TFG_V1/Content/TFG/Miguel/Actors/MyGameInstance.uasset" SILENT=true
+[2021.05.05-09.53.40:816][682]LogSavePackage: Moving '../../../../../../Users/xmigu/Desktop/TFG/TFG/TFG_V1/Saved/MyGameInstance52FA577B46FAB1D7083987B31E53ABB5.tmp' to '../../../../../../Users/xmigu/Desktop/TFG/TFG/TFG_V1/Content/TFG/Miguel/Actors/MyGameInstance.uasset'
+[2021.05.05-09.53.40:830][682]AssetCheck: New page: Asset Save: MyGameInstance
+[2021.05.05-09.53.40:830][682]LogContentValidation: Display: Validating Blueprint /Game/TFG/Miguel/Actors/MyGameInstance.MyGameInstance
+[2021.05.05-09.53.49:591][200]BlueprintLog: New page: Compile BP_TaskPlace
+[2021.05.05-09.53.49:657][200]LogUObjectHash: Compacting FUObjectHashTables data took   3.92ms
+[2021.05.05-09.53.50:014][214]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TFG/Miguel/Actors/BP_TaskPlace" FILE="../../../../../../Users/xmigu/Desktop/TFG/TFG/TFG_V1/Content/TFG/Miguel/Actors/BP_TaskPlace.uasset" SILENT=true
+[2021.05.05-09.53.50:026][214]LogSavePackage: Moving '../../../../../../Users/xmigu/Desktop/TFG/TFG/TFG_V1/Saved/BP_TaskPlace5F778F2144EFECE4784498A2A384B4BE.tmp' to '../../../../../../Users/xmigu/Desktop/TFG/TFG/TFG_V1/Content/TFG/Miguel/Actors/BP_TaskPlace.uasset'
+[2021.05.05-09.53.50:042][214]AssetCheck: New page: Asset Save: BP_TaskPlace
+[2021.05.05-09.53.50:042][214]LogContentValidation: Display: Validating Blueprint /Game/TFG/Miguel/Actors/BP_TaskPlace.BP_TaskPlace
+[2021.05.05-09.54.49:442][716]BlueprintLog: New page: Compile BP_TaskPlace
+[2021.05.05-09.54.49:508][716]LogUObjectHash: Compacting FUObjectHashTables data took   4.03ms
+[2021.05.05-09.54.49:834][728]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TFG/Miguel/Actors/BP_TaskPlace" FILE="../../../../../../Users/xmigu/Desktop/TFG/TFG/TFG_V1/Content/TFG/Miguel/Actors/BP_TaskPlace.uasset" SILENT=true
+[2021.05.05-09.54.49:847][728]LogSavePackage: Moving '../../../../../../Users/xmigu/Desktop/TFG/TFG/TFG_V1/Saved/BP_TaskPlace074DAB1848A73710B18A77A7ADEEE91E.tmp' to '../../../../../../Users/xmigu/Desktop/TFG/TFG/TFG_V1/Content/TFG/Miguel/Actors/BP_TaskPlace.uasset'
+[2021.05.05-09.54.49:862][728]AssetCheck: New page: Asset Save: BP_TaskPlace
+[2021.05.05-09.54.49:862][728]LogContentValidation: Display: Validating Blueprint /Game/TFG/Miguel/Actors/BP_TaskPlace.BP_TaskPlace
+[2021.05.05-09.54.59:496][298]BlueprintLog: New page: Compile BP_TaskPlace
+[2021.05.05-09.54.59:565][298]LogUObjectHash: Compacting FUObjectHashTables data took   4.01ms
+[2021.05.05-09.55.00:067][321]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TFG/Miguel/Actors/BP_TaskPlace" FILE="../../../../../../Users/xmigu/Desktop/TFG/TFG/TFG_V1/Content/TFG/Miguel/Actors/BP_TaskPlace.uasset" SILENT=true
+[2021.05.05-09.55.00:081][321]LogSavePackage: Moving '../../../../../../Users/xmigu/Desktop/TFG/TFG/TFG_V1/Saved/BP_TaskPlace83FDE0B145AE94A261E95E971C68ECD6.tmp' to '../../../../../../Users/xmigu/Desktop/TFG/TFG/TFG_V1/Content/TFG/Miguel/Actors/BP_TaskPlace.uasset'
+[2021.05.05-09.55.00:095][321]AssetCheck: New page: Asset Save: BP_TaskPlace
+[2021.05.05-09.55.00:095][321]LogContentValidation: Display: Validating Blueprint /Game/TFG/Miguel/Actors/BP_TaskPlace.BP_TaskPlace
+[2021.05.05-09.55.03:502][525]BlueprintLog: New page: Compile BP_TaskPlace
+[2021.05.05-09.55.03:568][525]LogUObjectHash: Compacting FUObjectHashTables data took   3.92ms
+[2021.05.05-09.55.03:892][538]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TFG/Miguel/Actors/BP_TaskPlace" FILE="../../../../../../Users/xmigu/Desktop/TFG/TFG/TFG_V1/Content/TFG/Miguel/Actors/BP_TaskPlace.uasset" SILENT=true
+[2021.05.05-09.55.03:906][538]LogSavePackage: Moving '../../../../../../Users/xmigu/Desktop/TFG/TFG/TFG_V1/Saved/BP_TaskPlaceD37F25504789DDDF06B3FBB56E42ABC7.tmp' to '../../../../../../Users/xmigu/Desktop/TFG/TFG/TFG_V1/Content/TFG/Miguel/Actors/BP_TaskPlace.uasset'
+[2021.05.05-09.55.03:920][538]AssetCheck: New page: Asset Save: BP_TaskPlace
+[2021.05.05-09.55.03:920][538]LogContentValidation: Display: Validating Blueprint /Game/TFG/Miguel/Actors/BP_TaskPlace.BP_TaskPlace
+[2021.05.05-09.55.07:964][781]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2021.05.05-09.55.07:969][781]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.05.05-09.55.07:969][781]PIE: New page: PIE session: NivelPruebaMiguel (5 may. 2021 13:55:07)
+[2021.05.05-09.55.07:969][781]LogPlayLevel: Creating play world package: /Game/TFG/Miguel/Levels/UEDPIE_0_NivelPruebaMiguel
+[2021.05.05-09.55.07:981][781]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011613s)
+[2021.05.05-09.55.07:982][781]LogAIModule: Creating AISystem for world NivelPruebaMiguel
+[2021.05.05-09.55.07:982][781]LogPlayLevel: PIE: World Init took: (0.000941s)
+[2021.05.05-09.55.07:982][781]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TFG/Miguel/Levels/NivelPruebaMiguel.NivelPruebaMiguel to /Game/TFG/Miguel/Levels/UEDPIE_0_NivelPruebaMiguel.NivelPruebaMiguel (0.012667s)
+[2021.05.05-09.55.08:018][781]LogUObjectHash: Compacting FUObjectHashTables data took   3.74ms
+[2021.05.05-09.55.08:019][781]LogAudio: Display: Creating Audio Device:                 Id: 61, Scope: Unique, Realtime: True
+[2021.05.05-09.55.08:019][781]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.05.05-09.55.08:020][781]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.05.05-09.55.08:020][781]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.05.05-09.55.08:020][781]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.05.05-09.55.08:020][781]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.05.05-09.55.08:020][781]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.05.05-09.55.08:020][781]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.05.05-09.55.08:020][781]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.05.05-09.55.08:020][781]LogAudio: Display: Using built-in audio occlusion.
+[2021.05.05-09.55.08:020][781]LogAudioMixer: Display: Initializing audio mixer.
+[2021.05.05-09.55.08:023][781]LogAudioMixer: Display: 0: FrontLeft
+[2021.05.05-09.55.08:023][781]LogAudioMixer: Display: 1: FrontRight
+[2021.05.05-09.55.08:031][781]LogAudioMixer: Display: Using Audio Device VS278 (NVIDIA High Definition Audio)
+[2021.05.05-09.55.08:031][781]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.05.05-09.55.08:031][781]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.05.05-09.55.08:031][781]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.05.05-09.55.08:032][781]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.05.05-09.55.08:032][781]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.05.05-09.55.08:032][781]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.05.05-09.55.08:047][781]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.05.05-09.55.08:047][781]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.05.05-09.55.08:047][781]LogInit: FAudioDevice initialized.
+[2021.05.05-09.55.08:047][781]LogAudio: Display: Audio Device (ID: 61) registered with world 'NivelPruebaMiguel'.
+[2021.05.05-09.55.08:088][781]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.05-09.55.08:088][781]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2021.05.05-09.55.08:090][781]LogWorld: Bringing World /Game/TFG/Miguel/Levels/UEDPIE_0_NivelPruebaMiguel.NivelPruebaMiguel up for play (max tick rate 60) at 2021.05.05-11.55.08
+[2021.05.05-09.55.08:094][781]LogWorld: Bringing up level for play took: 0.005261
+[2021.05.05-09.55.08:094][781]LogOnline: OSS: Creating online subsystem instance for: :Context_99
+[2021.05.05-09.55.08:099][781]PIE: Server logged in
+[2021.05.05-09.55.08:101][781]PIE: Play in editor total start time 0,133 seconds.
+[2021.05.05-09.55.16:192][261]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.05-09.55.16:192][261]LogWorld: BeginTearingDown for /Game/TFG/Miguel/Levels/UEDPIE_0_NivelPruebaMiguel
+[2021.05.05-09.55.16:193][261]LogSlate: Window 'TFG_V1 Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2021.05.05-09.55.16:198][261]LogWorld: UWorld::CleanupWorld for NivelPruebaMiguel, bSessionEnded=true, bCleanupResources=true
+[2021.05.05-09.55.16:198][261]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.05-09.55.16:219][261]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.05.05-09.55.16:231][261]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.05-09.55.16:267][261]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.05.05-09.55.16:267][261]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.05.05-09.55.16:268][261]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.05.05-09.55.16:289][261]LogUObjectHash: Compacting FUObjectHashTables data took   2.80ms
+[2021.05.05-09.55.16:345][262]LogPlayLevel: Display: Destroying online subsystem :Context_99
+[2021.05.05-09.55.47:947][107]BlueprintLog: New page: Compile FirstPersonCharacter
+[2021.05.05-09.55.48:039][107]LogUObjectHash: Compacting FUObjectHashTables data took   3.97ms
+[2021.05.05-09.55.48:482][119]LogSavePackage: Moving '../../../../../../Users/xmigu/Desktop/TFG/TFG/TFG_V1/Saved/FirstPersonCharacter8369A1E14550B95BF6F63BBF33443B19.tmp' to '../../../../../../Users/xmigu/Desktop/TFG/TFG/TFG_V1/Content/Assets/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset'
+[2021.05.05-09.55.48:497][119]AssetCheck: New page: Asset Save: FirstPersonCharacter
+[2021.05.05-09.55.48:497][119]LogContentValidation: Display: Validating Blueprint /Game/Assets/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter
+[2021.05.05-09.55.52:343][341]BlueprintLog: New page: Compile FirstPersonCharacter
+[2021.05.05-09.55.52:430][341]LogUObjectHash: Compacting FUObjectHashTables data took   4.00ms
+[2021.05.05-09.55.52:796][348]LogSavePackage: Moving '../../../../../../Users/xmigu/Desktop/TFG/TFG/TFG_V1/Saved/FirstPersonCharacter30E3A1DA423DE2AAA08A209715A79DD6.tmp' to '../../../../../../Users/xmigu/Desktop/TFG/TFG/TFG_V1/Content/Assets/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset'
+[2021.05.05-09.55.52:810][348]AssetCheck: New page: Asset Save: FirstPersonCharacter
+[2021.05.05-09.55.52:810][348]LogContentValidation: Display: Validating Blueprint /Game/Assets/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter
+[2021.05.05-09.57.28:809][996]BlueprintLog: New page: Compile FirstPersonCharacter
+[2021.05.05-09.57.28:904][996]LogUObjectHash: Compacting FUObjectHashTables data took   4.17ms
+[2021.05.05-09.57.29:402][ 12]LogSavePackage: Moving '../../../../../../Users/xmigu/Desktop/TFG/TFG/TFG_V1/Saved/FirstPersonCharacter337EAE5B470567F369DD00BD23189225.tmp' to '../../../../../../Users/xmigu/Desktop/TFG/TFG/TFG_V1/Content/Assets/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset'
+[2021.05.05-09.57.29:421][ 12]AssetCheck: New page: Asset Save: FirstPersonCharacter
+[2021.05.05-09.57.29:421][ 12]LogContentValidation: Display: Validating Blueprint /Game/Assets/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter
+[2021.05.05-09.57.52:516][371]BlueprintLog: New page: Compile BP_TaskItem
+[2021.05.05-09.57.52:616][371]LogUObjectHash: Compacting FUObjectHashTables data took   4.17ms
+[2021.05.05-09.57.52:952][384]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TFG/Miguel/Actors/BP_TaskItem" FILE="../../../../../../Users/xmigu/Desktop/TFG/TFG/TFG_V1/Content/TFG/Miguel/Actors/BP_TaskItem.uasset" SILENT=true
+[2021.05.05-09.57.52:963][384]LogSavePackage: Moving '../../../../../../Users/xmigu/Desktop/TFG/TFG/TFG_V1/Saved/BP_TaskItemA6B4A8F44B21C7A948E0779EFC4F75EA.tmp' to '../../../../../../Users/xmigu/Desktop/TFG/TFG/TFG_V1/Content/TFG/Miguel/Actors/BP_TaskItem.uasset'
+[2021.05.05-09.57.52:977][384]AssetCheck: New page: Asset Save: BP_TaskItem
+[2021.05.05-09.57.52:977][384]LogContentValidation: Display: Validating Blueprint /Game/TFG/Miguel/Actors/BP_TaskItem.BP_TaskItem
+[2021.05.05-09.57.54:321][465]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2021.05.05-09.57.54:327][465]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.05.05-09.57.54:327][465]PIE: New page: PIE session: NivelPruebaMiguel (5 may. 2021 13:57:54)
+[2021.05.05-09.57.54:328][465]LogPlayLevel: Creating play world package: /Game/TFG/Miguel/Levels/UEDPIE_0_NivelPruebaMiguel
+[2021.05.05-09.57.54:339][465]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011712s)
+[2021.05.05-09.57.54:340][465]LogAIModule: Creating AISystem for world NivelPruebaMiguel
+[2021.05.05-09.57.54:340][465]LogPlayLevel: PIE: World Init took: (0.001060s)
+[2021.05.05-09.57.54:340][465]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TFG/Miguel/Levels/NivelPruebaMiguel.NivelPruebaMiguel to /Game/TFG/Miguel/Levels/UEDPIE_0_NivelPruebaMiguel.NivelPruebaMiguel (0.012899s)
+[2021.05.05-09.57.54:379][465]LogUObjectHash: Compacting FUObjectHashTables data took   3.93ms
+[2021.05.05-09.57.54:380][465]LogAudio: Display: Creating Audio Device:                 Id: 62, Scope: Unique, Realtime: True
+[2021.05.05-09.57.54:380][465]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.05.05-09.57.54:380][465]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.05.05-09.57.54:380][465]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.05.05-09.57.54:380][465]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.05.05-09.57.54:380][465]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.05.05-09.57.54:381][465]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.05.05-09.57.54:381][465]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.05.05-09.57.54:381][465]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.05.05-09.57.54:381][465]LogAudio: Display: Using built-in audio occlusion.
+[2021.05.05-09.57.54:381][465]LogAudioMixer: Display: Initializing audio mixer.
+[2021.05.05-09.57.54:384][465]LogAudioMixer: Display: 0: FrontLeft
+[2021.05.05-09.57.54:384][465]LogAudioMixer: Display: 1: FrontRight
+[2021.05.05-09.57.54:391][465]LogAudioMixer: Display: Using Audio Device VS278 (NVIDIA High Definition Audio)
+[2021.05.05-09.57.54:392][465]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.05.05-09.57.54:392][465]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.05.05-09.57.54:392][465]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.05.05-09.57.54:392][465]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.05.05-09.57.54:392][465]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.05.05-09.57.54:392][465]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.05.05-09.57.54:406][465]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.05.05-09.57.54:406][465]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.05.05-09.57.54:406][465]LogInit: FAudioDevice initialized.
+[2021.05.05-09.57.54:406][465]LogAudio: Display: Audio Device (ID: 62) registered with world 'NivelPruebaMiguel'.
+[2021.05.05-09.57.54:448][465]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.05-09.57.54:448][465]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2021.05.05-09.57.54:450][465]LogWorld: Bringing World /Game/TFG/Miguel/Levels/UEDPIE_0_NivelPruebaMiguel.NivelPruebaMiguel up for play (max tick rate 60) at 2021.05.05-11.57.54
+[2021.05.05-09.57.54:454][465]LogWorld: Bringing up level for play took: 0.005382
+[2021.05.05-09.57.54:454][465]LogOnline: OSS: Creating online subsystem instance for: :Context_100
+[2021.05.05-09.57.54:459][465]PIE: Server logged in
+[2021.05.05-09.57.54:461][465]PIE: Play in editor total start time 0,135 seconds.
+[2021.05.05-09.58.05:831][144]LogBlueprintUserMessages: [BTT_SayDialogue_C_3] No entiendo la manía de esconder las llaves en los cajones en vez de comprar un llavero
+[2021.05.05-09.58.17:643][850]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.05-09.58.17:643][850]LogWorld: BeginTearingDown for /Game/TFG/Miguel/Levels/UEDPIE_0_NivelPruebaMiguel
+[2021.05.05-09.58.17:643][850]LogSlate: Window 'TFG_V1 Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2021.05.05-09.58.17:648][850]LogWorld: UWorld::CleanupWorld for NivelPruebaMiguel, bSessionEnded=true, bCleanupResources=true
+[2021.05.05-09.58.17:649][850]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.05-09.58.17:666][850]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.05.05-09.58.17:678][850]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.05-09.58.17:717][850]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.05.05-09.58.17:717][850]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.05.05-09.58.17:718][850]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.05.05-09.58.17:741][850]LogUObjectHash: Compacting FUObjectHashTables data took   3.13ms
+[2021.05.05-09.58.17:797][851]LogPlayLevel: Display: Destroying online subsystem :Context_100
+[2021.05.05-09.58.29:116][525]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2021.05.05-09.58.29:123][525]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.05.05-09.58.29:123][525]PIE: New page: PIE session: NivelPruebaMiguel (5 may. 2021 13:58:29)
+[2021.05.05-09.58.29:123][525]LogPlayLevel: Creating play world package: /Game/TFG/Miguel/Levels/UEDPIE_0_NivelPruebaMiguel
+[2021.05.05-09.58.29:135][525]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011582s)
+[2021.05.05-09.58.29:136][525]LogAIModule: Creating AISystem for world NivelPruebaMiguel
+[2021.05.05-09.58.29:136][525]LogPlayLevel: PIE: World Init took: (0.001126s)
+[2021.05.05-09.58.29:136][525]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TFG/Miguel/Levels/NivelPruebaMiguel.NivelPruebaMiguel to /Game/TFG/Miguel/Levels/UEDPIE_0_NivelPruebaMiguel.NivelPruebaMiguel (0.012849s)
+[2021.05.05-09.58.29:172][525]LogUObjectHash: Compacting FUObjectHashTables data took   2.80ms
+[2021.05.05-09.58.29:175][525]LogAudio: Display: Creating Audio Device:                 Id: 63, Scope: Unique, Realtime: True
+[2021.05.05-09.58.29:175][525]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.05.05-09.58.29:175][525]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.05.05-09.58.29:175][525]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.05.05-09.58.29:175][525]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.05.05-09.58.29:175][525]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.05.05-09.58.29:175][525]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.05.05-09.58.29:175][525]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.05.05-09.58.29:175][525]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.05.05-09.58.29:176][525]LogAudio: Display: Using built-in audio occlusion.
+[2021.05.05-09.58.29:176][525]LogAudioMixer: Display: Initializing audio mixer.
+[2021.05.05-09.58.29:178][525]LogAudioMixer: Display: 0: FrontLeft
+[2021.05.05-09.58.29:178][525]LogAudioMixer: Display: 1: FrontRight
+[2021.05.05-09.58.29:186][525]LogAudioMixer: Display: Using Audio Device VS278 (NVIDIA High Definition Audio)
+[2021.05.05-09.58.29:187][525]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.05.05-09.58.29:187][525]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.05.05-09.58.29:187][525]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.05.05-09.58.29:187][525]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.05.05-09.58.29:187][525]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.05.05-09.58.29:187][525]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.05.05-09.58.29:203][525]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.05.05-09.58.29:203][525]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.05.05-09.58.29:203][525]LogInit: FAudioDevice initialized.
+[2021.05.05-09.58.29:203][525]LogAudio: Display: Audio Device (ID: 63) registered with world 'NivelPruebaMiguel'.
+[2021.05.05-09.58.29:241][525]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.05-09.58.29:241][525]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2021.05.05-09.58.29:243][525]LogWorld: Bringing World /Game/TFG/Miguel/Levels/UEDPIE_0_NivelPruebaMiguel.NivelPruebaMiguel up for play (max tick rate 60) at 2021.05.05-11.58.29
+[2021.05.05-09.58.29:246][525]LogWorld: Bringing up level for play took: 0.004883
+[2021.05.05-09.58.29:247][525]LogOnline: OSS: Creating online subsystem instance for: :Context_101
+[2021.05.05-09.58.29:252][525]PIE: Server logged in
+[2021.05.05-09.58.29:254][525]PIE: Play in editor total start time 0,131 seconds.
+[2021.05.05-09.58.40:099][170]LogBlueprintUserMessages: [BTT_SayDialogue_C_3] No entiendo la manía de esconder las llaves en los cajones en vez de comprar un llavero
+[2021.05.05-09.58.53:083][949]LogBlueprintUserMessages: [BTT_SayDialogue_C_3] No estarás husmeando por la casa ¿no? Tú ya no vives aquí, decidiste irte y dejarnos.
+[2021.05.05-09.58.59:883][355]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.05-09.58.59:883][355]LogWorld: BeginTearingDown for /Game/TFG/Miguel/Levels/UEDPIE_0_NivelPruebaMiguel
+[2021.05.05-09.58.59:883][355]LogSlate: Window 'TFG_V1 Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2021.05.05-09.58.59:888][355]LogWorld: UWorld::CleanupWorld for NivelPruebaMiguel, bSessionEnded=true, bCleanupResources=true
+[2021.05.05-09.58.59:888][355]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.05-09.58.59:910][355]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.05.05-09.58.59:925][355]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.05-09.58.59:964][355]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.05.05-09.58.59:965][355]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.05.05-09.58.59:987][355]LogUObjectHash: Compacting FUObjectHashTables data took   3.87ms
+[2021.05.05-09.59.00:030][356]LogPlayLevel: Display: Destroying online subsystem :Context_101
+[2021.05.05-09.59.03:751][575]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TFG/Miguel/Actors/MyGameInstance" FILE="../../../../../../Users/xmigu/Desktop/TFG/TFG/TFG_V1/Content/TFG/Miguel/Actors/MyGameInstance.uasset" SILENT=true
+[2021.05.05-09.59.03:761][575]LogSavePackage: Moving '../../../../../../Users/xmigu/Desktop/TFG/TFG/TFG_V1/Saved/MyGameInstance2DE1A27D43E758DDAAC2C8AE00A65730.tmp' to '../../../../../../Users/xmigu/Desktop/TFG/TFG/TFG_V1/Content/TFG/Miguel/Actors/MyGameInstance.uasset'
+[2021.05.05-09.59.03:774][575]AssetCheck: New page: Asset Save: MyGameInstance
+[2021.05.05-09.59.03:774][575]LogContentValidation: Display: Validating Blueprint /Game/TFG/Miguel/Actors/MyGameInstance.MyGameInstance
+[2021.05.05-09.59.06:078][709]LogUObjectHash: Compacting FUObjectHashTables data took   2.71ms
+[2021.05.05-09.59.06:176][709]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2021.05.05-09.59.06:203][709]LogSavePackage: Moving '../../../../../../Users/xmigu/Desktop/TFG/TFG/TFG_V1/Saved/NivelPruebaMiguelD3A73CD9423A62992BBA979EE735AB1A.tmp' to '../../../../../../Users/xmigu/Desktop/TFG/TFG/TFG_V1/Content/TFG/Miguel/Levels/NivelPruebaMiguel.umap'
+[2021.05.05-09.59.06:217][709]LogFileHelpers: Saving map 'NivelPruebaMiguel' took 0.075
+[2021.05.05-09.59.06:217][709]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TFG/Miguel/Actors/BP_TaskItem" FILE="../../../../../../Users/xmigu/Desktop/TFG/TFG/TFG_V1/Content/TFG/Miguel/Actors/BP_TaskItem.uasset" SILENT=true
+[2021.05.05-09.59.06:225][709]LogSavePackage: Moving '../../../../../../Users/xmigu/Desktop/TFG/TFG/TFG_V1/Saved/BP_TaskItem230E77C149DE245852807A8BC70A9C99.tmp' to '../../../../../../Users/xmigu/Desktop/TFG/TFG/TFG_V1/Content/TFG/Miguel/Actors/BP_TaskItem.uasset'
+[2021.05.05-09.59.06:239][709]AssetCheck: New page: Asset Save: multiple assets
+[2021.05.05-09.59.06:239][709]LogContentValidation: Display: Validating Blueprint /Game/TFG/Miguel/Actors/BP_TaskItem.BP_TaskItem
+[2021.05.05-09.59.06:239][709]LogContentValidation: Display: Validating World /Game/TFG/Miguel/Levels/NivelPruebaMiguel.NivelPruebaMiguel
+[2021.05.05-09.59.22:931][696]BlueprintLog: New page: Compile BP_TaskPlace
+[2021.05.05-09.59.22:996][696]LogUObjectHash: Compacting FUObjectHashTables data took   4.04ms
+[2021.05.05-09.59.23:393][712]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TFG/Miguel/Actors/BP_TaskPlace" FILE="../../../../../../Users/xmigu/Desktop/TFG/TFG/TFG_V1/Content/TFG/Miguel/Actors/BP_TaskPlace.uasset" SILENT=true
+[2021.05.05-09.59.23:409][712]LogSavePackage: Moving '../../../../../../Users/xmigu/Desktop/TFG/TFG/TFG_V1/Saved/BP_TaskPlaceAE7387B644D90A0BD48438AE6B3B2AB1.tmp' to '../../../../../../Users/xmigu/Desktop/TFG/TFG/TFG_V1/Content/TFG/Miguel/Actors/BP_TaskPlace.uasset'
+[2021.05.05-09.59.23:427][712]AssetCheck: New page: Asset Save: BP_TaskPlace
+[2021.05.05-09.59.23:427][712]LogContentValidation: Display: Validating Blueprint /Game/TFG/Miguel/Actors/BP_TaskPlace.BP_TaskPlace
+[2021.05.05-09.59.24:823][792]BlueprintLog: New page: Compile BP_TaskPlace
+[2021.05.05-09.59.24:890][792]LogUObjectHash: Compacting FUObjectHashTables data took   4.06ms
+[2021.05.05-09.59.25:210][804]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TFG/Miguel/Actors/BP_TaskPlace" FILE="../../../../../../Users/xmigu/Desktop/TFG/TFG/TFG_V1/Content/TFG/Miguel/Actors/BP_TaskPlace.uasset" SILENT=true
+[2021.05.05-09.59.25:225][804]LogSavePackage: Moving '../../../../../../Users/xmigu/Desktop/TFG/TFG/TFG_V1/Saved/BP_TaskPlace7D47EA7B49F548FFAC4999AD872AD15F.tmp' to '../../../../../../Users/xmigu/Desktop/TFG/TFG/TFG_V1/Content/TFG/Miguel/Actors/BP_TaskPlace.uasset'
+[2021.05.05-09.59.25:239][804]AssetCheck: New page: Asset Save: BP_TaskPlace
+[2021.05.05-09.59.25:239][804]LogContentValidation: Display: Validating Blueprint /Game/TFG/Miguel/Actors/BP_TaskPlace.BP_TaskPlace
+[2021.05.05-10.00.37:316][ 47]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2021.05.05-10.03.04:881][761]BlueprintLog: New page: Compile BP_TaskPlace
+[2021.05.05-10.03.04:950][761]LogUObjectHash: Compacting FUObjectHashTables data took   4.16ms
+[2021.05.05-10.03.05:309][775]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TFG/Miguel/Actors/BP_TaskPlace" FILE="../../../../../../Users/xmigu/Desktop/TFG/TFG/TFG_V1/Content/TFG/Miguel/Actors/BP_TaskPlace.uasset" SILENT=true
+[2021.05.05-10.03.05:326][775]LogSavePackage: Moving '../../../../../../Users/xmigu/Desktop/TFG/TFG/TFG_V1/Saved/BP_TaskPlace2EBE2F84434614302F4FE9A8ECED3E41.tmp' to '../../../../../../Users/xmigu/Desktop/TFG/TFG/TFG_V1/Content/TFG/Miguel/Actors/BP_TaskPlace.uasset'
+[2021.05.05-10.03.05:341][775]AssetCheck: New page: Asset Save: BP_TaskPlace
+[2021.05.05-10.03.05:341][775]LogContentValidation: Display: Validating Blueprint /Game/TFG/Miguel/Actors/BP_TaskPlace.BP_TaskPlace
+[2021.05.05-10.03.08:880][986]BlueprintLog: New page: Compile BP_TaskPlace
+[2021.05.05-10.03.08:947][986]LogUObjectHash: Compacting FUObjectHashTables data took   3.97ms
+[2021.05.05-10.03.09:358][  8]BlueprintLog: New page: Compile BP_TaskPlace
+[2021.05.05-10.03.09:426][  8]LogUObjectHash: Compacting FUObjectHashTables data took   3.96ms
+[2021.05.05-10.03.09:834][ 25]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TFG/Miguel/Actors/BP_TaskPlace" FILE="../../../../../../Users/xmigu/Desktop/TFG/TFG/TFG_V1/Content/TFG/Miguel/Actors/BP_TaskPlace.uasset" SILENT=true
+[2021.05.05-10.03.09:851][ 25]LogSavePackage: Moving '../../../../../../Users/xmigu/Desktop/TFG/TFG/TFG_V1/Saved/BP_TaskPlaceADD0412A4E2686738956CCB53C3AD1B4.tmp' to '../../../../../../Users/xmigu/Desktop/TFG/TFG/TFG_V1/Content/TFG/Miguel/Actors/BP_TaskPlace.uasset'
+[2021.05.05-10.03.09:866][ 25]AssetCheck: New page: Asset Save: BP_TaskPlace
+[2021.05.05-10.03.09:866][ 25]LogContentValidation: Display: Validating Blueprint /Game/TFG/Miguel/Actors/BP_TaskPlace.BP_TaskPlace
+[2021.05.05-10.03.13:898][261]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TFG/Miguel/Actors/BP_TaskPlace" FILE="../../../../../../Users/xmigu/Desktop/TFG/TFG/TFG_V1/Content/TFG/Miguel/Actors/BP_TaskPlace.uasset" SILENT=true
+[2021.05.05-10.03.13:912][261]LogSavePackage: Moving '../../../../../../Users/xmigu/Desktop/TFG/TFG/TFG_V1/Saved/BP_TaskPlace03AC89204A30B5053D0F35BE78F367F0.tmp' to '../../../../../../Users/xmigu/Desktop/TFG/TFG/TFG_V1/Content/TFG/Miguel/Actors/BP_TaskPlace.uasset'
+[2021.05.05-10.03.13:927][261]AssetCheck: New page: Asset Save: BP_TaskPlace
+[2021.05.05-10.03.13:927][261]LogContentValidation: Display: Validating Blueprint /Game/TFG/Miguel/Actors/BP_TaskPlace.BP_TaskPlace
+[2021.05.05-10.03.20:963][681]BlueprintLog: New page: Compile MyGameInstance
+[2021.05.05-10.03.21:008][681]LogUObjectHash: Compacting FUObjectHashTables data took   3.92ms
+[2021.05.05-10.03.21:487][705]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TFG/Miguel/Actors/MyGameInstance" FILE="../../../../../../Users/xmigu/Desktop/TFG/TFG/TFG_V1/Content/TFG/Miguel/Actors/MyGameInstance.uasset" SILENT=true
+[2021.05.05-10.03.21:496][705]LogSavePackage: Moving '../../../../../../Users/xmigu/Desktop/TFG/TFG/TFG_V1/Saved/MyGameInstance5F5644884752C41BA6672FB20C4910C5.tmp' to '../../../../../../Users/xmigu/Desktop/TFG/TFG/TFG_V1/Content/TFG/Miguel/Actors/MyGameInstance.uasset'
+[2021.05.05-10.03.21:511][705]AssetCheck: New page: Asset Save: MyGameInstance
+[2021.05.05-10.03.21:511][705]LogContentValidation: Display: Validating Blueprint /Game/TFG/Miguel/Actors/MyGameInstance.MyGameInstance
+[2021.05.05-10.04.40:564][377]LogEditorTransaction: Undo Move Node
+[2021.05.05-10.04.53:390][118]BlueprintLog: New page: Compile FirstPersonCharacter
+[2021.05.05-10.04.53:491][118]LogUObjectHash: Compacting FUObjectHashTables data took   4.15ms
+[2021.05.05-10.04.53:914][128]LogSavePackage: Moving '../../../../../../Users/xmigu/Desktop/TFG/TFG/TFG_V1/Saved/FirstPersonCharacterF18D897945A5B744493080A0CB3E3343.tmp' to '../../../../../../Users/xmigu/Desktop/TFG/TFG/TFG_V1/Content/Assets/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset'
+[2021.05.05-10.04.53:932][128]AssetCheck: New page: Asset Save: FirstPersonCharacter
+[2021.05.05-10.04.53:932][128]LogContentValidation: Display: Validating Blueprint /Game/Assets/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter
+[2021.05.05-10.05.08:677][  1]BlueprintLog: New page: Compile MyGameInstance
+[2021.05.05-10.05.08:758][  1]LogUObjectHash: Compacting FUObjectHashTables data took   4.04ms
+[2021.05.05-10.05.09:057][ 14]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TFG/Miguel/Actors/MyGameInstance" FILE="../../../../../../Users/xmigu/Desktop/TFG/TFG/TFG_V1/Content/TFG/Miguel/Actors/MyGameInstance.uasset" SILENT=true
+[2021.05.05-10.05.09:066][ 14]LogSavePackage: Moving '../../../../../../Users/xmigu/Desktop/TFG/TFG/TFG_V1/Saved/MyGameInstance48CE6AA44552D2E60901BDAC19C26EBA.tmp' to '../../../../../../Users/xmigu/Desktop/TFG/TFG/TFG_V1/Content/TFG/Miguel/Actors/MyGameInstance.uasset'
+[2021.05.05-10.05.09:082][ 14]AssetCheck: New page: Asset Save: MyGameInstance
+[2021.05.05-10.05.09:082][ 14]LogContentValidation: Display: Validating Blueprint /Game/TFG/Miguel/Actors/MyGameInstance.MyGameInstance
+[2021.05.05-10.05.16:142][432]BlueprintLog: New page: Compile BP_TaskItem
+[2021.05.05-10.05.16:216][432]LogUObjectHash: Compacting FUObjectHashTables data took   4.07ms
+[2021.05.05-10.05.16:579][447]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TFG/Miguel/Actors/BP_TaskItem" FILE="../../../../../../Users/xmigu/Desktop/TFG/TFG/TFG_V1/Content/TFG/Miguel/Actors/BP_TaskItem.uasset" SILENT=true
+[2021.05.05-10.05.16:590][447]LogSavePackage: Moving '../../../../../../Users/xmigu/Desktop/TFG/TFG/TFG_V1/Saved/BP_TaskItem1754590A431FEF07D76AA98A3A5BA9B6.tmp' to '../../../../../../Users/xmigu/Desktop/TFG/TFG/TFG_V1/Content/TFG/Miguel/Actors/BP_TaskItem.uasset'
+[2021.05.05-10.05.16:605][447]AssetCheck: New page: Asset Save: BP_TaskItem
+[2021.05.05-10.05.16:605][447]LogContentValidation: Display: Validating Blueprint /Game/TFG/Miguel/Actors/BP_TaskItem.BP_TaskItem
+[2021.05.05-10.05.17:393][494]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2021.05.05-10.05.17:399][494]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.05.05-10.05.17:399][494]PIE: New page: PIE session: NivelPruebaMiguel (5 may. 2021 14:05:17)
+[2021.05.05-10.05.17:399][494]LogPlayLevel: Creating play world package: /Game/TFG/Miguel/Levels/UEDPIE_0_NivelPruebaMiguel
+[2021.05.05-10.05.17:412][494]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012444s)
+[2021.05.05-10.05.17:412][494]LogAIModule: Creating AISystem for world NivelPruebaMiguel
+[2021.05.05-10.05.17:413][494]LogPlayLevel: PIE: World Init took: (0.001061s)
+[2021.05.05-10.05.17:413][494]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TFG/Miguel/Levels/NivelPruebaMiguel.NivelPruebaMiguel to /Game/TFG/Miguel/Levels/UEDPIE_0_NivelPruebaMiguel.NivelPruebaMiguel (0.013629s)
+[2021.05.05-10.05.17:450][494]LogUObjectHash: Compacting FUObjectHashTables data took   4.06ms
+[2021.05.05-10.05.17:452][494]LogAudio: Display: Creating Audio Device:                 Id: 64, Scope: Unique, Realtime: True
+[2021.05.05-10.05.17:452][494]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.05.05-10.05.17:452][494]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.05.05-10.05.17:452][494]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.05.05-10.05.17:452][494]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.05.05-10.05.17:452][494]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.05.05-10.05.17:452][494]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.05.05-10.05.17:452][494]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.05.05-10.05.17:452][494]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.05.05-10.05.17:452][494]LogAudio: Display: Using built-in audio occlusion.
+[2021.05.05-10.05.17:452][494]LogAudioMixer: Display: Initializing audio mixer.
+[2021.05.05-10.05.17:455][494]LogAudioMixer: Display: 0: FrontLeft
+[2021.05.05-10.05.17:455][494]LogAudioMixer: Display: 1: FrontRight
+[2021.05.05-10.05.17:464][494]LogAudioMixer: Display: Using Audio Device VS278 (NVIDIA High Definition Audio)
+[2021.05.05-10.05.17:465][494]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.05.05-10.05.17:465][494]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.05.05-10.05.17:465][494]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.05.05-10.05.17:465][494]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.05.05-10.05.17:465][494]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.05.05-10.05.17:465][494]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.05.05-10.05.17:479][494]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.05.05-10.05.17:479][494]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.05.05-10.05.17:479][494]LogInit: FAudioDevice initialized.
+[2021.05.05-10.05.17:479][494]LogAudio: Display: Audio Device (ID: 64) registered with world 'NivelPruebaMiguel'.
+[2021.05.05-10.05.17:518][494]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.05-10.05.17:518][494]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2021.05.05-10.05.17:521][494]LogWorld: Bringing World /Game/TFG/Miguel/Levels/UEDPIE_0_NivelPruebaMiguel.NivelPruebaMiguel up for play (max tick rate 60) at 2021.05.05-12.05.17
+[2021.05.05-10.05.17:524][494]LogWorld: Bringing up level for play took: 0.005358
+[2021.05.05-10.05.17:525][494]LogOnline: OSS: Creating online subsystem instance for: :Context_102
+[2021.05.05-10.05.17:530][494]PIE: Server logged in
+[2021.05.05-10.05.17:532][494]PIE: Play in editor total start time 0,134 seconds.
+[2021.05.05-10.05.28:054][122]LogBlueprintUserMessages: [BTT_SayDialogue_C_3] No entiendo la manía de esconder las llaves en los cajones en vez de comprar un llavero
+[2021.05.05-10.05.40:572][873]LogBlueprintUserMessages: [BTT_SayDialogue_C_3] No estarás husmeando por la casa ¿no? Tú ya no vives aquí, decidiste irte y dejarnos.
+[2021.05.05-10.05.52:334][577]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.05-10.05.52:334][577]LogWorld: BeginTearingDown for /Game/TFG/Miguel/Levels/UEDPIE_0_NivelPruebaMiguel
+[2021.05.05-10.05.52:335][577]LogSlate: Window 'TFG_V1 Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2021.05.05-10.05.52:338][577]LogWorld: UWorld::CleanupWorld for NivelPruebaMiguel, bSessionEnded=true, bCleanupResources=true
+[2021.05.05-10.05.52:339][577]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.05-10.05.52:351][577]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.05.05-10.05.52:360][577]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.05-10.05.52:398][577]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.05.05-10.05.52:398][577]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.05.05-10.05.52:400][577]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.05.05-10.05.52:420][577]LogUObjectHash: Compacting FUObjectHashTables data took   2.72ms
+[2021.05.05-10.05.52:480][578]LogPlayLevel: Display: Destroying online subsystem :Context_102
+[2021.05.05-10.06.29:307][780]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2021.05.05-10.06.29:313][780]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.05.05-10.06.29:313][780]PIE: New page: PIE session: NivelPruebaMiguel (5 may. 2021 14:06:29)
+[2021.05.05-10.06.29:314][780]LogPlayLevel: Creating play world package: /Game/TFG/Miguel/Levels/UEDPIE_0_NivelPruebaMiguel
+[2021.05.05-10.06.29:326][780]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012621s)
+[2021.05.05-10.06.29:327][780]LogAIModule: Creating AISystem for world NivelPruebaMiguel
+[2021.05.05-10.06.29:327][780]LogPlayLevel: PIE: World Init took: (0.000962s)
+[2021.05.05-10.06.29:327][780]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TFG/Miguel/Levels/NivelPruebaMiguel.NivelPruebaMiguel to /Game/TFG/Miguel/Levels/UEDPIE_0_NivelPruebaMiguel.NivelPruebaMiguel (0.013699s)
+[2021.05.05-10.06.29:363][780]LogUObjectHash: Compacting FUObjectHashTables data took   2.98ms
+[2021.05.05-10.06.29:367][780]LogAudio: Display: Creating Audio Device:                 Id: 65, Scope: Unique, Realtime: True
+[2021.05.05-10.06.29:367][780]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.05.05-10.06.29:367][780]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.05.05-10.06.29:367][780]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.05.05-10.06.29:367][780]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.05.05-10.06.29:367][780]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.05.05-10.06.29:367][780]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.05.05-10.06.29:367][780]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.05.05-10.06.29:367][780]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.05.05-10.06.29:367][780]LogAudio: Display: Using built-in audio occlusion.
+[2021.05.05-10.06.29:367][780]LogAudioMixer: Display: Initializing audio mixer.
+[2021.05.05-10.06.29:370][780]LogAudioMixer: Display: 0: FrontLeft
+[2021.05.05-10.06.29:370][780]LogAudioMixer: Display: 1: FrontRight
+[2021.05.05-10.06.29:378][780]LogAudioMixer: Display: Using Audio Device VS278 (NVIDIA High Definition Audio)
+[2021.05.05-10.06.29:378][780]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.05.05-10.06.29:378][780]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.05.05-10.06.29:378][780]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.05.05-10.06.29:379][780]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.05.05-10.06.29:379][780]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.05.05-10.06.29:379][780]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.05.05-10.06.29:395][780]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.05.05-10.06.29:395][780]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.05.05-10.06.29:395][780]LogInit: FAudioDevice initialized.
+[2021.05.05-10.06.29:395][780]LogAudio: Display: Audio Device (ID: 65) registered with world 'NivelPruebaMiguel'.
+[2021.05.05-10.06.29:429][780]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.05-10.06.29:429][780]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2021.05.05-10.06.29:431][780]LogWorld: Bringing World /Game/TFG/Miguel/Levels/UEDPIE_0_NivelPruebaMiguel.NivelPruebaMiguel up for play (max tick rate 60) at 2021.05.05-12.06.29
+[2021.05.05-10.06.29:435][780]LogWorld: Bringing up level for play took: 0.005232
+[2021.05.05-10.06.29:435][780]LogOnline: OSS: Creating online subsystem instance for: :Context_103
+[2021.05.05-10.06.29:440][780]PIE: Server logged in
+[2021.05.05-10.06.29:442][780]PIE: Play in editor total start time 0,129 seconds.
+[2021.05.05-10.06.40:318][427]LogBlueprintUserMessages: [BTT_SayDialogue_C_3] No entiendo la manía de esconder las llaves en los cajones en vez de comprar un llavero
+[2021.05.05-10.06.45:694][748]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.05-10.06.45:694][748]LogWorld: BeginTearingDown for /Game/TFG/Miguel/Levels/UEDPIE_0_NivelPruebaMiguel
+[2021.05.05-10.06.45:695][748]LogSlate: Window 'TFG_V1 Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2021.05.05-10.06.45:702][748]LogWorld: UWorld::CleanupWorld for NivelPruebaMiguel, bSessionEnded=true, bCleanupResources=true
+[2021.05.05-10.06.45:703][748]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.05-10.06.45:721][748]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.05.05-10.06.45:732][748]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.05-10.06.45:772][748]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.05.05-10.06.45:773][748]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.05.05-10.06.45:795][748]LogUObjectHash: Compacting FUObjectHashTables data took   2.94ms
+[2021.05.05-10.06.45:836][749]LogPlayLevel: Display: Destroying online subsystem :Context_103
+[2021.05.05-10.07.19:461][741]BlueprintLog: New page: Compile FirstPersonCharacter
+[2021.05.05-10.07.19:555][741]LogUObjectHash: Compacting FUObjectHashTables data took   3.35ms
+[2021.05.05-10.07.19:952][750]LogSavePackage: Moving '../../../../../../Users/xmigu/Desktop/TFG/TFG/TFG_V1/Saved/FirstPersonCharacter96991E9A4BE0277913960EAEACF2713B.tmp' to '../../../../../../Users/xmigu/Desktop/TFG/TFG/TFG_V1/Content/Assets/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset'
+[2021.05.05-10.07.19:968][750]AssetCheck: New page: Asset Save: FirstPersonCharacter
+[2021.05.05-10.07.19:968][750]LogContentValidation: Display: Validating Blueprint /Game/Assets/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter
+[2021.05.05-10.07.41:638][  3]BlueprintLog: New page: Compile FirstPersonCharacter
+[2021.05.05-10.07.41:724][  3]LogUObjectHash: Compacting FUObjectHashTables data took   3.85ms
+[2021.05.05-10.07.42:098][ 11]LogSavePackage: Moving '../../../../../../Users/xmigu/Desktop/TFG/TFG/TFG_V1/Saved/FirstPersonCharacterFEBAC51E475084E291CE4B9F8E1CB33B.tmp' to '../../../../../../Users/xmigu/Desktop/TFG/TFG/TFG_V1/Content/Assets/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset'
+[2021.05.05-10.07.42:114][ 11]AssetCheck: New page: Asset Save: FirstPersonCharacter
+[2021.05.05-10.07.42:114][ 11]LogContentValidation: Display: Validating Blueprint /Game/Assets/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter
+[2021.05.05-10.07.43:316][ 83]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2021.05.05-10.07.43:322][ 83]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.05.05-10.07.43:322][ 83]PIE: New page: PIE session: NivelPruebaMiguel (5 may. 2021 14:07:43)
+[2021.05.05-10.07.43:353][ 83]LogPlayLevel: Creating play world package: /Game/TFG/Miguel/Levels/UEDPIE_0_NivelPruebaMiguel
+[2021.05.05-10.07.43:367][ 83]LogPlayLevel: PIE: StaticDuplicateObject took: (0.013094s)
+[2021.05.05-10.07.43:367][ 83]LogAIModule: Creating AISystem for world NivelPruebaMiguel
+[2021.05.05-10.07.43:368][ 83]LogPlayLevel: PIE: World Init took: (0.001003s)
+[2021.05.05-10.07.43:368][ 83]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TFG/Miguel/Levels/NivelPruebaMiguel.NivelPruebaMiguel to /Game/TFG/Miguel/Levels/UEDPIE_0_NivelPruebaMiguel.NivelPruebaMiguel (0.014234s)
+[2021.05.05-10.07.43:404][ 83]LogUObjectHash: Compacting FUObjectHashTables data took   4.07ms
+[2021.05.05-10.07.43:405][ 83]LogAudio: Display: Creating Audio Device:                 Id: 66, Scope: Unique, Realtime: True
+[2021.05.05-10.07.43:405][ 83]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.05.05-10.07.43:405][ 83]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.05.05-10.07.43:405][ 83]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.05.05-10.07.43:405][ 83]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.05.05-10.07.43:405][ 83]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.05.05-10.07.43:405][ 83]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.05.05-10.07.43:405][ 83]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.05.05-10.07.43:405][ 83]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.05.05-10.07.43:406][ 83]LogAudio: Display: Using built-in audio occlusion.
+[2021.05.05-10.07.43:406][ 83]LogAudioMixer: Display: Initializing audio mixer.
+[2021.05.05-10.07.43:408][ 83]LogAudioMixer: Display: 0: FrontLeft
+[2021.05.05-10.07.43:408][ 83]LogAudioMixer: Display: 1: FrontRight
+[2021.05.05-10.07.43:417][ 83]LogAudioMixer: Display: Using Audio Device VS278 (NVIDIA High Definition Audio)
+[2021.05.05-10.07.43:417][ 83]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.05.05-10.07.43:417][ 83]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.05.05-10.07.43:417][ 83]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.05.05-10.07.43:417][ 83]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.05.05-10.07.43:417][ 83]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.05.05-10.07.43:417][ 83]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.05.05-10.07.43:433][ 83]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.05.05-10.07.43:433][ 83]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.05.05-10.07.43:433][ 83]LogInit: FAudioDevice initialized.
+[2021.05.05-10.07.43:433][ 83]LogAudio: Display: Audio Device (ID: 66) registered with world 'NivelPruebaMiguel'.
+[2021.05.05-10.07.43:477][ 83]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.05-10.07.43:478][ 83]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2021.05.05-10.07.43:480][ 83]LogWorld: Bringing World /Game/TFG/Miguel/Levels/UEDPIE_0_NivelPruebaMiguel.NivelPruebaMiguel up for play (max tick rate 60) at 2021.05.05-12.07.43
+[2021.05.05-10.07.43:484][ 83]LogWorld: Bringing up level for play took: 0.005491
+[2021.05.05-10.07.43:484][ 83]LogOnline: OSS: Creating online subsystem instance for: :Context_104
+[2021.05.05-10.07.43:492][ 83]PIE: Server logged in
+[2021.05.05-10.07.43:495][ 83]PIE: Play in editor total start time 0,175 seconds.
+[2021.05.05-10.07.53:658][689]LogBlueprintUserMessages: [BTT_SayDialogue_C_3] No entiendo la manía de esconder las llaves en los cajones en vez de comprar un llavero
+[2021.05.05-10.08.00:623][105]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.05-10.08.00:624][105]LogWorld: BeginTearingDown for /Game/TFG/Miguel/Levels/UEDPIE_0_NivelPruebaMiguel
+[2021.05.05-10.08.00:624][105]LogSlate: Window 'TFG_V1 Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2021.05.05-10.08.00:631][105]LogWorld: UWorld::CleanupWorld for NivelPruebaMiguel, bSessionEnded=true, bCleanupResources=true
+[2021.05.05-10.08.00:632][105]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.05-10.08.00:642][105]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.05.05-10.08.00:655][105]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.05-10.08.00:694][105]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.05.05-10.08.00:694][105]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.05.05-10.08.00:695][105]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.05.05-10.08.00:716][105]LogUObjectHash: Compacting FUObjectHashTables data took   2.94ms
+[2021.05.05-10.08.00:759][106]LogPlayLevel: Display: Destroying online subsystem :Context_104
+[2021.05.05-10.09.57:542][ 79]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2021.05.05-10.09.57:548][ 79]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.05.05-10.09.57:548][ 79]PIE: New page: PIE session: NivelPruebaMiguel (5 may. 2021 14:09:57)
+[2021.05.05-10.09.57:548][ 79]LogPlayLevel: Creating play world package: /Game/TFG/Miguel/Levels/UEDPIE_0_NivelPruebaMiguel
+[2021.05.05-10.09.57:560][ 79]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011738s)
+[2021.05.05-10.09.57:561][ 79]LogAIModule: Creating AISystem for world NivelPruebaMiguel
+[2021.05.05-10.09.57:561][ 79]LogPlayLevel: PIE: World Init took: (0.000985s)
+[2021.05.05-10.09.57:561][ 79]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TFG/Miguel/Levels/NivelPruebaMiguel.NivelPruebaMiguel to /Game/TFG/Miguel/Levels/UEDPIE_0_NivelPruebaMiguel.NivelPruebaMiguel (0.012837s)
+[2021.05.05-10.09.57:599][ 79]LogUObjectHash: Compacting FUObjectHashTables data took   2.97ms
+[2021.05.05-10.09.57:602][ 79]LogAudio: Display: Creating Audio Device:                 Id: 67, Scope: Unique, Realtime: True
+[2021.05.05-10.09.57:602][ 79]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.05.05-10.09.57:602][ 79]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.05.05-10.09.57:602][ 79]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.05.05-10.09.57:602][ 79]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.05.05-10.09.57:602][ 79]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.05.05-10.09.57:602][ 79]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.05.05-10.09.57:602][ 79]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.05.05-10.09.57:602][ 79]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.05.05-10.09.57:602][ 79]LogAudio: Display: Using built-in audio occlusion.
+[2021.05.05-10.09.57:602][ 79]LogAudioMixer: Display: Initializing audio mixer.
+[2021.05.05-10.09.57:605][ 79]LogAudioMixer: Display: 0: FrontLeft
+[2021.05.05-10.09.57:605][ 79]LogAudioMixer: Display: 1: FrontRight
+[2021.05.05-10.09.57:613][ 79]LogAudioMixer: Display: Using Audio Device VS278 (NVIDIA High Definition Audio)
+[2021.05.05-10.09.57:613][ 79]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.05.05-10.09.57:614][ 79]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.05.05-10.09.57:614][ 79]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.05.05-10.09.57:614][ 79]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.05.05-10.09.57:614][ 79]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.05.05-10.09.57:614][ 79]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.05.05-10.09.57:628][ 79]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.05.05-10.09.57:628][ 79]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.05.05-10.09.57:628][ 79]LogInit: FAudioDevice initialized.
+[2021.05.05-10.09.57:628][ 79]LogAudio: Display: Audio Device (ID: 67) registered with world 'NivelPruebaMiguel'.
+[2021.05.05-10.09.57:666][ 79]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.05-10.09.57:666][ 79]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2021.05.05-10.09.57:668][ 79]LogWorld: Bringing World /Game/TFG/Miguel/Levels/UEDPIE_0_NivelPruebaMiguel.NivelPruebaMiguel up for play (max tick rate 60) at 2021.05.05-12.09.57
+[2021.05.05-10.09.57:672][ 79]LogWorld: Bringing up level for play took: 0.005178
+[2021.05.05-10.09.57:672][ 79]LogOnline: OSS: Creating online subsystem instance for: :Context_105
+[2021.05.05-10.09.57:678][ 79]PIE: Server logged in
+[2021.05.05-10.09.57:681][ 79]PIE: Play in editor total start time 0,133 seconds.
+[2021.05.05-10.10.07:714][677]LogBlueprintUserMessages: [BTT_SayDialogue_C_3] No entiendo la manía de esconder las llaves en los cajones en vez de comprar un llavero
+[2021.05.05-10.10.17:614][269]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.05-10.10.17:614][269]LogWorld: BeginTearingDown for /Game/TFG/Miguel/Levels/UEDPIE_0_NivelPruebaMiguel
+[2021.05.05-10.10.17:615][269]LogSlate: Window 'TFG_V1 Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2021.05.05-10.10.17:620][269]LogWorld: UWorld::CleanupWorld for NivelPruebaMiguel, bSessionEnded=true, bCleanupResources=true
+[2021.05.05-10.10.17:620][269]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.05-10.10.17:644][269]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.05.05-10.10.17:655][269]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.05-10.10.17:692][269]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.05.05-10.10.17:692][269]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.05.05-10.10.17:713][269]LogUObjectHash: Compacting FUObjectHashTables data took   3.43ms
+[2021.05.05-10.10.17:757][270]LogPlayLevel: Display: Destroying online subsystem :Context_105
+[2021.05.05-10.11.24:117][224]BlueprintLog: New page: Compile FirstPersonCharacter
+[2021.05.05-10.11.24:206][224]LogUObjectHash: Compacting FUObjectHashTables data took   4.22ms
+[2021.05.05-10.11.24:577][235]LogSavePackage: Moving '../../../../../../Users/xmigu/Desktop/TFG/TFG/TFG_V1/Saved/FirstPersonCharacter849BD8914618B2B96FC3C38332880F7C.tmp' to '../../../../../../Users/xmigu/Desktop/TFG/TFG/TFG_V1/Content/Assets/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset'
+[2021.05.05-10.11.24:593][235]AssetCheck: New page: Asset Save: FirstPersonCharacter
+[2021.05.05-10.11.24:593][235]LogContentValidation: Display: Validating Blueprint /Game/Assets/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter
+[2021.05.05-10.11.32:450][702]BlueprintLog: New page: Compile FirstPersonCharacter
+[2021.05.05-10.11.32:538][702]LogUObjectHash: Compacting FUObjectHashTables data took   4.03ms
+[2021.05.05-10.11.32:959][716]LogSavePackage: Moving '../../../../../../Users/xmigu/Desktop/TFG/TFG/TFG_V1/Saved/FirstPersonCharacterCA4E5C8F49F4E550E0F99DA82970FD3D.tmp' to '../../../../../../Users/xmigu/Desktop/TFG/TFG/TFG_V1/Content/Assets/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset'
+[2021.05.05-10.11.32:973][716]AssetCheck: New page: Asset Save: FirstPersonCharacter
+[2021.05.05-10.11.32:973][716]LogContentValidation: Display: Validating Blueprint /Game/Assets/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter
+[2021.05.05-10.11.34:114][784]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2021.05.05-10.11.34:119][784]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.05.05-10.11.34:119][784]PIE: New page: PIE session: NivelPruebaMiguel (5 may. 2021 14:11:34)
+[2021.05.05-10.11.34:120][784]LogPlayLevel: Creating play world package: /Game/TFG/Miguel/Levels/UEDPIE_0_NivelPruebaMiguel
+[2021.05.05-10.11.34:131][784]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011004s)
+[2021.05.05-10.11.34:132][784]LogAIModule: Creating AISystem for world NivelPruebaMiguel
+[2021.05.05-10.11.34:132][784]LogPlayLevel: PIE: World Init took: (0.000895s)
+[2021.05.05-10.11.34:132][784]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TFG/Miguel/Levels/NivelPruebaMiguel.NivelPruebaMiguel to /Game/TFG/Miguel/Levels/UEDPIE_0_NivelPruebaMiguel.NivelPruebaMiguel (0.012011s)
+[2021.05.05-10.11.34:169][784]LogUObjectHash: Compacting FUObjectHashTables data took   3.72ms
+[2021.05.05-10.11.34:170][784]LogAudio: Display: Creating Audio Device:                 Id: 68, Scope: Unique, Realtime: True
+[2021.05.05-10.11.34:170][784]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.05.05-10.11.34:170][784]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.05.05-10.11.34:170][784]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.05.05-10.11.34:170][784]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.05.05-10.11.34:170][784]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.05.05-10.11.34:171][784]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.05.05-10.11.34:171][784]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.05.05-10.11.34:171][784]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.05.05-10.11.34:171][784]LogAudio: Display: Using built-in audio occlusion.
+[2021.05.05-10.11.34:171][784]LogAudioMixer: Display: Initializing audio mixer.
+[2021.05.05-10.11.34:174][784]LogAudioMixer: Display: 0: FrontLeft
+[2021.05.05-10.11.34:174][784]LogAudioMixer: Display: 1: FrontRight
+[2021.05.05-10.11.34:182][784]LogAudioMixer: Display: Using Audio Device VS278 (NVIDIA High Definition Audio)
+[2021.05.05-10.11.34:182][784]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.05.05-10.11.34:182][784]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.05.05-10.11.34:182][784]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.05.05-10.11.34:183][784]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.05.05-10.11.34:183][784]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.05.05-10.11.34:183][784]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.05.05-10.11.34:197][784]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.05.05-10.11.34:197][784]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.05.05-10.11.34:197][784]LogInit: FAudioDevice initialized.
+[2021.05.05-10.11.34:197][784]LogAudio: Display: Audio Device (ID: 68) registered with world 'NivelPruebaMiguel'.
+[2021.05.05-10.11.34:239][784]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.05-10.11.34:240][784]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2021.05.05-10.11.34:242][784]LogWorld: Bringing World /Game/TFG/Miguel/Levels/UEDPIE_0_NivelPruebaMiguel.NivelPruebaMiguel up for play (max tick rate 60) at 2021.05.05-12.11.34
+[2021.05.05-10.11.34:245][784]LogWorld: Bringing up level for play took: 0.005376
+[2021.05.05-10.11.34:246][784]LogOnline: OSS: Creating online subsystem instance for: :Context_106
+[2021.05.05-10.11.34:251][784]PIE: Server logged in
+[2021.05.05-10.11.34:254][784]PIE: Play in editor total start time 0,135 seconds.
+[2021.05.05-10.11.44:665][402]LogBlueprintUserMessages: [BTT_SayDialogue_C_3] No entiendo la manía de esconder las llaves en los cajones en vez de comprar un llavero
+[2021.05.05-10.11.48:704][642]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.05-10.11.48:705][642]LogWorld: BeginTearingDown for /Game/TFG/Miguel/Levels/UEDPIE_0_NivelPruebaMiguel
+[2021.05.05-10.11.48:705][642]LogSlate: Window 'TFG_V1 Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2021.05.05-10.11.48:710][642]LogWorld: UWorld::CleanupWorld for NivelPruebaMiguel, bSessionEnded=true, bCleanupResources=true
+[2021.05.05-10.11.48:710][642]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.05-10.11.48:719][642]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.05.05-10.11.48:729][642]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.05-10.11.48:763][642]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.05.05-10.11.48:764][642]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.05.05-10.11.48:765][642]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.05.05-10.11.48:785][642]LogUObjectHash: Compacting FUObjectHashTables data took   2.53ms
+[2021.05.05-10.11.48:828][643]LogPlayLevel: Display: Destroying online subsystem :Context_106
+[2021.05.05-10.11.52:273][841]LogSavePackage: Moving '../../../../../../Users/xmigu/Desktop/TFG/TFG/TFG_V1/Saved/FirstPersonCharacterA0081AA740820E9610B4D0885823CF89.tmp' to '../../../../../../Users/xmigu/Desktop/TFG/TFG/TFG_V1/Content/Assets/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset'
+[2021.05.05-10.11.52:289][841]AssetCheck: New page: Asset Save: FirstPersonCharacter
+[2021.05.05-10.11.52:289][841]LogContentValidation: Display: Validating Blueprint /Game/Assets/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter
+[2021.05.05-10.12.00:547][329]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TFG/Miguel/Actors/MyGameInstance" FILE="../../../../../../Users/xmigu/Desktop/TFG/TFG/TFG_V1/Content/TFG/Miguel/Actors/MyGameInstance.uasset" SILENT=true
+[2021.05.05-10.12.00:556][329]LogSavePackage: Moving '../../../../../../Users/xmigu/Desktop/TFG/TFG/TFG_V1/Saved/MyGameInstanceB7B9E5F94585D5F103F72885B4E4CEEC.tmp' to '../../../../../../Users/xmigu/Desktop/TFG/TFG/TFG_V1/Content/TFG/Miguel/Actors/MyGameInstance.uasset'
+[2021.05.05-10.12.00:572][329]AssetCheck: New page: Asset Save: MyGameInstance
+[2021.05.05-10.12.00:572][329]LogContentValidation: Display: Validating Blueprint /Game/TFG/Miguel/Actors/MyGameInstance.MyGameInstance
+[2021.05.05-10.13.21:688][173]LogUObjectHash: Compacting FUObjectHashTables data took   2.73ms
+[2021.05.05-10.13.21:785][173]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2021.05.05-10.13.21:812][173]LogSavePackage: Moving '../../../../../../Users/xmigu/Desktop/TFG/TFG/TFG_V1/Saved/NivelPruebaMiguel51DCFC484D99632CDCA8E797F55FBBF0.tmp' to '../../../../../../Users/xmigu/Desktop/TFG/TFG/TFG_V1/Content/TFG/Miguel/Levels/NivelPruebaMiguel.umap'
+[2021.05.05-10.13.21:824][173]LogFileHelpers: Saving map 'NivelPruebaMiguel' took 0.072
+[2021.05.05-10.13.21:842][173]AssetCheck: New page: Asset Save: NivelPruebaMiguel
+[2021.05.05-10.13.21:842][173]LogContentValidation: Display: Validating World /Game/TFG/Miguel/Levels/NivelPruebaMiguel.NivelPruebaMiguel
+[2021.05.05-10.26.22:234][346]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TFG/Miguel/Actors/MyGameInstance" FILE="../../../../../../Users/xmigu/Desktop/TFG/TFG/TFG_V1/Content/TFG/Miguel/Actors/MyGameInstance.uasset" SILENT=true
+[2021.05.05-10.26.22:244][346]LogSavePackage: Moving '../../../../../../Users/xmigu/Desktop/TFG/TFG/TFG_V1/Saved/MyGameInstance597C436E41888AA880973BB3C379CA1B.tmp' to '../../../../../../Users/xmigu/Desktop/TFG/TFG/TFG_V1/Content/TFG/Miguel/Actors/MyGameInstance.uasset'
+[2021.05.05-10.26.22:263][346]AssetCheck: New page: Asset Save: MyGameInstance
+[2021.05.05-10.26.22:263][346]LogContentValidation: Display: Validating Blueprint /Game/TFG/Miguel/Actors/MyGameInstance.MyGameInstance
+[2021.05.05-10.27.28:283][227]LogUObjectHash: Compacting FUObjectHashTables data took   3.49ms
+[2021.05.05-10.27.28:287][227]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/TFG/Miguel/Levels/NivelPruebaMiguel' took 0.044
+[2021.05.05-10.27.28:287][227]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/TFG/Miguel/Actors/BP_InteractableObject] ([2] browsable assets)...
+[2021.05.05-10.27.28:301][227]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/TFG/Miguel/Actors/BP_InteractableObject.BP_InteractableObject]
+[2021.05.05-10.27.28:309][227]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/TFG/Miguel/Actors/BP_InteractableObject.BP_InteractableObject]
+[2021.05.05-10.27.28:309][227]OBJ SavePackage: Finished generating thumbnails for package [/Game/TFG/Miguel/Actors/BP_InteractableObject]
+[2021.05.05-10.27.28:325][227]LogSavePackage: Moving '../../../../../../Users/xmigu/Desktop/TFG/TFG/TFG_V1/Saved/BP_InteractableObject_Auto993A3B3BB4E7FADF7170B01A0EA5911D8.tmp' to '../../../../../../Users/xmigu/Desktop/TFG/TFG/TFG_V1/Saved/Autosaves/Game/TFG/Miguel/Actors/BP_InteractableObject_Auto9.uasset'
+[2021.05.05-10.27.28:326][227]LogFileHelpers: Auto-saving content packages took 0.039
+[2021.05.05-10.27.36:586][719]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TFG/Miguel/Actors/BP_InteractableObject" FILE="../../../../../../Users/xmigu/Desktop/TFG/TFG/TFG_V1/Content/TFG/Miguel/Actors/BP_InteractableObject.uasset" SILENT=true
+[2021.05.05-10.27.36:599][719]LogSavePackage: Moving '../../../../../../Users/xmigu/Desktop/TFG/TFG/TFG_V1/Saved/BP_InteractableObject7EEBE2F643BD675B6BD7109E6D8F0CCE.tmp' to '../../../../../../Users/xmigu/Desktop/TFG/TFG/TFG_V1/Content/TFG/Miguel/Actors/BP_InteractableObject.uasset'
+[2021.05.05-10.27.36:613][719]AssetCheck: New page: Asset Save: BP_InteractableObject
+[2021.05.05-10.27.36:613][719]LogContentValidation: Display: Validating Blueprint /Game/TFG/Miguel/Actors/BP_InteractableObject.BP_InteractableObject
+[2021.05.05-10.30.42:554][  3]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TFG/Miguel/Actors/BP_InteractableObject" FILE="../../../../../../Users/xmigu/Desktop/TFG/TFG/TFG_V1/Content/TFG/Miguel/Actors/BP_InteractableObject.uasset" SILENT=true
+[2021.05.05-10.30.42:567][  3]LogSavePackage: Moving '../../../../../../Users/xmigu/Desktop/TFG/TFG/TFG_V1/Saved/BP_InteractableObject0893B5AE4273AAE3148D6295F4DED32B.tmp' to '../../../../../../Users/xmigu/Desktop/TFG/TFG/TFG_V1/Content/TFG/Miguel/Actors/BP_InteractableObject.uasset'
+[2021.05.05-10.30.42:582][  3]AssetCheck: New page: Asset Save: BP_InteractableObject
+[2021.05.05-10.30.42:582][  3]LogContentValidation: Display: Validating Blueprint /Game/TFG/Miguel/Actors/BP_InteractableObject.BP_InteractableObject
+[2021.05.05-10.33.12:323][891]BlueprintLog: New page: Compile MyGameInstance
+[2021.05.05-10.33.12:407][891]LogUObjectHash: Compacting FUObjectHashTables data took   4.20ms
+[2021.05.05-10.33.12:928][915]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TFG/Miguel/Actors/MyGameInstance" FILE="../../../../../../Users/xmigu/Desktop/TFG/TFG/TFG_V1/Content/TFG/Miguel/Actors/MyGameInstance.uasset" SILENT=true
+[2021.05.05-10.33.12:938][915]LogSavePackage: Moving '../../../../../../Users/xmigu/Desktop/TFG/TFG/TFG_V1/Saved/MyGameInstance82F6096E4CAEE06AF5372694CAA9C49E.tmp' to '../../../../../../Users/xmigu/Desktop/TFG/TFG/TFG_V1/Content/TFG/Miguel/Actors/MyGameInstance.uasset'
+[2021.05.05-10.33.12:954][915]AssetCheck: New page: Asset Save: MyGameInstance
+[2021.05.05-10.33.12:954][915]LogContentValidation: Display: Validating Blueprint /Game/TFG/Miguel/Actors/MyGameInstance.MyGameInstance
+[2021.05.05-10.33.18:442][244]BlueprintLog: New page: Compile BP_TaskPlace
+[2021.05.05-10.33.18:510][244]LogUObjectHash: Compacting FUObjectHashTables data took   4.02ms
+[2021.05.05-10.33.18:862][258]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TFG/Miguel/Actors/BP_TaskPlace" FILE="../../../../../../Users/xmigu/Desktop/TFG/TFG/TFG_V1/Content/TFG/Miguel/Actors/BP_TaskPlace.uasset" SILENT=true
+[2021.05.05-10.33.18:877][258]LogSavePackage: Moving '../../../../../../Users/xmigu/Desktop/TFG/TFG/TFG_V1/Saved/BP_TaskPlace61B3914744BF31F93335D28EF7866019.tmp' to '../../../../../../Users/xmigu/Desktop/TFG/TFG/TFG_V1/Content/TFG/Miguel/Actors/BP_TaskPlace.uasset'
+[2021.05.05-10.33.18:892][258]AssetCheck: New page: Asset Save: BP_TaskPlace
+[2021.05.05-10.33.18:892][258]LogContentValidation: Display: Validating Blueprint /Game/TFG/Miguel/Actors/BP_TaskPlace.BP_TaskPlace
+[2021.05.05-10.34.26:950][309]BlueprintLog: New page: Compile MyGameInstance
+[2021.05.05-10.34.27:031][309]LogUObjectHash: Compacting FUObjectHashTables data took   3.96ms
+[2021.05.05-10.34.27:496][332]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TFG/Miguel/Actors/MyGameInstance" FILE="../../../../../../Users/xmigu/Desktop/TFG/TFG/TFG_V1/Content/TFG/Miguel/Actors/MyGameInstance.uasset" SILENT=true
+[2021.05.05-10.34.27:507][332]LogSavePackage: Moving '../../../../../../Users/xmigu/Desktop/TFG/TFG/TFG_V1/Saved/MyGameInstanceF30D7E504D1430A21C69CF8A5CBFD92B.tmp' to '../../../../../../Users/xmigu/Desktop/TFG/TFG/TFG_V1/Content/TFG/Miguel/Actors/MyGameInstance.uasset'
+[2021.05.05-10.34.27:522][332]AssetCheck: New page: Asset Save: MyGameInstance
+[2021.05.05-10.34.27:523][332]LogContentValidation: Display: Validating Blueprint /Game/TFG/Miguel/Actors/MyGameInstance.MyGameInstance
+[2021.05.05-10.34.52:741][810]BlueprintLog: New page: Compile MyGameInstance
+[2021.05.05-10.34.52:788][810]LogUObjectHash: Compacting FUObjectHashTables data took   3.95ms
+[2021.05.05-10.34.53:113][825]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TFG/Miguel/Actors/MyGameInstance" FILE="../../../../../../Users/xmigu/Desktop/TFG/TFG/TFG_V1/Content/TFG/Miguel/Actors/MyGameInstance.uasset" SILENT=true
+[2021.05.05-10.34.53:127][825]LogSavePackage: Moving '../../../../../../Users/xmigu/Desktop/TFG/TFG/TFG_V1/Saved/MyGameInstance7CF10E534B04915E266822BD5E00BEFB.tmp' to '../../../../../../Users/xmigu/Desktop/TFG/TFG/TFG_V1/Content/TFG/Miguel/Actors/MyGameInstance.uasset'
+[2021.05.05-10.34.53:143][825]AssetCheck: New page: Asset Save: MyGameInstance
+[2021.05.05-10.34.53:143][825]LogContentValidation: Display: Validating Blueprint /Game/TFG/Miguel/Actors/MyGameInstance.MyGameInstance
+[2021.05.05-10.35.09:810][802]BlueprintLog: New page: Compile MyGameInstance
+[2021.05.05-10.35.09:856][802]LogUObjectHash: Compacting FUObjectHashTables data took   3.95ms
+[2021.05.05-10.35.10:549][839]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TFG/Miguel/Actors/MyGameInstance" FILE="../../../../../../Users/xmigu/Desktop/TFG/TFG/TFG_V1/Content/TFG/Miguel/Actors/MyGameInstance.uasset" SILENT=true
+[2021.05.05-10.35.10:563][839]LogSavePackage: Moving '../../../../../../Users/xmigu/Desktop/TFG/TFG/TFG_V1/Saved/MyGameInstance31C06A904A3091F6CAFD1DB18B9F7651.tmp' to '../../../../../../Users/xmigu/Desktop/TFG/TFG/TFG_V1/Content/TFG/Miguel/Actors/MyGameInstance.uasset'
+[2021.05.05-10.35.10:578][839]AssetCheck: New page: Asset Save: MyGameInstance
+[2021.05.05-10.35.10:578][839]LogContentValidation: Display: Validating Blueprint /Game/TFG/Miguel/Actors/MyGameInstance.MyGameInstance
+[2021.05.05-10.35.11:543][897]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2021.05.05-10.35.11:550][897]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.05.05-10.35.11:550][897]PIE: New page: PIE session: NivelPruebaMiguel (5 may. 2021 14:35:11)
+[2021.05.05-10.35.11:589][897]LogPlayLevel: Creating play world package: /Game/TFG/Miguel/Levels/UEDPIE_0_NivelPruebaMiguel
+[2021.05.05-10.35.11:601][897]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011420s)
+[2021.05.05-10.35.11:602][897]LogAIModule: Creating AISystem for world NivelPruebaMiguel
+[2021.05.05-10.35.11:602][897]LogPlayLevel: PIE: World Init took: (0.001239s)
+[2021.05.05-10.35.11:602][897]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TFG/Miguel/Levels/NivelPruebaMiguel.NivelPruebaMiguel to /Game/TFG/Miguel/Levels/UEDPIE_0_NivelPruebaMiguel.NivelPruebaMiguel (0.012804s)
+[2021.05.05-10.35.11:639][897]LogUObjectHash: Compacting FUObjectHashTables data took   3.89ms
+[2021.05.05-10.35.11:640][897]LogAudio: Display: Creating Audio Device:                 Id: 69, Scope: Unique, Realtime: True
+[2021.05.05-10.35.11:640][897]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.05.05-10.35.11:640][897]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.05.05-10.35.11:640][897]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.05.05-10.35.11:640][897]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.05.05-10.35.11:640][897]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.05.05-10.35.11:640][897]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.05.05-10.35.11:640][897]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.05.05-10.35.11:640][897]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.05.05-10.35.11:640][897]LogAudio: Display: Using built-in audio occlusion.
+[2021.05.05-10.35.11:640][897]LogAudioMixer: Display: Initializing audio mixer.
+[2021.05.05-10.35.11:643][897]LogAudioMixer: Display: 0: FrontLeft
+[2021.05.05-10.35.11:643][897]LogAudioMixer: Display: 1: FrontRight
+[2021.05.05-10.35.11:651][897]LogAudioMixer: Display: Using Audio Device VS278 (NVIDIA High Definition Audio)
+[2021.05.05-10.35.11:652][897]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.05.05-10.35.11:652][897]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.05.05-10.35.11:652][897]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.05.05-10.35.11:652][897]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.05.05-10.35.11:652][897]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.05.05-10.35.11:652][897]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.05.05-10.35.11:666][897]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.05.05-10.35.11:666][897]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.05.05-10.35.11:666][897]LogInit: FAudioDevice initialized.
+[2021.05.05-10.35.11:666][897]LogAudio: Display: Audio Device (ID: 69) registered with world 'NivelPruebaMiguel'.
+[2021.05.05-10.35.11:708][897]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.05-10.35.11:708][897]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2021.05.05-10.35.11:710][897]LogWorld: Bringing World /Game/TFG/Miguel/Levels/UEDPIE_0_NivelPruebaMiguel.NivelPruebaMiguel up for play (max tick rate 60) at 2021.05.05-12.35.11
+[2021.05.05-10.35.11:714][897]LogWorld: Bringing up level for play took: 0.005129
+[2021.05.05-10.35.11:714][897]LogOnline: OSS: Creating online subsystem instance for: :Context_107
+[2021.05.05-10.35.11:720][897]PIE: Server logged in
+[2021.05.05-10.35.11:721][897]PIE: Play in editor total start time 0,172 seconds.
+[2021.05.05-10.35.22:571][544]LogBlueprintUserMessages: [BTT_SayDialogue_C_3] No entiendo la manía de esconder las llaves en los cajones en vez de comprar un llavero
+[2021.05.05-10.35.23:591][603]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.05-10.35.23:591][603]LogWorld: BeginTearingDown for /Game/TFG/Miguel/Levels/UEDPIE_0_NivelPruebaMiguel
+[2021.05.05-10.35.23:592][603]LogSlate: Window 'TFG_V1 Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2021.05.05-10.35.23:598][603]LogWorld: UWorld::CleanupWorld for NivelPruebaMiguel, bSessionEnded=true, bCleanupResources=true
+[2021.05.05-10.35.23:599][603]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.05-10.35.23:617][603]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.05.05-10.35.23:628][603]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.05-10.35.23:663][603]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.05.05-10.35.23:663][603]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.05.05-10.35.23:664][603]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.05.05-10.35.23:687][603]LogUObjectHash: Compacting FUObjectHashTables data took   3.34ms
+[2021.05.05-10.35.23:728][604]LogPlayLevel: Display: Destroying online subsystem :Context_107
+[2021.05.05-10.35.52:639][277]BlueprintLog: New page: Compile FirstPersonCharacter
+[2021.05.05-10.35.52:731][277]LogUObjectHash: Compacting FUObjectHashTables data took   3.54ms
+[2021.05.05-10.35.53:324][298]LogSavePackage: Moving '../../../../../../Users/xmigu/Desktop/TFG/TFG/TFG_V1/Saved/FirstPersonCharacterAFBA1CC34D53B4A1900F4F9568068396.tmp' to '../../../../../../Users/xmigu/Desktop/TFG/TFG/TFG_V1/Content/Assets/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset'
+[2021.05.05-10.35.53:339][298]AssetCheck: New page: Asset Save: FirstPersonCharacter
+[2021.05.05-10.35.53:339][298]LogContentValidation: Display: Validating Blueprint /Game/Assets/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter
+[2021.05.05-10.35.54:491][367]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2021.05.05-10.35.54:496][367]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.05.05-10.35.54:496][367]PIE: New page: PIE session: NivelPruebaMiguel (5 may. 2021 14:35:54)
+[2021.05.05-10.35.54:496][367]LogPlayLevel: Creating play world package: /Game/TFG/Miguel/Levels/UEDPIE_0_NivelPruebaMiguel
+[2021.05.05-10.35.54:507][367]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011014s)
+[2021.05.05-10.35.54:508][367]LogAIModule: Creating AISystem for world NivelPruebaMiguel
+[2021.05.05-10.35.54:508][367]LogPlayLevel: PIE: World Init took: (0.000928s)
+[2021.05.05-10.35.54:508][367]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TFG/Miguel/Levels/NivelPruebaMiguel.NivelPruebaMiguel to /Game/TFG/Miguel/Levels/UEDPIE_0_NivelPruebaMiguel.NivelPruebaMiguel (0.012059s)
+[2021.05.05-10.35.54:546][367]LogUObjectHash: Compacting FUObjectHashTables data took   3.98ms
+[2021.05.05-10.35.54:548][367]LogAudio: Display: Creating Audio Device:                 Id: 70, Scope: Unique, Realtime: True
+[2021.05.05-10.35.54:548][367]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.05.05-10.35.54:548][367]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.05.05-10.35.54:548][367]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.05.05-10.35.54:548][367]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.05.05-10.35.54:548][367]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.05.05-10.35.54:548][367]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.05.05-10.35.54:548][367]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.05.05-10.35.54:548][367]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.05.05-10.35.54:548][367]LogAudio: Display: Using built-in audio occlusion.
+[2021.05.05-10.35.54:548][367]LogAudioMixer: Display: Initializing audio mixer.
+[2021.05.05-10.35.54:551][367]LogAudioMixer: Display: 0: FrontLeft
+[2021.05.05-10.35.54:551][367]LogAudioMixer: Display: 1: FrontRight
+[2021.05.05-10.35.54:559][367]LogAudioMixer: Display: Using Audio Device VS278 (NVIDIA High Definition Audio)
+[2021.05.05-10.35.54:559][367]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.05.05-10.35.54:559][367]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.05.05-10.35.54:559][367]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.05.05-10.35.54:559][367]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.05.05-10.35.54:559][367]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.05.05-10.35.54:559][367]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.05.05-10.35.54:574][367]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.05.05-10.35.54:574][367]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.05.05-10.35.54:574][367]LogInit: FAudioDevice initialized.
+[2021.05.05-10.35.54:574][367]LogAudio: Display: Audio Device (ID: 70) registered with world 'NivelPruebaMiguel'.
+[2021.05.05-10.35.54:617][367]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.05-10.35.54:617][367]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2021.05.05-10.35.54:619][367]LogWorld: Bringing World /Game/TFG/Miguel/Levels/UEDPIE_0_NivelPruebaMiguel.NivelPruebaMiguel up for play (max tick rate 60) at 2021.05.05-12.35.54
+[2021.05.05-10.35.54:623][367]LogWorld: Bringing up level for play took: 0.005187
+[2021.05.05-10.35.54:623][367]LogOnline: OSS: Creating online subsystem instance for: :Context_108
+[2021.05.05-10.35.54:631][367]PIE: Server logged in
+[2021.05.05-10.35.54:635][367]PIE: Play in editor total start time 0,139 seconds.
+[2021.05.05-10.36.01:494][775]LogBlueprintUserMessages: [MyGameInstance_C_68] Tarea terminada
+[2021.05.05-10.36.04:677][966]LogBlueprintUserMessages: [BTT_SayDialogue_C_3] No entiendo la manía de esconder las llaves en los cajones en vez de comprar un llavero
+[2021.05.05-10.36.05:371][  6]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.05-10.36.05:371][  6]LogWorld: BeginTearingDown for /Game/TFG/Miguel/Levels/UEDPIE_0_NivelPruebaMiguel
+[2021.05.05-10.36.05:372][  6]LogSlate: Window 'TFG_V1 Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2021.05.05-10.36.05:377][  6]LogWorld: UWorld::CleanupWorld for NivelPruebaMiguel, bSessionEnded=true, bCleanupResources=true
+[2021.05.05-10.36.05:377][  6]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.05-10.36.05:394][  6]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.05.05-10.36.05:404][  6]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.05-10.36.05:442][  6]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.05.05-10.36.05:442][  6]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.05.05-10.36.05:443][  6]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.05.05-10.36.05:465][  6]LogUObjectHash: Compacting FUObjectHashTables data took   3.02ms
+[2021.05.05-10.36.05:508][  7]LogPlayLevel: Display: Destroying online subsystem :Context_108
+[2021.05.05-10.36.10:739][317]LogEditorViewport: Clicking on Actor (LMB): BP_TaskItem_C (BP_TaskItem)
+[2021.05.05-10.36.14:710][554]LogEditorViewport: Clicking on Actor (LMB): BP_TaskPlace_C (BP_TaskPlace)
+[2021.05.05-10.36.18:512][781]LogEditorViewport: Clicking on Actor (LMB): BP_TaskItem_C (BP_TaskItem)
+[2021.05.05-10.36.29:083][410]LogEditorViewport: Clicking on Actor (LMB): TextRenderActor (TextRenderActor3)
+[2021.05.05-10.36.50:221][672]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2021.05.05-10.36.50:226][672]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.05.05-10.36.50:227][672]PIE: New page: PIE session: NivelPruebaMiguel (5 may. 2021 14:36:50)
+[2021.05.05-10.36.50:227][672]LogPlayLevel: Creating play world package: /Game/TFG/Miguel/Levels/UEDPIE_0_NivelPruebaMiguel
+[2021.05.05-10.36.50:238][672]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011213s)
+[2021.05.05-10.36.50:239][672]LogAIModule: Creating AISystem for world NivelPruebaMiguel
+[2021.05.05-10.36.50:239][672]LogPlayLevel: PIE: World Init took: (0.001026s)
+[2021.05.05-10.36.50:239][672]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TFG/Miguel/Levels/NivelPruebaMiguel.NivelPruebaMiguel to /Game/TFG/Miguel/Levels/UEDPIE_0_NivelPruebaMiguel.NivelPruebaMiguel (0.012387s)
+[2021.05.05-10.36.50:278][672]LogUObjectHash: Compacting FUObjectHashTables data took   2.99ms
+[2021.05.05-10.36.50:281][672]LogAudio: Display: Creating Audio Device:                 Id: 71, Scope: Unique, Realtime: True
+[2021.05.05-10.36.50:281][672]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.05.05-10.36.50:281][672]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.05.05-10.36.50:281][672]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.05.05-10.36.50:281][672]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.05.05-10.36.50:281][672]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.05.05-10.36.50:281][672]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.05.05-10.36.50:281][672]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.05.05-10.36.50:281][672]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.05.05-10.36.50:282][672]LogAudio: Display: Using built-in audio occlusion.
+[2021.05.05-10.36.50:282][672]LogAudioMixer: Display: Initializing audio mixer.
+[2021.05.05-10.36.50:284][672]LogAudioMixer: Display: 0: FrontLeft
+[2021.05.05-10.36.50:284][672]LogAudioMixer: Display: 1: FrontRight
+[2021.05.05-10.36.50:292][672]LogAudioMixer: Display: Using Audio Device VS278 (NVIDIA High Definition Audio)
+[2021.05.05-10.36.50:293][672]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.05.05-10.36.50:293][672]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.05.05-10.36.50:293][672]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.05.05-10.36.50:293][672]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.05.05-10.36.50:293][672]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.05.05-10.36.50:293][672]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.05.05-10.36.50:308][672]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.05.05-10.36.50:308][672]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.05.05-10.36.50:308][672]LogInit: FAudioDevice initialized.
+[2021.05.05-10.36.50:308][672]LogAudio: Display: Audio Device (ID: 71) registered with world 'NivelPruebaMiguel'.
+[2021.05.05-10.36.50:355][672]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.05-10.36.50:355][672]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2021.05.05-10.36.50:358][672]LogWorld: Bringing World /Game/TFG/Miguel/Levels/UEDPIE_0_NivelPruebaMiguel.NivelPruebaMiguel up for play (max tick rate 60) at 2021.05.05-12.36.50
+[2021.05.05-10.36.50:361][672]LogWorld: Bringing up level for play took: 0.005537
+[2021.05.05-10.36.50:362][672]LogOnline: OSS: Creating online subsystem instance for: :Context_109
+[2021.05.05-10.36.50:370][672]PIE: Server logged in
+[2021.05.05-10.36.50:374][672]PIE: Play in editor total start time 0,148 seconds.
+[2021.05.05-10.37.01:245][320]LogBlueprintUserMessages: [BTT_SayDialogue_C_3] No entiendo la manía de esconder las llaves en los cajones en vez de comprar un llavero
+[2021.05.05-10.37.11:721][947]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.05-10.37.11:721][947]LogWorld: BeginTearingDown for /Game/TFG/Miguel/Levels/UEDPIE_0_NivelPruebaMiguel
+[2021.05.05-10.37.11:722][947]LogSlate: Window 'TFG_V1 Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2021.05.05-10.37.11:727][947]LogWorld: UWorld::CleanupWorld for NivelPruebaMiguel, bSessionEnded=true, bCleanupResources=true
+[2021.05.05-10.37.11:727][947]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.05-10.37.11:739][947]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.05.05-10.37.11:754][947]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.05-10.37.11:790][947]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.05.05-10.37.11:790][947]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.05.05-10.37.11:792][947]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.05.05-10.37.11:815][947]LogUObjectHash: Compacting FUObjectHashTables data took   3.57ms
+[2021.05.05-10.37.11:861][948]LogPlayLevel: Display: Destroying online subsystem :Context_109
+[2021.05.05-10.37.13:254][ 29]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2021.05.05-10.37.13:260][ 29]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.05.05-10.37.13:260][ 29]PIE: New page: PIE session: NivelPruebaMiguel (5 may. 2021 14:37:13)
+[2021.05.05-10.37.13:260][ 29]LogPlayLevel: Creating play world package: /Game/TFG/Miguel/Levels/UEDPIE_0_NivelPruebaMiguel
+[2021.05.05-10.37.13:271][ 29]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011405s)
+[2021.05.05-10.37.13:272][ 29]LogAIModule: Creating AISystem for world NivelPruebaMiguel
+[2021.05.05-10.37.13:272][ 29]LogPlayLevel: PIE: World Init took: (0.000896s)
+[2021.05.05-10.37.13:272][ 29]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TFG/Miguel/Levels/NivelPruebaMiguel.NivelPruebaMiguel to /Game/TFG/Miguel/Levels/UEDPIE_0_NivelPruebaMiguel.NivelPruebaMiguel (0.012420s)
+[2021.05.05-10.37.13:307][ 29]LogUObjectHash: Compacting FUObjectHashTables data took   2.94ms
+[2021.05.05-10.37.13:309][ 29]LogAudio: Display: Creating Audio Device:                 Id: 72, Scope: Unique, Realtime: True
+[2021.05.05-10.37.13:309][ 29]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.05.05-10.37.13:309][ 29]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.05.05-10.37.13:309][ 29]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.05.05-10.37.13:309][ 29]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.05.05-10.37.13:309][ 29]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.05.05-10.37.13:309][ 29]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.05.05-10.37.13:309][ 29]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.05.05-10.37.13:309][ 29]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.05.05-10.37.13:309][ 29]LogAudio: Display: Using built-in audio occlusion.
+[2021.05.05-10.37.13:310][ 29]LogAudioMixer: Display: Initializing audio mixer.
+[2021.05.05-10.37.13:312][ 29]LogAudioMixer: Display: 0: FrontLeft
+[2021.05.05-10.37.13:312][ 29]LogAudioMixer: Display: 1: FrontRight
+[2021.05.05-10.37.13:320][ 29]LogAudioMixer: Display: Using Audio Device VS278 (NVIDIA High Definition Audio)
+[2021.05.05-10.37.13:320][ 29]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.05.05-10.37.13:320][ 29]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.05.05-10.37.13:320][ 29]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.05.05-10.37.13:321][ 29]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.05.05-10.37.13:321][ 29]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.05.05-10.37.13:321][ 29]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.05.05-10.37.13:336][ 29]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.05.05-10.37.13:336][ 29]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.05.05-10.37.13:336][ 29]LogInit: FAudioDevice initialized.
+[2021.05.05-10.37.13:336][ 29]LogAudio: Display: Audio Device (ID: 72) registered with world 'NivelPruebaMiguel'.
+[2021.05.05-10.37.13:384][ 29]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.05-10.37.13:384][ 29]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2021.05.05-10.37.13:387][ 29]LogWorld: Bringing World /Game/TFG/Miguel/Levels/UEDPIE_0_NivelPruebaMiguel.NivelPruebaMiguel up for play (max tick rate 60) at 2021.05.05-12.37.13
+[2021.05.05-10.37.13:390][ 29]LogWorld: Bringing up level for play took: 0.005463
+[2021.05.05-10.37.13:390][ 29]LogOnline: OSS: Creating online subsystem instance for: :Context_110
+[2021.05.05-10.37.13:398][ 29]PIE: Server logged in
+[2021.05.05-10.37.13:403][ 29]PIE: Play in editor total start time 0,143 seconds.
+[2021.05.05-10.37.21:441][506]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.05-10.37.21:441][506]LogWorld: BeginTearingDown for /Game/TFG/Miguel/Levels/UEDPIE_0_NivelPruebaMiguel
+[2021.05.05-10.37.21:441][506]LogSlate: Window 'TFG_V1 Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2021.05.05-10.37.21:446][506]LogWorld: UWorld::CleanupWorld for NivelPruebaMiguel, bSessionEnded=true, bCleanupResources=true
+[2021.05.05-10.37.21:447][506]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.05-10.37.21:456][506]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.05.05-10.37.21:470][506]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.05-10.37.21:508][506]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.05.05-10.37.21:508][506]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.05.05-10.37.21:509][506]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.05.05-10.37.21:529][506]LogUObjectHash: Compacting FUObjectHashTables data took   3.50ms
+[2021.05.05-10.37.21:573][507]LogPlayLevel: Display: Destroying online subsystem :Context_110
+[2021.05.05-10.37.23:832][640]LogEditorViewport: Clicking on Actor (LMB): BP_TaskPlace_C (BP_TaskPlace)
+[2021.05.05-10.37.32:106][133]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2021.05.05-10.37.32:112][133]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.05.05-10.37.32:112][133]PIE: New page: PIE session: NivelPruebaMiguel (5 may. 2021 14:37:32)
+[2021.05.05-10.37.32:112][133]LogPlayLevel: Creating play world package: /Game/TFG/Miguel/Levels/UEDPIE_0_NivelPruebaMiguel
+[2021.05.05-10.37.32:124][133]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012194s)
+[2021.05.05-10.37.32:125][133]LogAIModule: Creating AISystem for world NivelPruebaMiguel
+[2021.05.05-10.37.32:125][133]LogPlayLevel: PIE: World Init took: (0.000953s)
+[2021.05.05-10.37.32:125][133]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TFG/Miguel/Levels/NivelPruebaMiguel.NivelPruebaMiguel to /Game/TFG/Miguel/Levels/UEDPIE_0_NivelPruebaMiguel.NivelPruebaMiguel (0.013267s)
+[2021.05.05-10.37.32:161][133]LogUObjectHash: Compacting FUObjectHashTables data took   2.88ms
+[2021.05.05-10.37.32:163][133]LogAudio: Display: Creating Audio Device:                 Id: 73, Scope: Unique, Realtime: True
+[2021.05.05-10.37.32:163][133]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.05.05-10.37.32:163][133]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.05.05-10.37.32:163][133]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.05.05-10.37.32:163][133]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.05.05-10.37.32:163][133]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.05.05-10.37.32:163][133]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.05.05-10.37.32:163][133]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.05.05-10.37.32:163][133]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.05.05-10.37.32:164][133]LogAudio: Display: Using built-in audio occlusion.
+[2021.05.05-10.37.32:164][133]LogAudioMixer: Display: Initializing audio mixer.
+[2021.05.05-10.37.32:166][133]LogAudioMixer: Display: 0: FrontLeft
+[2021.05.05-10.37.32:167][133]LogAudioMixer: Display: 1: FrontRight
+[2021.05.05-10.37.32:174][133]LogAudioMixer: Display: Using Audio Device VS278 (NVIDIA High Definition Audio)
+[2021.05.05-10.37.32:175][133]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.05.05-10.37.32:175][133]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.05.05-10.37.32:175][133]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.05.05-10.37.32:175][133]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.05.05-10.37.32:175][133]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.05.05-10.37.32:175][133]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.05.05-10.37.32:190][133]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.05.05-10.37.32:190][133]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.05.05-10.37.32:190][133]LogInit: FAudioDevice initialized.
+[2021.05.05-10.37.32:190][133]LogAudio: Display: Audio Device (ID: 73) registered with world 'NivelPruebaMiguel'.
+[2021.05.05-10.37.32:230][133]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.05-10.37.32:230][133]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2021.05.05-10.37.32:232][133]LogWorld: Bringing World /Game/TFG/Miguel/Levels/UEDPIE_0_NivelPruebaMiguel.NivelPruebaMiguel up for play (max tick rate 60) at 2021.05.05-12.37.32
+[2021.05.05-10.37.32:236][133]LogWorld: Bringing up level for play took: 0.005397
+[2021.05.05-10.37.32:236][133]LogOnline: OSS: Creating online subsystem instance for: :Context_111
+[2021.05.05-10.37.32:244][133]PIE: Server logged in
+[2021.05.05-10.37.32:248][133]PIE: Play in editor total start time 0,137 seconds.
+[2021.05.05-10.37.43:114][778]LogBlueprintUserMessages: [BTT_SayDialogue_C_3] No entiendo la manía de esconder las llaves en los cajones en vez de comprar un llavero
+[2021.05.05-10.37.56:247][566]LogBlueprintUserMessages: [BTT_SayDialogue_C_3] No estarás husmeando por la casa ¿no? Tú ya no vives aquí, decidiste irte y dejarnos.
+[2021.05.05-10.38.04:281][ 48]LogBlueprintUserMessages: [MyGameInstance_C_71] Tarea terminada
+[2021.05.05-10.38.06:110][156]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.05-10.38.06:110][156]LogWorld: BeginTearingDown for /Game/TFG/Miguel/Levels/UEDPIE_0_NivelPruebaMiguel
+[2021.05.05-10.38.06:111][156]LogSlate: Window 'TFG_V1 Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2021.05.05-10.38.06:117][156]LogWorld: UWorld::CleanupWorld for NivelPruebaMiguel, bSessionEnded=true, bCleanupResources=true
+[2021.05.05-10.38.06:118][156]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.05-10.38.06:126][156]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.05.05-10.38.06:136][156]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.05-10.38.06:176][156]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.05.05-10.38.06:177][156]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.05.05-10.38.06:199][156]LogUObjectHash: Compacting FUObjectHashTables data took   2.66ms
+[2021.05.05-10.38.06:246][157]LogPlayLevel: Display: Destroying online subsystem :Context_111
+[2021.05.05-10.38.15:014][674]LogUObjectHash: Compacting FUObjectHashTables data took   2.86ms
+[2021.05.05-10.38.15:111][674]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2021.05.05-10.38.15:141][674]LogSavePackage: Moving '../../../../../../Users/xmigu/Desktop/TFG/TFG/TFG_V1/Saved/NivelPruebaMiguel046FC5C34C815941BCA0EFAF62E3CA53.tmp' to '../../../../../../Users/xmigu/Desktop/TFG/TFG/TFG_V1/Content/TFG/Miguel/Levels/NivelPruebaMiguel.umap'
+[2021.05.05-10.38.15:155][674]LogFileHelpers: Saving map 'NivelPruebaMiguel' took 0.076
+[2021.05.05-10.38.15:169][674]AssetCheck: New page: Asset Save: NivelPruebaMiguel
+[2021.05.05-10.38.15:170][674]LogContentValidation: Display: Validating World /Game/TFG/Miguel/Levels/NivelPruebaMiguel.NivelPruebaMiguel
