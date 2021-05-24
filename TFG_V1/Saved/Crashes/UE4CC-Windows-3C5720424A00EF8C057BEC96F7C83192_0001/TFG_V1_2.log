@@ -1,0 +1,1308 @@
+﻿Log file open, 05/22/21 10:14:53
+LogInit: LLM is enabled
+LogInit: LLM CsvWriter: off TraceWriter: off
+LogInit: Display: Running engine for game: TFG_V1
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 35 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.236689
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +1:00, Platform Override: ''
+LogPluginManager: Mounting plugin MeshPainting
+LogPluginManager: Mounting plugin MegascansPlugin
+LogPluginManager: Mounting plugin XGEController
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin EnvironmentQueryEditor
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CameraShakePreviewer
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin EditorScriptingUtilities
+LogPluginManager: Mounting plugin GeometryMode
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PlasticSourceControl
+LogPluginManager: Mounting plugin PropertyAccessNode
+LogPluginManager: Mounting plugin PluginUtils
+LogPluginManager: Mounting plugin RiderSourceCodeAccess
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin ChaosCloth
+LogPluginManager: Mounting plugin ChaosClothEditor
+LogPluginManager: Mounting plugin ChaosEditor
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin ChaosNiagara
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin ChaosSolverPlugin
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin GeometryCollectionPlugin
+LogPluginManager: Mounting plugin GeometryProcessing
+LogPluginManager: Mounting plugin Niagara
+LogPluginManager: Mounting plugin GPULightmass
+LogPluginManager: Mounting plugin MotoSynth
+LogPluginManager: Mounting plugin PlanarCut
+LogPluginManager: Mounting plugin PythonScriptPlugin
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LuminPlatformFeatures
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin MagicLeapLightEstimation
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin MagicLeapPassableWorld
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin TemplateSequence
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin AudioSynesthesia
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin ChunkDownloader
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin GooglePAD
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin PostSplashScreen
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin PropertyAccessEditor
+LogPluginManager: Mounting plugin ScreenshotTools
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SoundFields
+LogPluginManager: Mounting plugin Synthesis
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ContentBrowserAssetDataSource
+LogPluginManager: Mounting plugin ContentBrowserClassDataSource
+LogPluginManager: Mounting plugin ContentBrowserFileDataSource
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin DatabaseSupport
+LogPluginManager: Mounting plugin SQLiteCore
+LogPluginManager: Mounting plugin SQLiteSupport
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin SteamVR
+LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+LogGPULightmass: GPULightmass module is loaded
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogInit: Build: ++UE4+Release-4.26-CL-15973114
+LogInit: Engine Version: 4.26.2-15973114+++UE4+Release-4.26
+LogInit: Compatible Engine Version: 4.26.0-14830424+++UE4+Release-4.26
+LogInit: Net CL: 14830424
+LogInit: OS: Windows 10 (Release 2009) (), CPU: Intel(R) Core(TM) i7-10750H CPU @ 2.60GHz, GPU: Intel(R) UHD Graphics
+LogInit: Compiled (64-bit): Apr 12 2021 06:14:10
+LogInit: Compiled with Visual C++: 19.24.28315.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.26
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.26/Engine/Binaries/Win64/
+LogInit: Allocator: TBB
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 29
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 40
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 3
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 4
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 44
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 12
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 15
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 43
+LogDevObjectVersion:   FortniteRelease (E7086368-6B23-4C58-8439-1B7016265E91): 1
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 40
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogDevObjectVersion:   Dev-VirtualProduction (64F58936-FD1B-42BA-BA96-7289D5D0FA4E): 1
+LogDevObjectVersion:   Dev-MediaFramework (6F0ED827-A609-4895-9C91-998D90180EA4): 2
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/xmigu/Desktop/TFG/TFG/TFG_V1/Saved/Config/Windows/Engine.ini]
+LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2021.05.22-08.14.54:253][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2021.05.22-08.14.54:253][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2021.05.22-08.14.54:253][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/xmigu/Desktop/TFG/TFG/TFG_V1/Saved/Config/Windows/Engine.ini]
+[2021.05.22-08.14.54:253][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2021.05.22-08.14.54:253][  0]LogConfig: Setting CVar [[r.SkinCache.CompileShaders:1]]
+[2021.05.22-08.14.54:253][  0]LogConfig: Setting CVar [[r.RayTracing:1]]
+[2021.05.22-08.14.54:253][  0]LogConfig: Setting CVar [[r.CustomDepth:1]]
+[2021.05.22-08.14.54:253][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/xmigu/Desktop/TFG/TFG/TFG_V1/Saved/Config/Windows/Engine.ini]
+[2021.05.22-08.14.54:253][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/xmigu/Desktop/TFG/TFG/TFG_V1/Saved/Config/Windows/Engine.ini]
+[2021.05.22-08.14.54:253][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2021.05.22-08.14.54:253][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2021.05.22-08.14.54:253][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2021.05.22-08.14.54:253][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2021.05.22-08.14.54:253][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2021.05.22-08.14.54:253][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2021.05.22-08.14.54:253][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2021.05.22-08.14.54:253][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2021.05.22-08.14.54:253][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2021.05.22-08.14.54:253][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2021.05.22-08.14.54:253][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2021.05.22-08.14.54:253][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2021.05.22-08.14.54:253][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2021.05.22-08.14.54:253][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2021.05.22-08.14.54:253][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/xmigu/Desktop/TFG/TFG/TFG_V1/Saved/Config/Windows/Engine.ini]
+[2021.05.22-08.14.54:253][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2021.05.22-08.14.54:253][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2021.05.22-08.14.54:253][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2021.05.22-08.14.54:253][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2021.05.22-08.14.54:253][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2021.05.22-08.14.54:253][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2021.05.22-08.14.54:253][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2021.05.22-08.14.54:254][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2021.05.22-08.14.54:254][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2021.05.22-08.14.54:254][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2021.05.22-08.14.54:254][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2021.05.22-08.14.54:254][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2021.05.22-08.14.54:254][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2021.05.22-08.14.54:254][  0]LogConfig: Setting CVar [[gc.MultithreadedDestructionEnabled:1]]
+[2021.05.22-08.14.54:254][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/xmigu/Desktop/TFG/TFG/TFG_V1/Saved/Config/Windows/Engine.ini]
+[2021.05.22-08.14.54:254][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/xmigu/Desktop/TFG/TFG/TFG_V1/Saved/Config/Windows/Engine.ini]
+[2021.05.22-08.14.54:266][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/xmigu/Desktop/TFG/TFG/TFG_V1/Saved/Config/Windows/Scalability.ini]
+[2021.05.22-08.14.54:266][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2021.05.22-08.14.54:266][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2021.05.22-08.14.54:266][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/xmigu/Desktop/TFG/TFG/TFG_V1/Saved/Config/Windows/Scalability.ini]
+[2021.05.22-08.14.54:266][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2021.05.22-08.14.54:267][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/xmigu/Desktop/TFG/TFG/TFG_V1/Saved/Config/Windows/Scalability.ini]
+[2021.05.22-08.14.54:267][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2021.05.22-08.14.54:267][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2021.05.22-08.14.54:267][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2021.05.22-08.14.54:267][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2021.05.22-08.14.54:267][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2021.05.22-08.14.54:267][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2021.05.22-08.14.54:267][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2021.05.22-08.14.54:267][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2021.05.22-08.14.54:267][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2021.05.22-08.14.54:267][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2021.05.22-08.14.54:267][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2021.05.22-08.14.54:267][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2021.05.22-08.14.54:267][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2021.05.22-08.14.54:267][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2021.05.22-08.14.54:267][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2021.05.22-08.14.54:267][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2021.05.22-08.14.54:267][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2021.05.22-08.14.54:267][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2021.05.22-08.14.54:267][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/xmigu/Desktop/TFG/TFG/TFG_V1/Saved/Config/Windows/Scalability.ini]
+[2021.05.22-08.14.54:267][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2021.05.22-08.14.54:267][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2021.05.22-08.14.54:267][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2021.05.22-08.14.54:267][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2021.05.22-08.14.54:267][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2021.05.22-08.14.54:267][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2021.05.22-08.14.54:267][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2021.05.22-08.14.54:267][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2021.05.22-08.14.54:267][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2021.05.22-08.14.54:267][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2021.05.22-08.14.54:267][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2021.05.22-08.14.54:267][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2021.05.22-08.14.54:267][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2021.05.22-08.14.54:267][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2021.05.22-08.14.54:267][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2021.05.22-08.14.54:267][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2021.05.22-08.14.54:267][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2021.05.22-08.14.54:267][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2021.05.22-08.14.54:267][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2021.05.22-08.14.54:267][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2021.05.22-08.14.54:267][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2021.05.22-08.14.54:267][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2021.05.22-08.14.54:267][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2021.05.22-08.14.54:267][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2021.05.22-08.14.54:267][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2021.05.22-08.14.54:267][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2021.05.22-08.14.54:267][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2021.05.22-08.14.54:267][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2021.05.22-08.14.54:267][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2021.05.22-08.14.54:267][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2021.05.22-08.14.54:267][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/xmigu/Desktop/TFG/TFG/TFG_V1/Saved/Config/Windows/Scalability.ini]
+[2021.05.22-08.14.54:267][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2021.05.22-08.14.54:267][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2021.05.22-08.14.54:267][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2021.05.22-08.14.54:267][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2021.05.22-08.14.54:267][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2021.05.22-08.14.54:267][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2021.05.22-08.14.54:267][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2021.05.22-08.14.54:267][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2021.05.22-08.14.54:267][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2021.05.22-08.14.54:267][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/xmigu/Desktop/TFG/TFG/TFG_V1/Saved/Config/Windows/Scalability.ini]
+[2021.05.22-08.14.54:267][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2021.05.22-08.14.54:267][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2021.05.22-08.14.54:267][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2021.05.22-08.14.54:267][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2021.05.22-08.14.54:267][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2021.05.22-08.14.54:267][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2021.05.22-08.14.54:267][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2021.05.22-08.14.54:267][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2021.05.22-08.14.54:267][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2021.05.22-08.14.54:267][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2021.05.22-08.14.54:267][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2021.05.22-08.14.54:267][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2021.05.22-08.14.54:267][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2021.05.22-08.14.54:267][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2021.05.22-08.14.54:267][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2021.05.22-08.14.54:267][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2021.05.22-08.14.54:267][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2021.05.22-08.14.54:267][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2021.05.22-08.14.54:267][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2021.05.22-08.14.54:267][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2021.05.22-08.14.54:267][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2021.05.22-08.14.54:267][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2021.05.22-08.14.54:267][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2021.05.22-08.14.54:267][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2021.05.22-08.14.54:267][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2021.05.22-08.14.54:267][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2021.05.22-08.14.54:267][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2021.05.22-08.14.54:267][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/xmigu/Desktop/TFG/TFG/TFG_V1/Saved/Config/Windows/Scalability.ini]
+[2021.05.22-08.14.54:268][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2021.05.22-08.14.54:268][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2021.05.22-08.14.54:268][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/xmigu/Desktop/TFG/TFG/TFG_V1/Saved/Config/Windows/Scalability.ini]
+[2021.05.22-08.14.54:268][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2021.05.22-08.14.54:268][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2021.05.22-08.14.54:268][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2021.05.22-08.14.54:268][  0]LogInit: Selected Device Profile: [Windows]
+[2021.05.22-08.14.54:268][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2021.05.22-08.14.54:268][  0]LogHAL: Display: Platform has ~ 16 GB [16954851328 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2021.05.22-08.14.54:268][  0]LogInit: Going up to parent DeviceProfile []
+[2021.05.22-08.14.54:268][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/xmigu/Desktop/TFG/TFG/TFG_V1/Saved/Config/Windows/Scalability.ini]
+[2021.05.22-08.14.54:268][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2021.05.22-08.14.54:268][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2021.05.22-08.14.54:268][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/xmigu/Desktop/TFG/TFG/TFG_V1/Saved/Config/Windows/Scalability.ini]
+[2021.05.22-08.14.54:268][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2021.05.22-08.14.54:268][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/xmigu/Desktop/TFG/TFG/TFG_V1/Saved/Config/Windows/Scalability.ini]
+[2021.05.22-08.14.54:268][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2021.05.22-08.14.54:268][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2021.05.22-08.14.54:268][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2021.05.22-08.14.54:268][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2021.05.22-08.14.54:268][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2021.05.22-08.14.54:268][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2021.05.22-08.14.54:268][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2021.05.22-08.14.54:268][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2021.05.22-08.14.54:268][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2021.05.22-08.14.54:268][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2021.05.22-08.14.54:268][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2021.05.22-08.14.54:268][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2021.05.22-08.14.54:268][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2021.05.22-08.14.54:268][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2021.05.22-08.14.54:268][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2021.05.22-08.14.54:268][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2021.05.22-08.14.54:268][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2021.05.22-08.14.54:268][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2021.05.22-08.14.54:268][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/xmigu/Desktop/TFG/TFG/TFG_V1/Saved/Config/Windows/Scalability.ini]
+[2021.05.22-08.14.54:268][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2021.05.22-08.14.54:268][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2021.05.22-08.14.54:268][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2021.05.22-08.14.54:268][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2021.05.22-08.14.54:268][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2021.05.22-08.14.54:268][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2021.05.22-08.14.54:268][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2021.05.22-08.14.54:268][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2021.05.22-08.14.54:268][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2021.05.22-08.14.54:268][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2021.05.22-08.14.54:268][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2021.05.22-08.14.54:268][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2021.05.22-08.14.54:268][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2021.05.22-08.14.54:268][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2021.05.22-08.14.54:268][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2021.05.22-08.14.54:268][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2021.05.22-08.14.54:268][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2021.05.22-08.14.54:268][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2021.05.22-08.14.54:268][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2021.05.22-08.14.54:268][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2021.05.22-08.14.54:268][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2021.05.22-08.14.54:268][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2021.05.22-08.14.54:268][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2021.05.22-08.14.54:268][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2021.05.22-08.14.54:268][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2021.05.22-08.14.54:268][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2021.05.22-08.14.54:268][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2021.05.22-08.14.54:268][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2021.05.22-08.14.54:268][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2021.05.22-08.14.54:268][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2021.05.22-08.14.54:268][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/xmigu/Desktop/TFG/TFG/TFG_V1/Saved/Config/Windows/Scalability.ini]
+[2021.05.22-08.14.54:268][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2021.05.22-08.14.54:268][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2021.05.22-08.14.54:268][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2021.05.22-08.14.54:268][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2021.05.22-08.14.54:268][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2021.05.22-08.14.54:268][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2021.05.22-08.14.54:268][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2021.05.22-08.14.54:268][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2021.05.22-08.14.54:268][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2021.05.22-08.14.54:268][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/xmigu/Desktop/TFG/TFG/TFG_V1/Saved/Config/Windows/Scalability.ini]
+[2021.05.22-08.14.54:268][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2021.05.22-08.14.54:268][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2021.05.22-08.14.54:268][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2021.05.22-08.14.54:268][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2021.05.22-08.14.54:268][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2021.05.22-08.14.54:268][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2021.05.22-08.14.54:269][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2021.05.22-08.14.54:269][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2021.05.22-08.14.54:269][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2021.05.22-08.14.54:269][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2021.05.22-08.14.54:269][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2021.05.22-08.14.54:269][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2021.05.22-08.14.54:269][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2021.05.22-08.14.54:269][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2021.05.22-08.14.54:269][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2021.05.22-08.14.54:269][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2021.05.22-08.14.54:269][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2021.05.22-08.14.54:269][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2021.05.22-08.14.54:269][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2021.05.22-08.14.54:269][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2021.05.22-08.14.54:269][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2021.05.22-08.14.54:269][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2021.05.22-08.14.54:269][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2021.05.22-08.14.54:269][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2021.05.22-08.14.54:269][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2021.05.22-08.14.54:269][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2021.05.22-08.14.54:269][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2021.05.22-08.14.54:269][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/xmigu/Desktop/TFG/TFG/TFG_V1/Saved/Config/Windows/Scalability.ini]
+[2021.05.22-08.14.54:269][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2021.05.22-08.14.54:269][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2021.05.22-08.14.54:269][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/xmigu/Desktop/TFG/TFG/TFG_V1/Saved/Config/Windows/Scalability.ini]
+[2021.05.22-08.14.54:269][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2021.05.22-08.14.54:269][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2021.05.22-08.14.54:269][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2021.05.22-08.14.54:269][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2021.05.22-08.14.54:269][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2021.05.22-08.14.54:269][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2021.05.22-08.14.54:269][  0]LogConfig: Setting CVar [[fx.SkipVectorVMBackendOptimizations:1]]
+[2021.05.22-08.14.54:269][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/xmigu/Desktop/TFG/TFG/TFG_V1/Saved/Config/Windows/Engine.ini]
+[2021.05.22-08.14.54:269][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/xmigu/Desktop/TFG/TFG/TFG_V1/Saved/Config/Windows/Editor.ini]
+[2021.05.22-08.14.54:269][  0]LogInit: Computer: LAPTOP-PCEH5APF
+[2021.05.22-08.14.54:269][  0]LogInit: User: xmigu
+[2021.05.22-08.14.54:269][  0]LogInit: CPU Page size=4096, Cores=6
+[2021.05.22-08.14.54:269][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2021.05.22-08.14.54:269][  0]LogMemory: Memory total: Physical=15.8GB (16GB approx)
+[2021.05.22-08.14.54:269][  0]LogMemory: Platform Memory Stats for Windows
+[2021.05.22-08.14.54:269][  0]LogMemory: Process Physical Memory: 143.07 MB used, 143.07 MB peak
+[2021.05.22-08.14.54:269][  0]LogMemory: Process Virtual Memory: 158.02 MB used, 158.02 MB peak
+[2021.05.22-08.14.54:269][  0]LogMemory: Physical Memory: 8038.67 MB used,  8130.73 MB free, 16169.41 MB total
+[2021.05.22-08.14.54:269][  0]LogMemory: Virtual Memory: 134212864.00 MB used,  4864.60 MB free, 134217728.00 MB total
+[2021.05.22-08.14.54:299][  0]LogWindows: WindowsPlatformFeatures enabled
+[2021.05.22-08.14.54:334][  0]LogInit: Physics initialised using underlying interface: PhysX
+[2021.05.22-08.14.54:335][  0]LogInit: Overriding language with editor language configuration option (en).
+[2021.05.22-08.14.54:335][  0]LogInit: Using OS detected locale (es-ES).
+[2021.05.22-08.14.54:521][  0]LogInit: Setting process to per monitor DPI aware
+[2021.05.22-08.14.54:534][  0]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2021.05.22-08.14.54:552][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2021.05.22-08.14.54:552][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2021.05.22-08.14.54:693][  0]LogD3D12RHI: Aftermath initialized
+[2021.05.22-08.14.54:693][  0]LogD3D12RHI: Loading WinPixEventRuntime.dll for PIX profiling (from ../../../Engine/Binaries/ThirdParty/Windows/WinPixEventRuntime/x64).
+[2021.05.22-08.14.54:708][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2021.05.22-08.14.54:838][  0]LogD3D12RHI: Found D3D12 adapter 0: NVIDIA GeForce RTX 2060 (Max supported Feature Level 12_1)
+[2021.05.22-08.14.54:838][  0]LogD3D12RHI: Adapter has 5980MB of dedicated video memory, 0MB of dedicated system memory, and 8084MB of shared system memory, 2 output[s]
+[2021.05.22-08.14.54:862][  0]LogD3D12RHI: Found D3D12 adapter 1: Intel(R) UHD Graphics (Max supported Feature Level 12_1)
+[2021.05.22-08.14.54:862][  0]LogD3D12RHI: Adapter has 128MB of dedicated video memory, 0MB of dedicated system memory, and 8084MB of shared system memory, 0 output[s]
+[2021.05.22-08.14.54:869][  0]LogD3D12RHI: Found D3D12 adapter 2: Microsoft Basic Render Driver (Max supported Feature Level 12_1)
+[2021.05.22-08.14.54:870][  0]LogD3D12RHI: Adapter has 0MB of dedicated video memory, 0MB of dedicated system memory, and 8084MB of shared system memory, 0 output[s]
+[2021.05.22-08.14.54:870][  0]LogD3D12RHI: Forcing D3D12.AsyncDeferredDeletion=0 as a workaround for a deadlock.
+[2021.05.22-08.14.54:870][  0]LogD3D12RHI: Chosen D3D12 Adapter Id = 0
+[2021.05.22-08.14.54:875][  0]LogD3D12RHI: InitD3DDevice: -D3DDebug = off -D3D12GPUValidation = off
+[2021.05.22-08.14.54:875][  0]LogD3D12RHI: Emitting draw events for PIX profiling.
+[2021.05.22-08.14.54:975][  0]LogD3D12RHI: The system supports ID3D12Device1.
+[2021.05.22-08.14.54:975][  0]LogD3D12RHI: The system supports ID3D12Device2.
+[2021.05.22-08.14.54:975][  0]LogD3D12RHI: The system supports ID3D12Device5.
+[2021.05.22-08.14.54:975][  0]LogD3D12RHI: The system supports ID3D12Device7.
+[2021.05.22-08.14.54:975][  0]LogD3D12RHI: D3D12 ray tracing 1.0 is supported.
+[2021.05.22-08.14.54:975][  0]LogD3D12RHI: D3D12 ray tracing 1.1 is supported.
+[2021.05.22-08.14.55:042][  0]LogD3D12RHI: [GPUBreadCrumb] Successfully setup breadcrumb resource for 3D Queue 0
+[2021.05.22-08.14.55:048][  0]LogD3D12RHI: [GPUBreadCrumb] Successfully setup breadcrumb resource for Copy Queue 0
+[2021.05.22-08.14.55:060][  0]LogD3D12RHI: [GPUBreadCrumb] Successfully setup breadcrumb resource for Compute Queue 0
+[2021.05.22-08.14.55:070][  0]LogD3D12RHI: Display: Not using pipeline state disk cache per r.D3D12.PSO.DiskCache=0
+[2021.05.22-08.14.55:070][  0]LogD3D12RHI: Display: Not using driver-optimized pipeline state disk cache per r.D3D12.PSO.DriverOptimizedDiskCache=0
+[2021.05.22-08.14.55:071][  0]LogD3D12RHI:     GPU DeviceId: 0x1f15 (for the marketing name, search the web for "GPU Device Id")
+[2021.05.22-08.14.55:071][  0]LogWindows: EnumDisplayDevices:
+[2021.05.22-08.14.55:071][  0]LogWindows:    0. 'Intel(R) UHD Graphics' (P:1 D:1)
+[2021.05.22-08.14.55:071][  0]LogWindows:    1. 'Intel(R) UHD Graphics' (P:0 D:0)
+[2021.05.22-08.14.55:071][  0]LogWindows:    2. 'Intel(R) UHD Graphics' (P:0 D:0)
+[2021.05.22-08.14.55:071][  0]LogWindows:    3. 'NVIDIA GeForce RTX 2060' (P:0 D:1)
+[2021.05.22-08.14.55:072][  0]LogWindows:    4. 'NVIDIA GeForce RTX 2060' (P:0 D:0)
+[2021.05.22-08.14.55:072][  0]LogWindows:    5. 'NVIDIA GeForce RTX 2060' (P:0 D:0)
+[2021.05.22-08.14.55:072][  0]LogWindows:    6. 'NVIDIA GeForce RTX 2060' (P:0 D:0)
+[2021.05.22-08.14.55:072][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:4 
+[2021.05.22-08.14.55:072][  0]LogD3D12RHI:     Adapter Name: NVIDIA GeForce RTX 2060
+[2021.05.22-08.14.55:072][  0]LogD3D12RHI:   Driver Version: 466.27 (internal:27.21.14.6627, unified:466.27)
+[2021.05.22-08.14.55:072][  0]LogD3D12RHI:      Driver Date: 4-23-2021
+[2021.05.22-08.14.55:072][  0]LogRHI: Texture pool is 3283 MB (70% of 4690 MB)
+[2021.05.22-08.14.55:072][  0]LogD3D12RHI: Async texture creation enabled
+[2021.05.22-08.14.55:072][  0]LogD3D12RHI: RHI has support for 64 bit atomics
+[2021.05.22-08.14.55:082][  0]LogRHI: GeForceNow SDK initialized: 1
+[2021.05.22-08.14.55:368][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2021.05.22-08.14.55:389][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2021.05.22-08.14.55:389][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2021.05.22-08.14.55:389][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2021.05.22-08.14.55:389][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2021.05.22-08.14.55:389][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2021.05.22-08.14.55:389][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2021.05.22-08.14.55:389][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2021.05.22-08.14.55:389][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2021.05.22-08.14.55:389][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2021.05.22-08.14.55:389][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2021.05.22-08.14.55:412][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2021.05.22-08.14.55:412][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2021.05.22-08.14.55:422][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2021.05.22-08.14.55:431][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2021.05.22-08.14.55:440][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2021.05.22-08.14.55:448][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2021.05.22-08.14.55:456][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2021.05.22-08.14.55:464][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2021.05.22-08.14.55:473][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2021.05.22-08.14.55:495][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2021.05.22-08.14.55:496][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2021.05.22-08.14.55:503][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacNoEditor'
+[2021.05.22-08.14.55:512][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Mac'
+[2021.05.22-08.14.55:520][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacClient'
+[2021.05.22-08.14.55:528][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacServer'
+[2021.05.22-08.14.55:543][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2021.05.22-08.14.55:543][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2021.05.22-08.14.55:551][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2021.05.22-08.14.55:559][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2021.05.22-08.14.55:567][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2021.05.22-08.14.55:576][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2021.05.22-08.14.55:576][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2021.05.22-08.14.55:582][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2021.05.22-08.14.55:642][  0]LogRendererCore: Ray tracing is enabled for the editor. Reason: r.RayTracing=1.
+[2021.05.22-08.14.55:642][  0]LogShaderCompilers: Guid format shader working directory is -6 characters bigger than the processId version (../../../../../../Users/xmigu/Desktop/TFG/TFG/TFG_V1/Intermediate/Shaders/WorkingDirectory/9684/).
+[2021.05.22-08.14.55:642][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/xmigu/AppData/Local/Temp/UnrealShaderWorkingDir/1228E1754FC63E869283A38ED1387AAD/'.
+[2021.05.22-08.14.55:642][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2021.05.22-08.14.55:642][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2021.05.22-08.14.56:495][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2021.05.22-08.14.56:549][  0]LogDerivedDataCache: Loaded boot cache 0.05s 92MB C:/Users/xmigu/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc.
+[2021.05.22-08.14.56:549][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/xmigu/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc
+[2021.05.22-08.14.56:549][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/xmigu/Desktop/TFG/TFG/TFG_V1/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2021.05.22-08.14.56:549][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2021.05.22-08.14.56:550][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/xmigu/Desktop/TFG/TFG/TFG_V1/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2021.05.22-08.14.56:550][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2021.05.22-08.14.56:562][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2021.05.22-08.14.56:562][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2021.05.22-08.14.56:562][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2021.05.22-08.14.56:568][  0]LogDerivedDataCache: Speed tests for C:/Users/xmigu/AppData/Local/UnrealEngine/Common/DerivedDataCache took 0.01 seconds
+[2021.05.22-08.14.56:568][  0]LogDerivedDataCache: Display: Performance to C:/Users/xmigu/AppData/Local/UnrealEngine/Common/DerivedDataCache: Latency=0.03ms. RandomReadSpeed=1227.31MBs, RandomWriteSpeed=207.21MBs. Assigned SpeedClass 'Local'
+[2021.05.22-08.14.56:568][  0]LogDerivedDataCache: Using Local data cache path C:/Users/xmigu/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2021.05.22-08.14.56:568][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2021.05.22-08.14.56:568][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2021.05.22-08.14.56:625][  0]LogSlate: Using FreeType 2.10.0
+[2021.05.22-08.14.56:626][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2021.05.22-08.14.56:650][  0]LogAssetRegistry: FAssetRegistry took 0.0024 seconds to start up
+[2021.05.22-08.14.56:894][  0]LogInit: Selected Device Profile: [Windows]
+[2021.05.22-08.14.56:894][  0]LogInit: Active device profile: [00000246690B1900][000002464AD73880 49] Windows
+[2021.05.22-08.14.56:894][  0]LogInit: Profiles: [00000246690B1900][000002464AD73880 49] Windows, [0000024669063600][000002466ABADA00 49] WindowsNoEditor, [00000246690B3300][000002466ABD3B80 49] WindowsServer, [0000024669061000][000002466AC0FD00 49] WindowsClient, [00000246690B1100][000002466AC401C0 49] IOS, [0000024669063300][000002466AC50340 49] iPadAir, [00000246690B3200][000002466AB70480 49] iPadAir2, [0000024668D12600][000002466AC706C0 49] IPadPro, [0000024668D12700][000002466AC6C700 49] iPadAir3, [00000246690B3700][000002466AC74840 49] iPadAir4, [0000024668D13C00][000002466AC809C0 49] iPadMini2, [00000246690B1F00][000002466AC84B40 49] iPadMini3, [0000024668D11B00][000002466AC90CC0 49] iPadMini4, [00000246690B1D00][000002466AC94E40 49] iPadMini5, [0000024668D69F00][000002466AC9D100 49] iPhone6, [0000024668D6A000][000002466AC99140 49] iPodTouch6, [0000024669063400][000002466ACB1400 49] iPhone7, [0000024669063500][000002466ACAD440 49] iPodTouch7, [0000024668D6B600][000002466ACC75C0 49] iPhone5S, [0000024669061800][000002466ACCB740 49] iPhone6Plus, [0000024668D69900][000002466ACCF8C0 49] iPhone6S, [0000024669063B00][000002466ACD3A40 49] iPhone6SPlus, [0000024668D68C00][000002466ACD7BC0 49] iPhone7Plus, [0000024669062100][000002466ACDBD40 49] iPhoneSE, [0000024668D69200][000002466ACDE200 49] iPhone8, [0000024669063100][000002466ACE2380 49] iPhone8Plus, [0000024668D68B00][000002466AC7C4C0 49] iPhoneX, [0000024669061200][000002466AD06600 49] iPhoneXS, [0000024668D6A300][000002466AD0A740 49] iPhoneXSMax, [0000024669060700][000002466AD0E880 49] iPhoneXR, [0000024668D6B200][000002466AD16A00 49] iPhone11, [0000024669062A00][000002466AD1AB80 49] iPhone11Pro, [0000024668D69500][000002466AD1ED00 49] iPhone11ProMax, [0000024669061E00][000002466AD22E80 49] iPhoneSE2, [0000024668D6BC00][000002466AD27000 49] iPhone12Mini, [0000024669060F00][000002466AD57180 49] iPhone12, [00000246690B3A00][000002466AD5B300 49] iPhone12Pro, [0000024668D69700][000002466AD5F480 49] iPhone12ProMax, [00000246690B3C00][000002466AD63600 49] iPadPro105, [0000024668D68E00][000002466AD67780 49] iPadPro129, [00000246690B2F00][000002466AD6B900 49] iPadPro97, [0000024668D6A400][000002466AD6FA80 49] iPadPro2_129, [0000024669061700][000002466AD73C00 49] iPad5, [0000024668D6B800][000002466AD760C0 49] iPad6, [0000024669061A00][000002466AD7A240 49] iPad7, [0000024668D68F00][000002466AD7E3C0 49] iPad8, [0000024669060C00][000002466ADBE540 49] iPadPro11, [0000024668D68700][000002466AD12680 49] iPadPro2_11, [0000024669063900][000002466ADC27C0 49] iPadPro3_129, [0000024668D6A200][000002466ADC6900 49] iPadPro4_129, [0000024669062F00][000002466ADCEA80 49] AppleTV, [0000024668D68D00][000002466ADD2C00 49] AppleTV4K, [0000024669060500][000002466ADD6D80 49] TVOS, [0000024668D68300][000002466ADDAF00 49] Mac, [0000024669062900][000002466ADDF080 49] MacClient, [0000024668D68400][000002466ADE3200 49] MacNoEditor, [0000024669062300][000002466ADE7380 49] MacServer, [0000024668D6BE00][000002466ADEB500 49] Linux, [0000024669062D00][000002466ADEF680 49] LinuxAArch64, [0000024668D6AC00][000002466ADF3800 49] LinuxNoEditor, [0000024669060100][000002466ADF7980 49] LinuxAArch64NoEditor, [0000024668D69E00][000002466ADFBB00 49] LinuxClient, [0000024669063F00][000002466ADFFC80 49] LinuxAArch64Client, [0000024668D68900][000002466AE02140 49] LinuxServer, [0000024669063E00][000002466AE582C0 49] LinuxAArch64Server, [0000024668D6B100][000002466AE5C440 49] Android, [0000024669062700][000002466AE605C0 49] Android_Low, [0000024668D69100][000002466ADCA700 49] Android_Mid, [0000024669061D00][000002466AE64840 49] Android_High, [0000024668D6A700][000002466AE68980 49] Android_Default, [0000024669060800][000002466AE6CAC0 49] Android_Adreno4xx, [0000024668D6BF00][000002466AE74C40 49] Android_Adreno5xx_Low, [0000024669060900][000002466AE78DC0 49] Android_Adreno5xx, [0000024668D68800][000002466AE7CF40 49] Android_Adreno6xx, [0000024669063700][000002466AE810C0 49] Android_Adreno6xx_Vulkan, [0000024668D6B500][000002466AE85240 49] Android_Mali_T6xx, [0000024669062400][000002466AE893C0 49] Android_Mali_T7xx, [0000024668D69000][000002466AE8D540 49] Android_Mali_T8xx, [0000024669062200][000002466AE916C0 49] Android_Mali_G71, [0000024668D69B00][000002466AE95840 49] Android_Mali_G72, [0000024669060A00][000002466AE999C0 49] Android_Mali_G72_Vulkan, [0000024668D69D00][000002466AE9DB40 49] Android_Mali_G76, [0000024669061500][000002466AEA1CC0 49] Android_Mali_G76_Vulkan, [0000024668D6B700][000002466AEA4180 49] Android_Mali_G77, [0000024668D12E00][000002466AEA8300 49] Android_Mali_G77_Vulkan, [00000246690B0B00][000002466AEAC480 49] Android_Vulkan_SM5, [0000024668D10800][000002466AEB0600 49] Android_PowerVR_G6xxx, [00000246690B0E00][000002466AE70740 49] Android_PowerVR_GT7xxx, [0000024668D10C00][000002466AEB4880 49] Android_PowerVR_GE8xxx, [00000246690B1400][000002466AEB89C0 49] Android_PowerVR_GM9xxx, [0000024668D10900][000002466AEBCB00 49] Android_PowerVR_GM9xxx_Vulkan, [00000246690B3F00][000002466AEC4C80 49] Android_TegraK1, [0000024668D10E00][000002466AEC8E00 49] Android_Unknown_Vulkan, [00000246690B0100][000002466AECCF80 49] Lumin, [0000024668D10D00][000002466AED1100 49] Lumin_Desktop, [00000246690B1700][000002466AED5280 49] HoloLens, 
+[2021.05.22-08.14.57:016][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2021.05.22-08.14.57:016][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2021.05.22-08.14.57:016][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2021.05.22-08.14.57:016][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2021.05.22-08.14.57:016][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2021.05.22-08.14.57:124][  0]LogNetVersion: TFG_V1 1.0.0, NetCL: 14830424, EngineNetVer: 16, GameNetVer: 0 (Checksum: 2213075434)
+[2021.05.22-08.14.57:541][  0]LogHMD: PokeAHoleMaterial loaded successfully
+[2021.05.22-08.14.57:584][  0]LogPackageLocalizationCache: Processed 25 localized package path(s) for 1 prioritized culture(s) in 0.043304 seconds
+[2021.05.22-08.14.57:589][  0]LogUObjectArray: 16848 objects as part of root set at end of initial load.
+[2021.05.22-08.14.57:589][  0]LogUObjectAllocator: 4214768 out of 0 bytes used by permanent object pool.
+[2021.05.22-08.14.57:589][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2021.05.22-08.14.57:710][  0]LogD3D12RHI: Creating RTPSO with 3 shaders (0 cached, 3 new) took 16.58 ms. Compile time 1.68 ms, link time 14.87 ms.
+[2021.05.22-08.14.57:934][  0]LogPython: Using Python 3.7.7
+[2021.05.22-08.14.58:799][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2021.05.22-08.14.58:805][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2021.05.22-08.14.58:889][  0]LogLinker: Warning: Failed to load '/Game/FirstPersonBP/FirstPersonOverview': Can't find file.
+[2021.05.22-08.14.58:889][  0]LogLinker: Warning: Failed to load '/Game/FirstPersonBP/FirstPersonOverview': Can't find file.
+[2021.05.22-08.14.58:889][  0]LogUObjectGlobals: Warning: Failed to find object 'Class /Game/FirstPersonBP/FirstPersonOverview.FirstPersonOverview_C'
+[2021.05.22-08.14.59:110][  0]SourceControl: Source control is disabled
+[2021.05.22-08.14.59:110][  0]SourceControl: Source control is disabled
+[2021.05.22-08.14.59:113][  0]SourceControl: Source control is disabled
+[2021.05.22-08.14.59:116][  0]SourceControl: Source control is disabled
+[2021.05.22-08.14.59:122][  0]SourceControl: Source control is disabled
+[2021.05.22-08.14.59:125][  0]LogUProjectInfo: Found projects:
+[2021.05.22-08.14.59:355][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2021.05.22-08.14.59:393][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2021.05.22-08.14.59:393][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2021.05.22-08.14.59:491][  0]LogCollectionManager: Loaded 0 collections in 0.002805 seconds
+[2021.05.22-08.14.59:562][  0]LogFileCache: Scanning file cache for directory 'C:/Users/xmigu/Desktop/TFG/TFG/TFG_V1/Saved/Collections/' took 0.00s
+[2021.05.22-08.14.59:562][  0]LogFileCache: Scanning file cache for directory 'C:/Users/xmigu/Desktop/TFG/TFG/TFG_V1/Content/Developers/xmigu/Collections/' took 0.00s
+[2021.05.22-08.14.59:562][  0]LogFileCache: Scanning file cache for directory 'C:/Users/xmigu/Desktop/TFG/TFG/TFG_V1/Content/Collections/' took 0.00s
+[2021.05.22-08.14.59:562][  0]LogOcInput: OculusInput pre-init called
+[2021.05.22-08.14.59:598][  0]LogWindows: Failed to load 'OVRPlugin.dll' (GetLastError=126)
+[2021.05.22-08.14.59:598][  0]LogWindows: File 'OVRPlugin.dll' does not exist
+[2021.05.22-08.15.00:019][  0]LogEngine: Initializing Engine...
+[2021.05.22-08.15.00:020][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2021.05.22-08.15.00:020][  0]LogMagicLeap: Warning: VR disabled because ZI is not enabled.  To enable, in the editor, Edit -> Project Settings -> Plugins -> Magic Leap Plugin -> Enable Zero Iteration
+[2021.05.22-08.15.00:020][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2021.05.22-08.15.00:136][  0]LogInit: Initializing FReadOnlyCVARCache
+[2021.05.22-08.15.00:148][  0]LogAIModule: Creating AISystem for world Untitled
+[2021.05.22-08.15.00:149][  0]LogAudio: Display: Initializing Audio Device Manager...
+[2021.05.22-08.15.00:153][  0]LogAudio: Display: Audio Device Manager Initialized
+[2021.05.22-08.15.00:153][  0]LogAudio: Display: Creating Audio Device:                 Id: 1, Scope: Shared, Realtime: True
+[2021.05.22-08.15.00:153][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.05.22-08.15.00:153][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.05.22-08.15.00:153][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.05.22-08.15.00:153][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.05.22-08.15.00:153][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.05.22-08.15.00:153][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.05.22-08.15.00:153][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.05.22-08.15.00:153][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.05.22-08.15.00:154][  0]LogAudio: Display: Using built-in audio occlusion.
+[2021.05.22-08.15.00:154][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2021.05.22-08.15.00:438][  0]LogAudioMixer: Display: 0: FrontLeft
+[2021.05.22-08.15.00:438][  0]LogAudioMixer: Display: 1: FrontRight
+[2021.05.22-08.15.00:467][  0]LogAudioMixer: Display: Using Audio Device VS278 (NVIDIA High Definition Audio)
+[2021.05.22-08.15.00:471][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.05.22-08.15.00:473][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.05.22-08.15.00:474][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.05.22-08.15.00:474][  0]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.05.22-08.15.00:474][  0]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.05.22-08.15.00:474][  0]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.05.22-08.15.00:476][  0]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.05.22-08.15.00:476][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.05.22-08.15.00:476][  0]LogInit: FAudioDevice initialized.
+[2021.05.22-08.15.00:476][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2021.05.22-08.15.00:476][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2021.05.22-08.15.01:733][  0]LogDerivedDataCache: Saved boot cache 1.26s 92MB C:/Users/xmigu/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc.
+[2021.05.22-08.15.01:738][  0]LogInit: Texture streaming: Enabled
+[2021.05.22-08.15.01:773][  0]LogAnalytics: Display: [UEEditor.Rocket.Release] APIServer = https://datarouter.ol.epicgames.com/. AppVersion = 4.26.2-15973114+++UE4+Release-4.26
+[2021.05.22-08.15.01:783][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2021.05.22-08.15.01:784][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2021.05.22-08.15.01:788][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2021.05.22-08.15.01:869][  0]LogInit: Transaction tracking system initialized
+[2021.05.22-08.15.01:936][  0]BlueprintLog: New page: Editor Load
+[2021.05.22-08.15.02:134][  0]LocalizationService: Localization service is disabled
+[2021.05.22-08.15.02:195][  0]TimingProfiler: Initialize
+[2021.05.22-08.15.02:196][  0]TimingProfiler: OnSessionChanged
+[2021.05.22-08.15.02:196][  0]LoadingProfiler: Initialize
+[2021.05.22-08.15.02:196][  0]LoadingProfiler: OnSessionChanged
+[2021.05.22-08.15.02:196][  0]NetworkingProfiler: Initialize
+[2021.05.22-08.15.02:196][  0]NetworkingProfiler: OnSessionChanged
+[2021.05.22-08.15.02:196][  0]MemoryProfiler: Initialize
+[2021.05.22-08.15.02:196][  0]MemoryProfiler: OnSessionChanged
+[2021.05.22-08.15.02:392][  0]LogCook: Display: CookSettings for Memory: MemoryMaxUsedVirtual 0MiB, MemoryMaxUsedPhysical 16384MiB, MemoryMinFreeVirtual 0MiB, MemoryMinFreePhysical 1024MiB
+[2021.05.22-08.15.02:392][  0]LogCook: Display: Mobile HDR setting 1
+[2021.05.22-08.15.02:566][  0]LogFileCache: Scanning file cache for directory 'C:/Users/xmigu/Desktop/TFG/TFG/TFG_V1/Content/' took 0.02s
+[2021.05.22-08.15.02:725][  0]LogInit: Display: Engine is initialized. Leaving FEngineLoop::Init()
+[2021.05.22-08.15.02:728][  0]SourceControl: Source control is disabled
+[2021.05.22-08.15.02:728][  0]LogUnrealEdMisc: Loading editor; pre map load, took 9.457
+[2021.05.22-08.15.02:728][  0]Cmd: MAP LOAD FILE="../../../../../../Users/xmigu/Desktop/TFG/TFG/TFG_V1/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.05.22-08.15.02:728][  0]LogEditorServer: Warning: Can't find file '../../../../../../Users/xmigu/Desktop/TFG/TFG/TFG_V1/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
+[2021.05.22-08.15.02:728][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.05.22-08.15.02:728][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,148ms to complete.
+[2021.05.22-08.15.02:728][  0]LogFileHelpers: Loading map 'FirstPersonExampleMap' took 0.000
+[2021.05.22-08.15.02:730][  0]LogUnrealEdMisc: Total Editor Startup Time, took 9.459
+[2021.05.22-08.15.02:840][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.22-08.15.02:847][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.22-08.15.02:853][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.22-08.15.02:859][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.22-08.15.02:876][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0095 seconds. Added 3631 classes and 875 folders.
+[2021.05.22-08.15.02:878][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2021.05.22-08.15.02:879][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2021.05.22-08.15.02:879][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.22-08.15.02:879][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.05.22-08.15.02:879][  0]LogPakFile: OnPakFileMounted2Time == 0.000009
+[2021.05.22-08.15.02:880][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2021.05.22-08.15.02:880][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.22-08.15.02:880][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2021.05.22-08.15.02:880][  0]LogPakFile: OnPakFileMounted2Time == 0.000011
+[2021.05.22-08.15.02:881][  0]LogPakFile: PakFile PrimaryIndexSize=191
+[2021.05.22-08.15.02:881][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.22-08.15.02:881][  0]LogPakFile: PakFile FullDirectoryIndexSize=160
+[2021.05.22-08.15.02:881][  0]LogPakFile: OnPakFileMounted2Time == 0.000012
+[2021.05.22-08.15.02:881][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.05.22-08.15.02:881][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.22-08.15.02:881][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.05.22-08.15.02:881][  0]LogPakFile: OnPakFileMounted2Time == 0.000014
+[2021.05.22-08.15.02:882][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2021.05.22-08.15.02:882][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.22-08.15.02:882][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2021.05.22-08.15.02:882][  0]LogPakFile: OnPakFileMounted2Time == 0.000015
+[2021.05.22-08.15.02:882][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2021.05.22-08.15.02:882][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.22-08.15.02:882][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2021.05.22-08.15.02:882][  0]LogPakFile: OnPakFileMounted2Time == 0.000016
+[2021.05.22-08.15.02:883][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2021.05.22-08.15.02:883][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.22-08.15.02:883][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2021.05.22-08.15.02:883][  0]LogPakFile: OnPakFileMounted2Time == 0.000017
+[2021.05.22-08.15.02:883][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2021.05.22-08.15.02:883][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.22-08.15.02:883][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2021.05.22-08.15.02:884][  0]LogPakFile: OnPakFileMounted2Time == 0.000018
+[2021.05.22-08.15.02:884][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2021.05.22-08.15.02:884][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.22-08.15.02:884][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2021.05.22-08.15.02:884][  0]LogPakFile: OnPakFileMounted2Time == 0.000020
+[2021.05.22-08.15.02:885][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2021.05.22-08.15.02:885][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.22-08.15.02:885][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2021.05.22-08.15.02:885][  0]LogPakFile: OnPakFileMounted2Time == 0.000021
+[2021.05.22-08.15.02:885][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2021.05.22-08.15.02:885][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.22-08.15.02:885][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2021.05.22-08.15.02:885][  0]LogPakFile: OnPakFileMounted2Time == 0.000022
+[2021.05.22-08.15.02:886][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2021.05.22-08.15.02:886][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.22-08.15.02:886][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2021.05.22-08.15.02:886][  0]LogPakFile: OnPakFileMounted2Time == 0.000023
+[2021.05.22-08.15.02:886][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.05.22-08.15.02:886][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.22-08.15.02:886][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.05.22-08.15.02:886][  0]LogPakFile: OnPakFileMounted2Time == 0.000024
+[2021.05.22-08.15.02:887][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2021.05.22-08.15.02:887][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.22-08.15.02:887][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2021.05.22-08.15.02:887][  0]LogPakFile: OnPakFileMounted2Time == 0.000025
+[2021.05.22-08.15.02:887][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2021.05.22-08.15.02:887][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.22-08.15.02:887][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2021.05.22-08.15.02:887][  0]LogPakFile: OnPakFileMounted2Time == 0.000026
+[2021.05.22-08.15.02:888][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2021.05.22-08.15.02:888][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.22-08.15.02:888][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.05.22-08.15.02:888][  0]LogPakFile: OnPakFileMounted2Time == 0.000028
+[2021.05.22-08.15.02:888][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2021.05.22-08.15.02:889][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.22-08.15.02:889][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2021.05.22-08.15.02:889][  0]LogPakFile: OnPakFileMounted2Time == 0.000030
+[2021.05.22-08.15.02:889][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2021.05.22-08.15.02:889][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.22-08.15.02:889][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2021.05.22-08.15.02:889][  0]LogPakFile: OnPakFileMounted2Time == 0.000031
+[2021.05.22-08.15.02:890][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.05.22-08.15.02:890][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.22-08.15.02:890][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.05.22-08.15.02:890][  0]LogPakFile: OnPakFileMounted2Time == 0.000032
+[2021.05.22-08.15.02:890][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.05.22-08.15.02:890][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.22-08.15.02:890][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.05.22-08.15.02:890][  0]LogPakFile: OnPakFileMounted2Time == 0.000033
+[2021.05.22-08.15.02:891][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2021.05.22-08.15.02:891][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.22-08.15.02:891][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.05.22-08.15.02:891][  0]LogPakFile: OnPakFileMounted2Time == 0.000034
+[2021.05.22-08.15.02:891][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2021.05.22-08.15.02:891][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.22-08.15.02:891][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2021.05.22-08.15.02:891][  0]LogPakFile: OnPakFileMounted2Time == 0.000035
+[2021.05.22-08.15.02:892][  0]LogPakFile: PakFile PrimaryIndexSize=186
+[2021.05.22-08.15.02:892][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.22-08.15.02:892][  0]LogPakFile: PakFile FullDirectoryIndexSize=146
+[2021.05.22-08.15.02:892][  0]LogPakFile: OnPakFileMounted2Time == 0.000036
+[2021.05.22-08.15.02:892][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2021.05.22-08.15.02:892][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.22-08.15.02:892][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2021.05.22-08.15.02:892][  0]LogPakFile: OnPakFileMounted2Time == 0.000038
+[2021.05.22-08.15.02:893][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.05.22-08.15.02:893][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.22-08.15.02:893][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.05.22-08.15.02:893][  0]LogPakFile: OnPakFileMounted2Time == 0.000039
+[2021.05.22-08.15.02:893][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2021.05.22-08.15.02:894][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.22-08.15.02:894][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2021.05.22-08.15.02:894][  0]LogPakFile: OnPakFileMounted2Time == 0.000040
+[2021.05.22-08.15.02:927][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2021.05.22-08.15.02:928][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'SceneOutliner' in 0.0002 seconds. Added 2 classes and 0 folders.
+[2021.05.22-08.15.03:030][  0]LogSlate: Took 0.000231 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2021.05.22-08.15.03:032][  0]LogSlate: Took 0.000255 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2021.05.22-08.15.03:036][  0]LogSlate: Took 0.000122 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2021.05.22-08.15.03:132][  0]LogRenderer: Reallocating scene render targets to support 1064x552 Format 10 NumSamples 1 (Frame:1).
+[2021.05.22-08.15.03:524][  0]LogD3D12RHI: Creating RTPSO with 126 shaders (0 cached, 126 new) took 260.52 ms. Compile time 244.06 ms, link time 16.23 ms.
+[2021.05.22-08.15.03:573][  0]LogD3D12RHI: Creating RT View Heap with 250000 entries
+[2021.05.22-08.15.03:593][  0]LogD3D12RHI: Creating RT Sampler Heap with 2048 entries
+[2021.05.22-08.15.05:076][  0]LogD3D12RHI: Creating RTPSO with 10 shaders (0 cached, 10 new) took 1481.68 ms. Compile time 24.41 ms, link time 1457.24 ms.
+[2021.05.22-08.15.05:076][  0]LogD3D12RHI: Creating RT View Heap with 250000 entries
+[2021.05.22-08.15.05:095][  0]LogD3D12RHI: Creating RT Sampler Heap with 2048 entries
+[2021.05.22-08.15.05:167][  0]LogD3D12RHI: Creating RTPSO with 3 shaders (2 cached, 1 new) took 70.16 ms. Compile time 0.65 ms, link time 69.49 ms.
+[2021.05.22-08.15.05:167][  0]LogD3D12RHI: Creating RT View Heap with 250000 entries
+[2021.05.22-08.15.05:186][  0]LogD3D12RHI: Creating RT Sampler Heap with 2048 entries
+[2021.05.22-08.15.05:743][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2021.05.22-08.15.05:743][  0]LogLoad: (Engine Initialization) Total time: 12.47 seconds
+[2021.05.22-08.15.05:743][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2021.05.22-08.15.05:743][  0]LogInit: First time updating LLM stats...
+[2021.05.22-08.15.05:855][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2021.05.22-08.15.05:871][  1]LogAssetRegistry: Asset discovery search completed in 9.2224 seconds
+[2021.05.22-08.15.05:873][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000003 seconds (updated 0 objects)
+[2021.05.22-08.15.05:906][  2]LogSlate: Took 0.000114 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2021.05.22-08.15.05:926][  3]LogD3D12RHI: Creating RT View Heap with 250000 entries
+[2021.05.22-08.15.05:938][  4]LogD3D12RHI: Creating RT Sampler Heap with 2048 entries
+[2021.05.22-08.15.05:940][  4]LogD3D12RHI: Creating RT View Heap with 250000 entries
+[2021.05.22-08.15.05:962][  5]LogD3D12RHI: Creating RT Sampler Heap with 2048 entries
+[2021.05.22-08.15.05:964][  5]LogD3D12RHI: Creating RT View Heap with 250000 entries
+[2021.05.22-08.15.05:988][  5]LogD3D12RHI: Creating RT Sampler Heap with 2048 entries
+[2021.05.22-08.15.09:659][182]LogSlate: Took 0.000138 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2021.05.22-08.15.09:690][182]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/TFG/Blueprints/BP_Key.BP_Key
+[2021.05.22-08.15.09:877][182]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'BlueprintGraph' in 0.0005 seconds. Added 126 classes and 0 folders.
+[2021.05.22-08.15.10:829][182]LogSlate: Took 0.000243 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2021.05.22-08.15.10:988][183]LogSlate: Took 0.000220 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2021.05.22-08.15.12:478][260]LogRenderer: Reallocating scene render targets to support 1064x604 Format 10 NumSamples 1 (Frame:1).
+[2021.05.22-08.17.22:965][223]LogD3D12RHI: Creating RT View Heap with 250000 entries
+[2021.05.22-08.17.22:987][224]LogD3D12RHI: Creating RT Sampler Heap with 2048 entries
+[2021.05.22-08.17.22:987][224]LogD3D12RHI: Creating RT View Heap with 250000 entries
+[2021.05.22-08.17.23:009][224]LogD3D12RHI: Creating RT Sampler Heap with 2048 entries
+[2021.05.22-08.17.23:010][224]LogD3D12RHI: Creating RT View Heap with 250000 entries
+[2021.05.22-08.17.23:031][224]LogD3D12RHI: Creating RT Sampler Heap with 2048 entries
+[2021.05.22-08.17.23:970][277]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/TFG/Blueprints/BP_LockedDoor.BP_LockedDoor
+[2021.05.22-08.17.32:445][744]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/TFG/Blueprints/BP_CheckObject.BP_CheckObject
+[2021.05.22-08.17.43:359][340]BlueprintLog: New page: Compile BP_CheckObject
+[2021.05.22-08.17.43:477][340]LogUObjectHash: Compacting FUObjectHashTables data took   5.90ms
+[2021.05.22-08.17.43:838][355]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TFG/Blueprints/BP_CheckObject" FILE="../../../../../../Users/xmigu/Desktop/TFG/TFG/TFG_V1/Content/TFG/Blueprints/BP_CheckObject.uasset" SILENT=true
+[2021.05.22-08.17.43:881][355]LogSavePackage: Moving '../../../../../../Users/xmigu/Desktop/TFG/TFG/TFG_V1/Saved/BP_CheckObject5863FB3B4E832A367565DB97C045C369.tmp' to '../../../../../../Users/xmigu/Desktop/TFG/TFG/TFG_V1/Content/TFG/Blueprints/BP_CheckObject.uasset'
+[2021.05.22-08.17.43:898][355]AssetCheck: New page: Asset Save: BP_CheckObject
+[2021.05.22-08.17.43:898][355]LogContentValidation: Display: Validating Blueprint /Game/TFG/Blueprints/BP_CheckObject.BP_CheckObject
+[2021.05.22-08.17.52:975][882]BlueprintLog: New page: Compile BP_Key
+[2021.05.22-08.17.53:040][882]LogUObjectHash: Compacting FUObjectHashTables data took   5.29ms
+[2021.05.22-08.17.53:476][902]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TFG/Blueprints/BP_Key" FILE="../../../../../../Users/xmigu/Desktop/TFG/TFG/TFG_V1/Content/TFG/Blueprints/BP_Key.uasset" SILENT=true
+[2021.05.22-08.17.53:487][902]LogSavePackage: Moving '../../../../../../Users/xmigu/Desktop/TFG/TFG/TFG_V1/Saved/BP_Key7542086B4397C6C6587EB0B6697C0B9B.tmp' to '../../../../../../Users/xmigu/Desktop/TFG/TFG/TFG_V1/Content/TFG/Blueprints/BP_Key.uasset'
+[2021.05.22-08.17.53:503][902]AssetCheck: New page: Asset Save: BP_Key
+[2021.05.22-08.17.53:503][902]LogContentValidation: Display: Validating Blueprint /Game/TFG/Blueprints/BP_Key.BP_Key
+[2021.05.22-08.17.58:536][197]LogUObjectHash: Compacting FUObjectHashTables data took   4.99ms
+[2021.05.22-08.17.58:602][197]LogLinker: Warning: [AssetLog] C:\Users\xmigu\Desktop\TFG\TFG\TFG_V1\Content\Assets\EF_Barbra\Common\MasterMaterial\Master_Glass_Mat.uasset: Failed to load '/Game/Assets/EF_Barbra/Shared/kitchen/shelf/DirtyMetal_a_c': Can't find file.
+[2021.05.22-08.17.58:602][197]LogLinker: Warning: [AssetLog] C:\Users\xmigu\Desktop\TFG\TFG\TFG_V1\Content\Assets\EF_Barbra\Common\MasterMaterial\Master_Glass_Mat.uasset: Failed to load '/Game/Assets/EF_Barbra/Shared/kitchen/shelf/DirtyMetal_a_c': Can't find file.
+[2021.05.22-08.17.58:603][197]LogLinker: Warning: [AssetLog] C:\Users\xmigu\Desktop\TFG\TFG\TFG_V1\Content\Assets\EF_Barbra\Common\MasterMaterial\Master_Glass_Mat.uasset: Failed to load '/Game/Assets/EF_Barbra/Shared/kitchen/shelf/DirtyMetal_a_c': Can't find file.
+[2021.05.22-08.17.58:605][197]LogLinker: Warning: [AssetLog] C:\Users\xmigu\Desktop\TFG\TFG\TFG_V1\Content\Assets\EF_Barbra\Common\Materials\Glass\WM_GlassClean_a.uasset: Failed to load '/Game/Assets/EF_Barbra/Shared/kitchen/shelf/DirtyMetal_a_c': Can't find file.
+[2021.05.22-08.17.58:605][197]LogLinker: Warning: [AssetLog] C:\Users\xmigu\Desktop\TFG\TFG\TFG_V1\Content\Assets\EF_Barbra\Common\Materials\Glass\WM_GlassClean_a.uasset: Failed to load '/Game/Assets/EF_Barbra/Shared/kitchen/shelf/DirtyMetal_a_c': Can't find file.
+[2021.05.22-08.17.58:706][197]LogLinker: Warning: [AssetLog] C:\Users\xmigu\Desktop\TFG\TFG\TFG_V1\Content\Assets\EF_Edith\Common\MasterMaterial\Master_Glass_Mat.uasset: Failed to load '/Game/Assets/EF_Edith/Shared/kitchen/shelf/DirtyMetal_a_c': Can't find file.
+[2021.05.22-08.17.58:707][197]LogLinker: Warning: [AssetLog] C:\Users\xmigu\Desktop\TFG\TFG\TFG_V1\Content\Assets\EF_Edith\Common\MasterMaterial\Master_Glass_Mat.uasset: Failed to load '/Game/Assets/EF_Edith/Shared/kitchen/shelf/DirtyMetal_a_c': Can't find file.
+[2021.05.22-08.17.58:707][197]LogLinker: Warning: [AssetLog] C:\Users\xmigu\Desktop\TFG\TFG\TFG_V1\Content\Assets\EF_Edith\Common\MasterMaterial\Master_Glass_Mat.uasset: Failed to load '/Game/Assets/EF_Edith/Shared/kitchen/shelf/DirtyMetal_a_c': Can't find file.
+[2021.05.22-08.17.58:708][197]LogLinker: Warning: [AssetLog] C:\Users\xmigu\Desktop\TFG\TFG\TFG_V1\Content\Assets\EF_Edith\Common\Materials\Glass\WM_GlassClean_a.uasset: Failed to load '/Game/Assets/EF_Edith/Shared/kitchen/shelf/DirtyMetal_a_c': Can't find file.
+[2021.05.22-08.17.58:708][197]LogLinker: Warning: [AssetLog] C:\Users\xmigu\Desktop\TFG\TFG\TFG_V1\Content\Assets\EF_Edith\Common\Materials\Glass\WM_GlassClean_a.uasset: Failed to load '/Game/Assets/EF_Edith/Shared/kitchen/shelf/DirtyMetal_a_c': Can't find file.
+[2021.05.22-08.17.58:742][197]LogLinker: Warning: [AssetLog] C:\Users\xmigu\Desktop\TFG\TFG\TFG_V1\Content\Assets\EF_FirstFloor\Common\Materials\Wood\WM_WoodRough_b_mat.uasset: Failed to load '/Game/Assets/EF_FirstFloor/Common/PhysicalMaterials/FootstepMaterials/Wood_Indoor_A': Can't find file.
+[2021.05.22-08.17.58:742][197]LogLinker: Warning: [AssetLog] C:\Users\xmigu\Desktop\TFG\TFG\TFG_V1\Content\Assets\EF_FirstFloor\Common\Materials\Wood\WM_WoodRough_b_mat.uasset: Failed to load '/Game/Assets/EF_FirstFloor/Common/PhysicalMaterials/FootstepMaterials/Wood_Indoor_A': Can't find file.
+[2021.05.22-08.17.58:742][197]LogLinker: Warning: [AssetLog] C:\Users\xmigu\Desktop\TFG\TFG\TFG_V1\Content\Assets\EF_FirstFloor\Common\Materials\Wood\WM_WoodRough_b_mat.uasset: Failed to load '/Game/Assets/EF_FirstFloor/Common/PhysicalMaterials/FootstepMaterials/Wood_Indoor_A': Can't find file.
+[2021.05.22-08.17.58:818][197]LogLinker: Warning: [AssetLog] C:\Users\xmigu\Desktop\TFG\TFG\TFG_V1\Content\Assets\EF_MollyGreg\Common\Materials\Wood\OLD\wood_a_Mat_Inst.uasset: Failed to load '/Game/Assets/EF_MollyGreg/Common/PhysicalMaterials/Wood_Plank': Can't find file.
+[2021.05.22-08.17.58:819][197]LogLinker: Warning: [AssetLog] C:\Users\xmigu\Desktop\TFG\TFG\TFG_V1\Content\Assets\EF_MollyGreg\Common\Materials\Wood\OLD\wood_a_Mat_Inst.uasset: Failed to load '/Game/Assets/EF_MollyGreg/Common/PhysicalMaterials/Wood_Plank': Can't find file.
+[2021.05.22-08.17.58:819][197]LogLinker: Warning: [AssetLog] C:\Users\xmigu\Desktop\TFG\TFG\TFG_V1\Content\Assets\EF_MollyGreg\Common\Materials\Wood\OLD\wood_a_Mat_Inst.uasset: Failed to load '/Game/Assets/EF_MollyGreg/Common/PhysicalMaterials/Wood_Plank': Can't find file.
+[2021.05.22-08.17.58:846][197]LogLinker: Warning: [AssetLog] C:\Users\xmigu\Desktop\TFG\TFG\TFG_V1\Content\Assets\EF_Sam\Common\Materials\Wood\WM_WoodRough_b_mat.uasset: Failed to load '/Game/Assets/EF_Sam/Common/PhysicalMaterials/FootstepMaterials/Wood_Indoor_A': Can't find file.
+[2021.05.22-08.17.58:847][197]LogLinker: Warning: [AssetLog] C:\Users\xmigu\Desktop\TFG\TFG\TFG_V1\Content\Assets\EF_Sam\Common\Materials\Wood\WM_WoodRough_b_mat.uasset: Failed to load '/Game/Assets/EF_Sam/Common/PhysicalMaterials/FootstepMaterials/Wood_Indoor_A': Can't find file.
+[2021.05.22-08.17.58:847][197]LogLinker: Warning: [AssetLog] C:\Users\xmigu\Desktop\TFG\TFG\TFG_V1\Content\Assets\EF_Sam\Common\Materials\Wood\WM_WoodRough_b_mat.uasset: Failed to load '/Game/Assets/EF_Sam/Common/PhysicalMaterials/FootstepMaterials/Wood_Indoor_A': Can't find file.
+[2021.05.22-08.17.58:851][197]LogLinker: Warning: [AssetLog] C:\Users\xmigu\Desktop\TFG\TFG\TFG_V1\Content\Assets\EF_Sam\Materials\SamRoomBed_b_Mat.uasset: Failed to load '/Game/Assets/EF_Sam/Shared/TheresaRoom/HospitalBed/HospitalBed_c': Can't find file.
+[2021.05.22-08.17.58:852][197]LogLinker: Warning: [AssetLog] C:\Users\xmigu\Desktop\TFG\TFG\TFG_V1\Content\Assets\EF_Sam\Materials\SamRoomBed_b_Mat.uasset: Failed to load '/Game/Assets/EF_Sam/Shared/TheresaRoom/HospitalBed/HospitalBed_c': Can't find file.
+[2021.05.22-08.17.58:852][197]LogLinker: Warning: [AssetLog] C:\Users\xmigu\Desktop\TFG\TFG\TFG_V1\Content\Assets\EF_Sam\Materials\SamRoomBed_b_Mat.uasset: Failed to load '/Game/Assets/EF_Sam/Shared/TheresaRoom/HospitalBed/HospitalBed_n': Can't find file.
+[2021.05.22-08.17.58:852][197]LogLinker: Warning: [AssetLog] C:\Users\xmigu\Desktop\TFG\TFG\TFG_V1\Content\Assets\EF_Sam\Materials\SamRoomBed_b_Mat.uasset: Failed to load '/Game/Assets/EF_Sam/Shared/TheresaRoom/HospitalBed/HospitalBed_n': Can't find file.
+[2021.05.22-08.17.58:853][197]LogLinker: Warning: [AssetLog] C:\Users\xmigu\Desktop\TFG\TFG\TFG_V1\Content\Assets\EF_Sam\Materials\SamRoomBed_b_Mat.uasset: Failed to load '/Game/Assets/EF_Sam/Shared/TheresaRoom/HospitalBed/HospitalBed_r': Can't find file.
+[2021.05.22-08.17.58:853][197]LogLinker: Warning: [AssetLog] C:\Users\xmigu\Desktop\TFG\TFG\TFG_V1\Content\Assets\EF_Sam\Materials\SamRoomBed_b_Mat.uasset: Failed to load '/Game/Assets/EF_Sam/Shared/TheresaRoom/HospitalBed/HospitalBed_r': Can't find file.
+[2021.05.22-08.17.58:853][197]LogLinker: Warning: [AssetLog] C:\Users\xmigu\Desktop\TFG\TFG\TFG_V1\Content\Assets\EF_Sam\Materials\SamRoomBed_b_Mat.uasset: Failed to load '/Game/Assets/EF_Sam/Shared/TheresaRoom/HospitalBed/HospitalBed_c': Can't find file.
+[2021.05.22-08.17.58:853][197]LogLinker: Warning: [AssetLog] C:\Users\xmigu\Desktop\TFG\TFG\TFG_V1\Content\Assets\EF_Sam\Materials\SamRoomBed_b_Mat.uasset: Failed to load '/Game/Assets/EF_Sam/Shared/TheresaRoom/HospitalBed/HospitalBed_n': Can't find file.
+[2021.05.22-08.17.58:854][197]LogLinker: Warning: [AssetLog] C:\Users\xmigu\Desktop\TFG\TFG\TFG_V1\Content\Assets\EF_Sam\Materials\SamRoomBed_b_Mat.uasset: Failed to load '/Game/Assets/EF_Sam/Shared/TheresaRoom/HospitalBed/HospitalBed_r': Can't find file.
+[2021.05.22-08.17.58:982][197]LogLinker: Warning: [AssetLog] C:\Users\xmigu\Desktop\TFG\TFG\TFG_V1\Content\Assets\EF_Barbra\Common\MasterMaterial\Master_Glass_Mat.uasset: Failed to load '/Game/Assets/EF_Barbra/Shared/kitchen/shelf/DirtyMetal_a_c': Can't find file.
+[2021.05.22-08.17.58:982][197]LoadErrors: Failed to load /Game/Assets/EF_Barbra/Shared/kitchen/shelf/DirtyMetal_a_c.DirtyMetal_a_c Referenced by Master_Glass_Mat
+[2021.05.22-08.17.58:982][197]LogLinker: Warning: [AssetLog] C:\Users\xmigu\Desktop\TFG\TFG\TFG_V1\Content\Assets\EF_Barbra\Common\MasterMaterial\Master_Glass_Mat.uasset: Failed to load '/Game/Assets/EF_Barbra/Shared/kitchen/shelf/DirtyMetal_a_c': Can't find file.
+[2021.05.22-08.17.58:983][197]LogLinker: Warning: [AssetLog] C:\Users\xmigu\Desktop\TFG\TFG\TFG_V1\Content\Assets\EF_Barbra\Common\MasterMaterial\Master_Glass_Mat.uasset: Failed to load '/Game/Assets/EF_Barbra/Shared/kitchen/shelf/DirtyMetal_a_c': Can't find file.
+[2021.05.22-08.17.58:983][197]LoadErrors: Failed to load /Game/Assets/EF_Barbra/Shared/kitchen/shelf/DirtyMetal_a_c.DirtyMetal_a_c Referenced by MaterialExpressionTextureSampleParameter2D_8
+[2021.05.22-08.17.58:984][197]LogLinker: Warning: [AssetLog] C:\Users\xmigu\Desktop\TFG\TFG\TFG_V1\Content\Assets\EF_Barbra\Common\Materials\Glass\WM_GlassClean_a.uasset: Failed to load '/Game/Assets/EF_Barbra/Shared/kitchen/shelf/DirtyMetal_a_c': Can't find file.
+[2021.05.22-08.17.58:984][197]LoadErrors: Failed to load /Game/Assets/EF_Barbra/Shared/kitchen/shelf/DirtyMetal_a_c.DirtyMetal_a_c Referenced by WM_GlassClean_a
+[2021.05.22-08.17.58:984][197]LogLinker: Warning: [AssetLog] C:\Users\xmigu\Desktop\TFG\TFG\TFG_V1\Content\Assets\EF_Barbra\Common\Materials\Glass\WM_GlassClean_a.uasset: Failed to load '/Game/Assets/EF_Barbra/Shared/kitchen/shelf/DirtyMetal_a_c': Can't find file.
+[2021.05.22-08.17.59:010][197]LogLinker: Warning: [AssetLog] C:\Users\xmigu\Desktop\TFG\TFG\TFG_V1\Content\Assets\EF_Sam\Materials\SamRoomBed_b_Mat.uasset: Failed to load '/Game/Assets/EF_Sam/Shared/TheresaRoom/HospitalBed/HospitalBed_c': Can't find file.
+[2021.05.22-08.17.59:010][197]LoadErrors: Failed to load /Game/Assets/EF_Sam/Shared/TheresaRoom/HospitalBed/HospitalBed_c.HospitalBed_c Referenced by SamRoomBed_b_Mat
+[2021.05.22-08.17.59:011][197]LogLinker: Warning: [AssetLog] C:\Users\xmigu\Desktop\TFG\TFG\TFG_V1\Content\Assets\EF_Sam\Materials\SamRoomBed_b_Mat.uasset: Failed to load '/Game/Assets/EF_Sam/Shared/TheresaRoom/HospitalBed/HospitalBed_n': Can't find file.
+[2021.05.22-08.17.59:011][197]LoadErrors: Failed to load /Game/Assets/EF_Sam/Shared/TheresaRoom/HospitalBed/HospitalBed_n.HospitalBed_n Referenced by SamRoomBed_b_Mat
+[2021.05.22-08.17.59:011][197]LogLinker: Warning: [AssetLog] C:\Users\xmigu\Desktop\TFG\TFG\TFG_V1\Content\Assets\EF_Sam\Materials\SamRoomBed_b_Mat.uasset: Failed to load '/Game/Assets/EF_Sam/Shared/TheresaRoom/HospitalBed/HospitalBed_r': Can't find file.
+[2021.05.22-08.17.59:011][197]LoadErrors: Failed to load /Game/Assets/EF_Sam/Shared/TheresaRoom/HospitalBed/HospitalBed_r.HospitalBed_r Referenced by SamRoomBed_b_Mat
+[2021.05.22-08.17.59:025][197]LogLinker: Warning: [AssetLog] C:\Users\xmigu\Desktop\TFG\TFG\TFG_V1\Content\Assets\EF_Edith\Common\MasterMaterial\Master_Glass_Mat.uasset: Failed to load '/Game/Assets/EF_Edith/Shared/kitchen/shelf/DirtyMetal_a_c': Can't find file.
+[2021.05.22-08.17.59:025][197]LoadErrors: Failed to load /Game/Assets/EF_Edith/Shared/kitchen/shelf/DirtyMetal_a_c.DirtyMetal_a_c Referenced by Master_Glass_Mat
+[2021.05.22-08.17.59:025][197]LogLinker: Warning: [AssetLog] C:\Users\xmigu\Desktop\TFG\TFG\TFG_V1\Content\Assets\EF_Edith\Common\MasterMaterial\Master_Glass_Mat.uasset: Failed to load '/Game/Assets/EF_Edith/Shared/kitchen/shelf/DirtyMetal_a_c': Can't find file.
+[2021.05.22-08.17.59:026][197]LogLinker: Warning: [AssetLog] C:\Users\xmigu\Desktop\TFG\TFG\TFG_V1\Content\Assets\EF_Edith\Common\MasterMaterial\Master_Glass_Mat.uasset: Failed to load '/Game/Assets/EF_Edith/Shared/kitchen/shelf/DirtyMetal_a_c': Can't find file.
+[2021.05.22-08.17.59:026][197]LoadErrors: Failed to load /Game/Assets/EF_Edith/Shared/kitchen/shelf/DirtyMetal_a_c.DirtyMetal_a_c Referenced by MaterialExpressionTextureSampleParameter2D_8
+[2021.05.22-08.17.59:026][197]LogLinker: Warning: [AssetLog] C:\Users\xmigu\Desktop\TFG\TFG\TFG_V1\Content\Assets\EF_Edith\Common\Materials\Glass\WM_GlassClean_a.uasset: Failed to load '/Game/Assets/EF_Edith/Shared/kitchen/shelf/DirtyMetal_a_c': Can't find file.
+[2021.05.22-08.17.59:027][197]LoadErrors: Failed to load /Game/Assets/EF_Edith/Shared/kitchen/shelf/DirtyMetal_a_c.DirtyMetal_a_c Referenced by WM_GlassClean_a
+[2021.05.22-08.17.59:027][197]LogLinker: Warning: [AssetLog] C:\Users\xmigu\Desktop\TFG\TFG\TFG_V1\Content\Assets\EF_Edith\Common\Materials\Glass\WM_GlassClean_a.uasset: Failed to load '/Game/Assets/EF_Edith/Shared/kitchen/shelf/DirtyMetal_a_c': Can't find file.
+[2021.05.22-08.17.59:029][197]LogLinker: Warning: [AssetLog] C:\Users\xmigu\Desktop\TFG\TFG\TFG_V1\Content\Assets\EF_Sam\Common\Materials\Wood\WM_WoodRough_b_mat.uasset: Failed to load '/Game/Assets/EF_Sam/Common/PhysicalMaterials/FootstepMaterials/Wood_Indoor_A': Can't find file.
+[2021.05.22-08.17.59:029][197]LoadErrors: Failed to load /Game/Assets/EF_Sam/Common/PhysicalMaterials/FootstepMaterials/Wood_Indoor_A.Wood_Indoor_A Referenced by WM_WoodRough_b_mat
+[2021.05.22-08.17.59:038][197]LogLinker: Warning: [AssetLog] C:\Users\xmigu\Desktop\TFG\TFG\TFG_V1\Content\Assets\EF_FirstFloor\Common\Materials\Wood\WM_WoodRough_b_mat.uasset: Failed to load '/Game/Assets/EF_FirstFloor/Common/PhysicalMaterials/FootstepMaterials/Wood_Indoor_A': Can't find file.
+[2021.05.22-08.17.59:038][197]LoadErrors: Failed to load /Game/Assets/EF_FirstFloor/Common/PhysicalMaterials/FootstepMaterials/Wood_Indoor_A.Wood_Indoor_A Referenced by WM_WoodRough_b_mat
+[2021.05.22-08.17.59:081][197]LogLinker: Warning: [AssetLog] C:\Users\xmigu\Desktop\TFG\TFG\TFG_V1\Content\Assets\EF_MollyGreg\Common\Materials\Wood\OLD\wood_a_Mat_Inst.uasset: Failed to load '/Game/Assets/EF_MollyGreg/Common/PhysicalMaterials/Wood_Plank': Can't find file.
+[2021.05.22-08.17.59:081][197]LoadErrors: Failed to load /Game/Assets/EF_MollyGreg/Common/PhysicalMaterials/Wood_Plank.Wood_Plank Referenced by wood_a_Mat_Inst
+[2021.05.22-08.17.59:676][197]LogAssetEditorSubsystem: Opening Asset editor for World /Game/TFG/Levels/NivelPruebaMiguel.NivelPruebaMiguel
+[2021.05.22-08.17.59:676][197]Cmd: MAP LOAD FILE="../../../../../../Users/xmigu/Desktop/TFG/TFG/TFG_V1/Content/TFG/Levels/NivelPruebaMiguel.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.05.22-08.17.59:676][197]LightingResults: New page: Lighting Build
+[2021.05.22-08.17.59:676][197]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'StatsViewer' in 0.0003 seconds. Added 6 classes and 0 folders.
+[2021.05.22-08.17.59:677][197]LoadErrors: New page: Loading map: NivelPruebaMiguel.umap
+[2021.05.22-08.17.59:721][197]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2021.05.22-08.17.59:721][197]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.22-08.17.59:721][197]MapCheck: New page: Map Check
+[2021.05.22-08.17.59:721][197]LightingResults: New page: Lighting Build
+[2021.05.22-08.17.59:767][197]LogUObjectHash: Compacting FUObjectHashTables data took   4.28ms
+[2021.05.22-08.17.59:778][197]LogAudio: Display: Audio Device (ID: 1) registered with world 'NivelPruebaMiguel'.
+[2021.05.22-08.17.59:958][197]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.05.22-08.17.59:958][197]LogAIModule: Creating AISystem for world NivelPruebaMiguel
+[2021.05.22-08.18.00:002][197]LogUObjectHash: Compacting FUObjectHashTables data took   3.39ms
+[2021.05.22-08.18.00:021][197]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.05.22-08.18.00:021][197]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,211ms to complete.
+[2021.05.22-08.18.00:021][197]LogFileHelpers: Loading map 'NivelPruebaMiguel' took 0.345
+[2021.05.22-08.18.00:418][197]LogD3D12RHI: Creating RTPSO with 159 shaders (0 cached, 32 new) took 35.19 ms. Compile time 31.68 ms, link time 3.25 ms.
+[2021.05.22-08.18.02:515][313]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2021.05.22-08.18.02:525][313]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.05.22-08.18.02:525][313]PIE: New page: PIE session: NivelPruebaMiguel (22 may. 2021 12:18:02)
+[2021.05.22-08.18.02:526][313]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2021.05.22-08.18.02:528][313]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2021.05.22-08.18.02:528][313]LogLinker: Warning: Failed to load '/Game/TFG/Miguel/Actors/MyGameInstance': Can't find file.
+[2021.05.22-08.18.02:528][313]LogLinker: Warning: Failed to load '/Game/TFG/Miguel/Actors/MyGameInstance': Can't find file.
+[2021.05.22-08.18.02:528][313]LogUObjectGlobals: Warning: Failed to find object 'Class /Game/TFG/Miguel/Actors/MyGameInstance.MyGameInstance_C'
+[2021.05.22-08.18.02:528][313]LogPlayLevel: Creating play world package: /Game/TFG/Levels/UEDPIE_0_NivelPruebaMiguel
+[2021.05.22-08.18.02:574][313]LogPlayLevel: PIE: StaticDuplicateObject took: (0.045738s)
+[2021.05.22-08.18.02:575][313]LogAIModule: Creating AISystem for world NivelPruebaMiguel
+[2021.05.22-08.18.02:576][313]LogPlayLevel: PIE: World Init took: (0.001339s)
+[2021.05.22-08.18.02:576][313]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TFG/Levels/NivelPruebaMiguel.NivelPruebaMiguel to /Game/TFG/Levels/UEDPIE_0_NivelPruebaMiguel.NivelPruebaMiguel (0.047266s)
+[2021.05.22-08.18.02:647][313]LogUObjectHash: Compacting FUObjectHashTables data took   5.92ms
+[2021.05.22-08.18.02:650][313]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2021.05.22-08.18.02:650][313]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.05.22-08.18.02:650][313]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.05.22-08.18.02:650][313]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.05.22-08.18.02:650][313]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.05.22-08.18.02:650][313]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.05.22-08.18.02:650][313]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.05.22-08.18.02:650][313]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.05.22-08.18.02:650][313]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.05.22-08.18.02:651][313]LogAudio: Display: Using built-in audio occlusion.
+[2021.05.22-08.18.02:651][313]LogAudioMixer: Display: Initializing audio mixer.
+[2021.05.22-08.18.02:654][313]LogAudioMixer: Display: 0: FrontLeft
+[2021.05.22-08.18.02:654][313]LogAudioMixer: Display: 1: FrontRight
+[2021.05.22-08.18.02:665][313]LogAudioMixer: Display: Using Audio Device VS278 (NVIDIA High Definition Audio)
+[2021.05.22-08.18.02:665][313]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.05.22-08.18.02:665][313]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.05.22-08.18.02:665][313]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.05.22-08.18.02:666][313]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.05.22-08.18.02:666][313]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.05.22-08.18.02:666][313]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.05.22-08.18.02:685][313]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.05.22-08.18.02:685][313]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.05.22-08.18.02:685][313]LogInit: FAudioDevice initialized.
+[2021.05.22-08.18.02:685][313]LogAudio: Display: Audio Device (ID: 2) registered with world 'NivelPruebaMiguel'.
+[2021.05.22-08.18.02:733][313]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.22-08.18.02:733][313]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2021.05.22-08.18.02:746][313]LogWorld: Bringing World /Game/TFG/Levels/UEDPIE_0_NivelPruebaMiguel.NivelPruebaMiguel up for play (max tick rate 60) at 2021.05.22-10.18.02
+[2021.05.22-08.18.02:751][313]LogWorld: Bringing up level for play took: 0.016328
+[2021.05.22-08.18.02:753][313]LogOnline: OSS: Creating online subsystem instance for: :Context_19
+[2021.05.22-08.18.02:756][313]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'MovieSceneCapture' in 0.0003 seconds. Added 20 classes and 0 folders.
+[2021.05.22-08.18.02:763][313]PIE: Server logged in
+[2021.05.22-08.18.02:765][313]PIE: Play in editor total start time 0,241 seconds.
+[2021.05.22-08.18.02:814][314]LogRenderer: Reallocating scene render targets to support 1912x1008 Format 10 NumSamples 1 (Frame:1).
+[2021.05.22-08.18.08:572][600]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.22-08.18.08:572][600]LogWorld: BeginTearingDown for /Game/TFG/Levels/UEDPIE_0_NivelPruebaMiguel
+[2021.05.22-08.18.08:573][600]LogSlate: Window 'TFG_V1 Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2021.05.22-08.18.08:599][600]LogWorld: UWorld::CleanupWorld for NivelPruebaMiguel, bSessionEnded=true, bCleanupResources=true
+[2021.05.22-08.18.08:601][600]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.22-08.18.08:614][600]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.05.22-08.18.08:624][600]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.22-08.18.08:684][600]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.05.22-08.18.08:686][600]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.05.22-08.18.08:762][600]LogUObjectHash: Compacting FUObjectHashTables data took   7.79ms
+[2021.05.22-08.18.08:790][601]LogPlayLevel: Display: Destroying online subsystem :Context_19
+[2021.05.22-08.19.30:560][494]Cmd: DELETE
+[2021.05.22-08.19.30:560][494]Cmd: ACTOR DELETE
+[2021.05.22-08.19.30:570][494]LogEditorActor: Deleted Actor: BP_Key_C
+[2021.05.22-08.19.30:571][494]LogEditorActor: Deleted Actor: BP_Key_C
+[2021.05.22-08.19.30:572][494]LogEditorActor: Deleted Actor: BP_Key_C
+[2021.05.22-08.19.30:626][494]LogUObjectHash: Compacting FUObjectHashTables data took   6.35ms
+[2021.05.22-08.19.30:627][494]LogEditorActor: Deleted 3 Actors (0.067 secs)
+[2021.05.22-08.19.32:742][620]Cmd: DELETE
+[2021.05.22-08.19.32:742][620]Cmd: ACTOR DELETE
+[2021.05.22-08.19.32:752][620]LogEditorActor: Deleted Actor: BP_PlaceToHideKey_C
+[2021.05.22-08.19.32:755][620]LogEditorActor: Deleted Actor: BP_PlaceToHideKey_C
+[2021.05.22-08.19.32:756][620]LogEditorActor: Deleted Actor: BP_PlaceToHideKey_C
+[2021.05.22-08.19.32:803][620]LogUObjectHash: Compacting FUObjectHashTables data took   5.04ms
+[2021.05.22-08.19.32:804][620]LogEditorActor: Deleted 3 Actors (0.061 secs)
+[2021.05.22-08.19.34:831][736]LogUObjectHash: Compacting FUObjectHashTables data took   1.00ms
+[2021.05.22-08.19.34:975][736]LogSavePackage: Moving '../../../../../../Users/xmigu/Desktop/TFG/TFG/TFG_V1/Saved/NivelPruebaMiguel6CAD90864F3CDCC012DD54A6C826347B.tmp' to '../../../../../../Users/xmigu/Desktop/TFG/TFG/TFG_V1/Content/TFG/Levels/NivelPruebaMiguel.umap'
+[2021.05.22-08.19.34:993][736]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TFG/Levels/NivelPruebaMiguel_BuiltData" FILE="../../../../../../Users/xmigu/Desktop/TFG/TFG/TFG_V1/Content/TFG/Levels/NivelPruebaMiguel_BuiltData.uasset" SILENT=true
+[2021.05.22-08.19.35:648][736]LogSavePackage: Moving '../../../../../../Users/xmigu/Desktop/TFG/TFG/TFG_V1/Saved/NivelPruebaMiguel_BuiltData9FC052F1480AFF9A3D3DC9A6592DBD1C.tmp' to '../../../../../../Users/xmigu/Desktop/TFG/TFG/TFG_V1/Content/TFG/Levels/NivelPruebaMiguel_BuiltData.uasset'
+[2021.05.22-08.19.35:667][736]AssetCheck: New page: Asset Save: multiple assets
+[2021.05.22-08.19.35:667][736]LogContentValidation: Display: Validating World /Game/TFG/Levels/NivelPruebaMiguel.NivelPruebaMiguel
+[2021.05.22-08.19.35:667][736]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/TFG/Levels/NivelPruebaMiguel_BuiltData.NivelPruebaMiguel_BuiltData
+[2021.05.22-08.19.35:768][742]LogD3D12RHI: Creating RT View Heap with 250000 entries
+[2021.05.22-08.19.35:787][743]LogD3D12RHI: Creating RT Sampler Heap with 2048 entries
+[2021.05.22-08.19.35:789][743]LogD3D12RHI: Creating RT View Heap with 250000 entries
+[2021.05.22-08.19.35:798][743]LogD3D12RHI: Creating RT Sampler Heap with 2048 entries
+[2021.05.22-08.19.35:798][743]LogD3D12RHI: Creating RT View Heap with 250000 entries
+[2021.05.22-08.19.35:806][743]LogD3D12RHI: Creating RT Sampler Heap with 2048 entries
+[2021.05.22-08.20.02:415][207]BlueprintLog: New page: Compile BP_Key
+[2021.05.22-08.20.02:494][207]LogUObjectHash: Compacting FUObjectHashTables data took   6.14ms
+[2021.05.22-08.20.02:916][226]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TFG/Blueprints/BP_Key" FILE="../../../../../../Users/xmigu/Desktop/TFG/TFG/TFG_V1/Content/TFG/Blueprints/BP_Key.uasset" SILENT=true
+[2021.05.22-08.20.02:926][226]LogSavePackage: Moving '../../../../../../Users/xmigu/Desktop/TFG/TFG/TFG_V1/Saved/BP_Key386634FC41ECCD9A78E736A1E8B3CC6C.tmp' to '../../../../../../Users/xmigu/Desktop/TFG/TFG/TFG_V1/Content/TFG/Blueprints/BP_Key.uasset'
+[2021.05.22-08.20.02:942][226]AssetCheck: New page: Asset Save: BP_Key
+[2021.05.22-08.20.02:942][226]LogContentValidation: Display: Validating Blueprint /Game/TFG/Blueprints/BP_Key.BP_Key
+[2021.05.22-08.20.11:282][701]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/TFG/Blueprints/BP_InteractableObject.BP_InteractableObject
+[2021.05.22-08.20.22:490][279]BlueprintLog: New page: Compile BP_InteractableObject
+[2021.05.22-08.20.22:673][279]LogUObjectHash: Compacting FUObjectHashTables data took   6.69ms
+[2021.05.22-08.20.23:182][302]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TFG/Blueprints/BP_InteractableObject" FILE="../../../../../../Users/xmigu/Desktop/TFG/TFG/TFG_V1/Content/TFG/Blueprints/BP_InteractableObject.uasset" SILENT=true
+[2021.05.22-08.20.23:199][302]LogSavePackage: Moving '../../../../../../Users/xmigu/Desktop/TFG/TFG/TFG_V1/Saved/BP_InteractableObject2B13CDE744B584AA36D869AC369E625A.tmp' to '../../../../../../Users/xmigu/Desktop/TFG/TFG/TFG_V1/Content/TFG/Blueprints/BP_InteractableObject.uasset'
+[2021.05.22-08.20.23:216][302]AssetCheck: New page: Asset Save: BP_InteractableObject
+[2021.05.22-08.20.23:217][302]LogContentValidation: Display: Validating Blueprint /Game/TFG/Blueprints/BP_InteractableObject.BP_InteractableObject
+[2021.05.22-08.20.33:342][893]LogStaticMesh: Building static mesh SM_LlaveInglesa...
+[2021.05.22-08.20.33:418][893]LogStaticMesh: Built static mesh [0.08s] /Game/Assets/EF_Grounds/Meshes/SM_LlaveInglesa.SM_LlaveInglesa
+[2021.05.22-08.20.34:919][971]BlueprintLog: New page: Compile BP_InteractableObject
+[2021.05.22-08.20.35:088][971]LogUObjectHash: Compacting FUObjectHashTables data took   6.15ms
+[2021.05.22-08.20.35:490][986]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TFG/Blueprints/BP_InteractableObject" FILE="../../../../../../Users/xmigu/Desktop/TFG/TFG/TFG_V1/Content/TFG/Blueprints/BP_InteractableObject.uasset" SILENT=true
+[2021.05.22-08.20.35:510][986]LogSavePackage: Moving '../../../../../../Users/xmigu/Desktop/TFG/TFG/TFG_V1/Saved/BP_InteractableObject1785B648448FA2CF878AACAF13783AA7.tmp' to '../../../../../../Users/xmigu/Desktop/TFG/TFG/TFG_V1/Content/TFG/Blueprints/BP_InteractableObject.uasset'
+[2021.05.22-08.20.35:528][986]AssetCheck: New page: Asset Save: BP_InteractableObject
+[2021.05.22-08.20.35:528][986]LogContentValidation: Display: Validating Blueprint /Game/TFG/Blueprints/BP_InteractableObject.BP_InteractableObject
+[2021.05.22-08.20.42:484][363]BlueprintLog: New page: Compile BP_InteractableObject
+[2021.05.22-08.20.42:659][363]LogUObjectHash: Compacting FUObjectHashTables data took   6.43ms
+[2021.05.22-08.20.42:979][375]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TFG/Blueprints/BP_InteractableObject" FILE="../../../../../../Users/xmigu/Desktop/TFG/TFG/TFG_V1/Content/TFG/Blueprints/BP_InteractableObject.uasset" SILENT=true
+[2021.05.22-08.20.42:996][375]LogSavePackage: Moving '../../../../../../Users/xmigu/Desktop/TFG/TFG/TFG_V1/Saved/BP_InteractableObjectCC073DF44EF759E905910D9069C661F6.tmp' to '../../../../../../Users/xmigu/Desktop/TFG/TFG/TFG_V1/Content/TFG/Blueprints/BP_InteractableObject.uasset'
+[2021.05.22-08.20.43:013][375]AssetCheck: New page: Asset Save: BP_InteractableObject
+[2021.05.22-08.20.43:013][375]LogContentValidation: Display: Validating Blueprint /Game/TFG/Blueprints/BP_InteractableObject.BP_InteractableObject
+[2021.05.22-08.20.47:353][600]BlueprintLog: New page: Compile BP_CheckObject
+[2021.05.22-08.20.47:447][600]LogUObjectHash: Compacting FUObjectHashTables data took   6.43ms
+[2021.05.22-08.20.48:094][632]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TFG/Blueprints/BP_CheckObject" FILE="../../../../../../Users/xmigu/Desktop/TFG/TFG/TFG_V1/Content/TFG/Blueprints/BP_CheckObject.uasset" SILENT=true
+[2021.05.22-08.20.48:134][632]LogSavePackage: Moving '../../../../../../Users/xmigu/Desktop/TFG/TFG/TFG_V1/Saved/BP_CheckObjectCDBECCE342948E9B17702FAC9553EB8E.tmp' to '../../../../../../Users/xmigu/Desktop/TFG/TFG/TFG_V1/Content/TFG/Blueprints/BP_CheckObject.uasset'
+[2021.05.22-08.20.48:151][632]AssetCheck: New page: Asset Save: BP_CheckObject
+[2021.05.22-08.20.48:151][632]LogContentValidation: Display: Validating Blueprint /Game/TFG/Blueprints/BP_CheckObject.BP_CheckObject
+[2021.05.22-08.20.55:011][  8]BlueprintLog: New page: Compile BP_CheckObject
+[2021.05.22-08.20.55:110][  8]LogUObjectHash: Compacting FUObjectHashTables data took   6.64ms
+[2021.05.22-08.20.55:586][ 27]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TFG/Blueprints/BP_CheckObject" FILE="../../../../../../Users/xmigu/Desktop/TFG/TFG/TFG_V1/Content/TFG/Blueprints/BP_CheckObject.uasset" SILENT=true
+[2021.05.22-08.20.55:626][ 27]LogSavePackage: Moving '../../../../../../Users/xmigu/Desktop/TFG/TFG/TFG_V1/Saved/BP_CheckObjectB79AFC2044DDBC12A9737A9ABE2C1343.tmp' to '../../../../../../Users/xmigu/Desktop/TFG/TFG/TFG_V1/Content/TFG/Blueprints/BP_CheckObject.uasset'
+[2021.05.22-08.20.55:643][ 27]AssetCheck: New page: Asset Save: BP_CheckObject
+[2021.05.22-08.20.55:643][ 27]LogContentValidation: Display: Validating Blueprint /Game/TFG/Blueprints/BP_CheckObject.BP_CheckObject
+[2021.05.22-08.21.07:279][670]BlueprintLog: New page: Compile BP_Key
+[2021.05.22-08.21.07:361][670]LogUObjectHash: Compacting FUObjectHashTables data took   6.50ms
+[2021.05.22-08.21.07:828][692]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TFG/Blueprints/BP_Key" FILE="../../../../../../Users/xmigu/Desktop/TFG/TFG/TFG_V1/Content/TFG/Blueprints/BP_Key.uasset" SILENT=true
+[2021.05.22-08.21.07:835][692]LogSavePackage: Moving '../../../../../../Users/xmigu/Desktop/TFG/TFG/TFG_V1/Saved/BP_Key87144DB849C1168EBC6DE5B56352DF97.tmp' to '../../../../../../Users/xmigu/Desktop/TFG/TFG/TFG_V1/Content/TFG/Blueprints/BP_Key.uasset'
+[2021.05.22-08.21.07:852][692]AssetCheck: New page: Asset Save: BP_Key
+[2021.05.22-08.21.07:852][692]LogContentValidation: Display: Validating Blueprint /Game/TFG/Blueprints/BP_Key.BP_Key
+[2021.05.22-08.22.52:527][ 11]BlueprintLog: New page: Compile BP_Key
+[2021.05.22-08.22.52:614][ 11]LogUObjectHash: Compacting FUObjectHashTables data took   7.41ms
+[2021.05.22-08.22.52:960][ 23]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TFG/Blueprints/BP_Key" FILE="../../../../../../Users/xmigu/Desktop/TFG/TFG/TFG_V1/Content/TFG/Blueprints/BP_Key.uasset" SILENT=true
+[2021.05.22-08.22.52:969][ 23]LogSavePackage: Moving '../../../../../../Users/xmigu/Desktop/TFG/TFG/TFG_V1/Saved/BP_Key5645306A4080D4CBA26120B6D5030D82.tmp' to '../../../../../../Users/xmigu/Desktop/TFG/TFG/TFG_V1/Content/TFG/Blueprints/BP_Key.uasset'
+[2021.05.22-08.22.52:984][ 23]AssetCheck: New page: Asset Save: BP_Key
+[2021.05.22-08.22.52:984][ 23]LogContentValidation: Display: Validating Blueprint /Game/TFG/Blueprints/BP_Key.BP_Key
+[2021.05.22-08.22.56:167][202]LogContentBrowser: Deferred new asset file creation: BP_Key1
+[2021.05.22-08.22.56:194][202]LogContentBrowser: Creating deferred item: BP_Key1
+[2021.05.22-08.22.56:837][240]LogContentBrowser: Attempting asset rename: BP_Key1 -> BP_Key1
+[2021.05.22-08.22.56:842][240]LogBlueprint: Error: [AssetLog] /Game/TFG/Blueprints/BP_Key1.BP_Key1 (no disk path found): [Compiler] Can't connect pins  Target  and  Key : BP Key 1 Object Reference is not compatible with BP Key Object Reference.
+[2021.05.22-08.22.56:842][240]LogBlueprint: Error: [AssetLog] /Game/TFG/Blueprints/BP_Key1.BP_Key1 (no disk path found): [Compiler] Can't connect pins  Key  and  Target : BP Key Object Reference is not compatible with BP Key 1 Object Reference.
+[2021.05.22-08.22.56:894][240]LogUObjectHash: Compacting FUObjectHashTables data took   6.15ms
+[2021.05.22-08.22.56:897][240]LogBlueprint: Error: [AssetLog] /Game/TFG/Blueprints/BP_Key1.BP_Key1 (no disk path found): [Compiler] Can't connect pins  Target  and  Key : BP Key 1 Object Reference is not compatible with BP Key Object Reference.
+[2021.05.22-08.22.56:897][240]LogBlueprint: Error: [AssetLog] /Game/TFG/Blueprints/BP_Key1.BP_Key1 (no disk path found): [Compiler] Can't connect pins  Key  and  Target : BP Key Object Reference is not compatible with BP Key 1 Object Reference.
+[2021.05.22-08.22.56:902][240]LogContentBrowser: End creating deferred item BP_Key1
+[2021.05.22-08.22.57:549][275]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/TFG/Blueprints/BP_Key1.BP_Key1
+[2021.05.22-08.22.57:932][275]LogSlate: Took 0.000126 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2021.05.22-08.23.00:178][409]BlueprintLog: New page: Compile BP_Key1
+[2021.05.22-08.23.00:181][409]LogBlueprint: Error: [AssetLog] /Game/TFG/Blueprints/BP_Key1.BP_Key1 (no disk path found): [Compiler] Can't connect pins  Target  and  Key : BP Key 1 Object Reference is not compatible with BP Key Object Reference.
+[2021.05.22-08.23.00:181][409]LogBlueprint: Error: [AssetLog] /Game/TFG/Blueprints/BP_Key1.BP_Key1 (no disk path found): [Compiler] Can't connect pins  Key  and  Target : BP Key Object Reference is not compatible with BP Key 1 Object Reference.
+[2021.05.22-08.23.00:261][409]LogUObjectHash: Compacting FUObjectHashTables data took   6.34ms
+[2021.05.22-08.23.13:008][119]BlueprintLog: New page: Compile BP_Key1
+[2021.05.22-08.23.13:009][119]LogBlueprint: Error: [AssetLog] /Game/TFG/Blueprints/BP_Key1.BP_Key1 (no disk path found): [Compiler] Can't connect pins  Target  and  Key : BP Key 1 Object Reference is not compatible with BP Key Object Reference.
+[2021.05.22-08.23.13:010][119]LogBlueprint: Error: [AssetLog] /Game/TFG/Blueprints/BP_Key1.BP_Key1 (no disk path found): [Compiler] Can't connect pins  Key  and  Target : BP Key Object Reference is not compatible with BP Key 1 Object Reference.
+[2021.05.22-08.23.13:084][119]LogUObjectHash: Compacting FUObjectHashTables data took   6.23ms
+[2021.05.22-08.23.17:841][394]BlueprintLog: New page: Compile BP_Key1
+[2021.05.22-08.23.17:912][394]LogUObjectHash: Compacting FUObjectHashTables data took   5.30ms
+[2021.05.22-08.23.18:846][446]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TFG/Blueprints/BP_Key1" FILE="../../../../../../Users/xmigu/Desktop/TFG/TFG/TFG_V1/Content/TFG/Blueprints/BP_Key1.uasset" SILENT=true
+[2021.05.22-08.23.18:850][446]LogSavePackage: Moving '../../../../../../Users/xmigu/Desktop/TFG/TFG/TFG_V1/Saved/BP_Key1507802834F57C75D2B63D1BF7C503B74.tmp' to '../../../../../../Users/xmigu/Desktop/TFG/TFG/TFG_V1/Content/TFG/Blueprints/BP_Key1.uasset'
+[2021.05.22-08.23.18:869][446]AssetCheck: New page: Asset Save: BP_Key1
+[2021.05.22-08.23.18:869][446]LogContentValidation: Display: Validating Blueprint /Game/TFG/Blueprints/BP_Key1.BP_Key1
+[2021.05.22-08.23.28:467][976]BlueprintLog: New page: Compile BP_Key1
+[2021.05.22-08.23.28:540][976]LogUObjectHash: Compacting FUObjectHashTables data took   5.26ms
+[2021.05.22-08.23.29:037][  0]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TFG/Blueprints/BP_Key1" FILE="../../../../../../Users/xmigu/Desktop/TFG/TFG/TFG_V1/Content/TFG/Blueprints/BP_Key1.uasset" SILENT=true
+[2021.05.22-08.23.29:041][  0]LogSavePackage: Moving '../../../../../../Users/xmigu/Desktop/TFG/TFG/TFG_V1/Saved/BP_Key17129C0614AD8914D8F951B9FC1E75F20.tmp' to '../../../../../../Users/xmigu/Desktop/TFG/TFG/TFG_V1/Content/TFG/Blueprints/BP_Key1.uasset'
+[2021.05.22-08.23.29:056][  0]AssetCheck: New page: Asset Save: BP_Key1
+[2021.05.22-08.23.29:056][  0]LogContentValidation: Display: Validating Blueprint /Game/TFG/Blueprints/BP_Key1.BP_Key1
+[2021.05.22-08.23.29:774][ 40]LogWorld: UWorld::CleanupWorld for World_19, bSessionEnded=true, bCleanupResources=true
+[2021.05.22-08.23.29:774][ 40]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.22-08.23.37:417][203]LogSlate: Window 'Pick Parent Class' being destroyed
+[2021.05.22-08.23.37:425][203]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2021.05.22-08.23.37:446][203]LogContentBrowser: Creating deferred item: NewBlueprint
+[2021.05.22-08.23.44:158][596]LogContentBrowser: Attempting asset rename: NewBlueprint -> BP_NewKey
+[2021.05.22-08.23.44:166][596]LogContentBrowser: End creating deferred item NewBlueprint
+[2021.05.22-08.23.46:175][711]LogUObjectHash: Compacting FUObjectHashTables data took   6.60ms
+[2021.05.22-08.23.47:172][711]LogSlate: Window 'Delete Assets' being destroyed
+[2021.05.22-08.23.47:243][711]LogUObjectGlobals: Force Deleting 1 Package(s):
+	Asset Name: /Game/TFG/Blueprints/BP_Key1.BP_Key1
+[2021.05.22-08.23.48:829][711]LogUObjectHash: Compacting FUObjectHashTables data took   5.10ms
+[2021.05.22-08.23.48:884][711]LogUObjectHash: Compacting FUObjectHashTables data took   5.07ms
+[2021.05.22-08.23.48:932][711]LogUObjectHash: Compacting FUObjectHashTables data took   1.12ms
+[2021.05.22-08.23.54:685][ 39]LogContentBrowser: Attempting asset rename: BP_Key -> oldkey
+[2021.05.22-08.23.54:719][ 39]LogMetaData: Removing '/Game/TFG/Blueprints/oldkey.oldkey_C' ref from Metadata '/Game/TFG/Blueprints/BP_Key.PackageMetaData'
+[2021.05.22-08.23.54:719][ 39]LogMetaData: Removing '/Game/TFG/Blueprints/oldkey.oldkey:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/TFG/Blueprints/BP_Key.PackageMetaData'
+[2021.05.22-08.23.54:719][ 39]LogMetaData: Removing '/Game/TFG/Blueprints/oldkey.SKEL_oldkey_C' ref from Metadata '/Game/TFG/Blueprints/BP_Key.PackageMetaData'
+[2021.05.22-08.23.54:719][ 39]LogMetaData: Removing '/Game/TFG/Blueprints/oldkey.SKEL_oldkey_C:UserConstructionScript' ref from Metadata '/Game/TFG/Blueprints/BP_Key.PackageMetaData'
+[2021.05.22-08.23.54:719][ 39]LogMetaData: Removing '/Game/TFG/Blueprints/oldkey.SKEL_oldkey_C:CollectKey' ref from Metadata '/Game/TFG/Blueprints/BP_Key.PackageMetaData'
+[2021.05.22-08.23.54:800][ 39]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TFG/Blueprints/oldkey" FILE="../../../../../../Users/xmigu/Desktop/TFG/TFG/TFG_V1/Content/TFG/Blueprints/oldkey.uasset" SILENT=true
+[2021.05.22-08.23.54:810][ 39]LogSavePackage: Moving '../../../../../../Users/xmigu/Desktop/TFG/TFG/TFG_V1/Saved/oldkeyECA2D07047F164F1654EF386409392DB.tmp' to '../../../../../../Users/xmigu/Desktop/TFG/TFG/TFG_V1/Content/TFG/Blueprints/oldkey.uasset'
+[2021.05.22-08.23.54:812][ 39]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TFG/Blueprints/BP_Key" FILE="../../../../../../Users/xmigu/Desktop/TFG/TFG/TFG_V1/Content/TFG/Blueprints/BP_Key.uasset" SILENT=true
+[2021.05.22-08.23.54:813][ 39]LogSavePackage: Moving '../../../../../../Users/xmigu/Desktop/TFG/TFG/TFG_V1/Saved/BP_KeyA891EE7B4EFE4A7E659F5B979D2FAD2E.tmp' to '../../../../../../Users/xmigu/Desktop/TFG/TFG/TFG_V1/Content/TFG/Blueprints/BP_Key.uasset'
+[2021.05.22-08.23.54:893][ 39]AssetCheck: New page: Asset Save: multiple assets
+[2021.05.22-08.23.54:893][ 39]LogContentValidation: Display: Validating Blueprint /Game/TFG/Blueprints/oldkey.oldkey
+[2021.05.22-08.23.54:893][ 39]LogContentValidation: Display: Validating ObjectRedirector /Game/TFG/Blueprints/BP_Key.BP_Key
+[2021.05.22-08.23.54:893][ 39]LogContentValidation: Display: Validating ObjectRedirector /Game/TFG/Blueprints/BP_Key.Default__BP_Key_C
+[2021.05.22-08.23.54:893][ 39]LogContentValidation: Display: Validating ObjectRedirector /Game/TFG/Blueprints/BP_Key.BP_Key_C
+[2021.05.22-08.24.00:938][387]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/TFG/Blueprints/BP_NewKey.BP_NewKey
+[2021.05.22-08.24.05:228][598]BlueprintLog: New page: Compile BP_NewKey
+[2021.05.22-08.24.05:306][598]LogUObjectHash: Compacting FUObjectHashTables data took   6.34ms
+[2021.05.22-08.24.05:711][616]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TFG/Blueprints/BP_NewKey" FILE="../../../../../../Users/xmigu/Desktop/TFG/TFG/TFG_V1/Content/TFG/Blueprints/BP_NewKey.uasset" SILENT=true
+[2021.05.22-08.24.05:716][616]LogSavePackage: Moving '../../../../../../Users/xmigu/Desktop/TFG/TFG/TFG_V1/Saved/BP_NewKey15121DA04ACB1F8A20A5F0BEF908F835.tmp' to '../../../../../../Users/xmigu/Desktop/TFG/TFG/TFG_V1/Content/TFG/Blueprints/BP_NewKey.uasset'
+[2021.05.22-08.24.05:734][616]AssetCheck: New page: Asset Save: BP_NewKey
+[2021.05.22-08.24.05:734][616]LogContentValidation: Display: Validating Blueprint /Game/TFG/Blueprints/BP_NewKey.BP_NewKey
+[2021.05.22-08.24.10:809][898]BlueprintLog: New page: Compile BP_NewKey
+[2021.05.22-08.24.10:886][898]LogUObjectHash: Compacting FUObjectHashTables data took   5.72ms
+[2021.05.22-08.24.11:261][915]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TFG/Blueprints/BP_NewKey" FILE="../../../../../../Users/xmigu/Desktop/TFG/TFG/TFG_V1/Content/TFG/Blueprints/BP_NewKey.uasset" SILENT=true
+[2021.05.22-08.24.11:268][915]LogSavePackage: Moving '../../../../../../Users/xmigu/Desktop/TFG/TFG/TFG_V1/Saved/BP_NewKeyFEA32BB441DCBB282D4143A46EEBFB9F.tmp' to '../../../../../../Users/xmigu/Desktop/TFG/TFG/TFG_V1/Content/TFG/Blueprints/BP_NewKey.uasset'
+[2021.05.22-08.24.11:285][915]AssetCheck: New page: Asset Save: BP_NewKey
+[2021.05.22-08.24.11:285][915]LogContentValidation: Display: Validating Blueprint /Game/TFG/Blueprints/BP_NewKey.BP_NewKey
+[2021.05.22-08.24.26:103][762]BlueprintLog: New page: Compile oldkey
+[2021.05.22-08.24.26:191][762]LogUObjectHash: Compacting FUObjectHashTables data took   6.28ms
+[2021.05.22-08.24.26:615][780]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TFG/Blueprints/oldkey" FILE="../../../../../../Users/xmigu/Desktop/TFG/TFG/TFG_V1/Content/TFG/Blueprints/oldkey.uasset" SILENT=true
+[2021.05.22-08.24.26:622][780]LogSavePackage: Moving '../../../../../../Users/xmigu/Desktop/TFG/TFG/TFG_V1/Saved/oldkey0FEFBB1047B5A67E74C21EBB733F64E3.tmp' to '../../../../../../Users/xmigu/Desktop/TFG/TFG/TFG_V1/Content/TFG/Blueprints/oldkey.uasset'
+[2021.05.22-08.24.26:639][780]AssetCheck: New page: Asset Save: oldkey
+[2021.05.22-08.24.26:639][780]LogContentValidation: Display: Validating Blueprint /Game/TFG/Blueprints/oldkey.oldkey
+[2021.05.22-08.24.27:898][844]LogWorld: UWorld::CleanupWorld for World_20, bSessionEnded=true, bCleanupResources=true
+[2021.05.22-08.24.27:898][844]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.22-08.24.30:966][ 11]LogUObjectHash: Compacting FUObjectHashTables data took   6.49ms
+[2021.05.22-08.24.31:899][ 11]LogSlate: Window 'Delete Assets' being destroyed
+[2021.05.22-08.24.31:968][ 11]LogUObjectGlobals: Force Deleting 1 Package(s):
+	Asset Name: /Game/TFG/Blueprints/BP_NewKey.BP_NewKey
+[2021.05.22-08.24.32:524][ 11]LogUObjectHash: Compacting FUObjectHashTables data took   4.72ms
+[2021.05.22-08.24.32:572][ 11]LogUObjectHash: Compacting FUObjectHashTables data took   4.74ms
+[2021.05.22-08.24.32:617][ 11]LogUObjectHash: Compacting FUObjectHashTables data took   1.05ms
+[2021.05.22-08.24.43:013][618]LogContentBrowser: Attempting asset rename: oldkey -> BP_NewKey
+[2021.05.22-08.24.43:051][618]LogMetaData: Removing '/Game/TFG/Blueprints/BP_NewKey.BP_NewKey_C' ref from Metadata '/Game/TFG/Blueprints/oldkey.PackageMetaData'
+[2021.05.22-08.24.43:052][618]LogMetaData: Removing '/Game/TFG/Blueprints/BP_NewKey.SKEL_BP_NewKey_C' ref from Metadata '/Game/TFG/Blueprints/oldkey.PackageMetaData'
+[2021.05.22-08.24.43:052][618]LogMetaData: Removing '/Game/TFG/Blueprints/BP_NewKey.BP_NewKey:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/TFG/Blueprints/oldkey.PackageMetaData'
+[2021.05.22-08.24.43:052][618]LogMetaData: Removing '/Game/TFG/Blueprints/BP_NewKey.SKEL_BP_NewKey_C:CollectKey' ref from Metadata '/Game/TFG/Blueprints/oldkey.PackageMetaData'
+[2021.05.22-08.24.43:052][618]LogMetaData: Removing '/Game/TFG/Blueprints/BP_NewKey.SKEL_BP_NewKey_C:UserConstructionScript' ref from Metadata '/Game/TFG/Blueprints/oldkey.PackageMetaData'
+[2021.05.22-08.24.43:129][618]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TFG/Blueprints/BP_NewKey" FILE="../../../../../../Users/xmigu/Desktop/TFG/TFG/TFG_V1/Content/TFG/Blueprints/BP_NewKey.uasset" SILENT=true
+[2021.05.22-08.24.43:137][618]LogSavePackage: Moving '../../../../../../Users/xmigu/Desktop/TFG/TFG/TFG_V1/Saved/BP_NewKey3229008B43455F19B3CEE8AFB3A52C65.tmp' to '../../../../../../Users/xmigu/Desktop/TFG/TFG/TFG_V1/Content/TFG/Blueprints/BP_NewKey.uasset'
+[2021.05.22-08.24.43:380][618]LogUObjectHash: Compacting FUObjectHashTables data took   5.31ms
+[2021.05.22-08.24.43:443][618]LogUObjectHash: Compacting FUObjectHashTables data took   1.13ms
+[2021.05.22-08.24.43:490][618]LogUObjectHash: Compacting FUObjectHashTables data took   1.10ms
+[2021.05.22-08.24.43:553][618]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TFG/Blueprints/BP_Key" FILE="../../../../../../Users/xmigu/Desktop/TFG/TFG/TFG_V1/Content/TFG/Blueprints/BP_Key.uasset" SILENT=true
+[2021.05.22-08.24.43:554][618]LogSavePackage: Moving '../../../../../../Users/xmigu/Desktop/TFG/TFG/TFG_V1/Saved/BP_Key265C8174407B88E18ED1AFABC8A00E8A.tmp' to '../../../../../../Users/xmigu/Desktop/TFG/TFG/TFG_V1/Content/TFG/Blueprints/BP_Key.uasset'
+[2021.05.22-08.24.43:636][618]AssetCheck: New page: Asset Save: multiple assets
+[2021.05.22-08.24.43:636][618]LogContentValidation: Display: Validating Blueprint /Game/TFG/Blueprints/BP_NewKey.BP_NewKey
+[2021.05.22-08.24.43:636][618]LogContentValidation: Display: Validating ObjectRedirector /Game/TFG/Blueprints/BP_Key.BP_Key
+[2021.05.22-08.24.43:636][618]LogContentValidation: Display: Validating ObjectRedirector /Game/TFG/Blueprints/BP_Key.BP_Key_C
+[2021.05.22-08.24.46:242][769]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/TFG/Blueprints/oldkey.oldkey
+[2021.05.22-08.25.00:349][576]LogLinker: Warning: Failed to load '/Game/TFG/Blueprints/oldkey': Can't find file.
+[2021.05.22-08.25.00:431][576]LogUObjectHash: Compacting FUObjectHashTables data took   6.76ms
+[2021.05.22-08.25.02:123][576]LogSlate: Window 'Delete Assets' being destroyed
+[2021.05.22-08.25.03:350][643]LogUObjectHash: Compacting FUObjectHashTables data took   6.20ms
+[2021.05.22-08.25.08:426][643]LogSlate: Window 'Delete Assets' being destroyed
+[2021.05.22-08.25.08:731][643]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2021.05.22-08.25.08:731][643]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.22-08.25.08:794][643]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2021.05.22-08.25.08:794][643]LogWorld: UWorld::CleanupWorld for World_21, bSessionEnded=true, bCleanupResources=true
+[2021.05.22-08.25.08:794][643]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.22-08.25.08:860][643]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2021.05.22-08.25.08:860][643]LogWorld: UWorld::CleanupWorld for World_18, bSessionEnded=true, bCleanupResources=true
+[2021.05.22-08.25.08:860][643]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.22-08.25.08:923][643]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2021.05.22-08.25.08:923][643]LogWorld: UWorld::CleanupWorld for World_17, bSessionEnded=true, bCleanupResources=true
+[2021.05.22-08.25.08:923][643]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.22-08.25.08:980][643]LogSlate: Window 'BP_LockedDoor' being destroyed
+[2021.05.22-08.25.08:991][643]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2021.05.22-08.25.08:991][643]LogWorld: UWorld::CleanupWorld for World_16, bSessionEnded=true, bCleanupResources=true
+[2021.05.22-08.25.08:991][643]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.22-08.25.09:040][643]LogUObjectGlobals: Force Deleting 1 Package(s):
+	Asset Name: /Game/TFG/Blueprints/BP_NewKey.BP_NewKey
+[2021.05.22-08.25.09:570][643]LogUObjectHash: Compacting FUObjectHashTables data took   4.39ms
+[2021.05.22-08.25.09:674][643]LogUObjectHash: Compacting FUObjectHashTables data took   4.61ms
+[2021.05.22-08.25.09:697][643]LogUObjectHash: Compacting FUObjectHashTables data took   2.20ms
+[2021.05.22-08.25.09:717][643]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2021.05.22-08.25.10:765][692]LogLinker: Warning: Failed to load '/Game/FirstPersonBP/Blueprints/FirstPersonGameMode': Can't find file.
+[2021.05.22-08.25.10:765][692]LogLinker: Warning: Failed to load '/Game/FirstPersonBP/Blueprints/FirstPersonGameMode': Can't find file.
+[2021.05.22-08.25.10:765][692]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/FirstPersonBP/Blueprints/FirstPersonGameMode.FirstPersonGameMode_C'
+[2021.05.22-08.25.12:161][771]LogAssetEditorSubsystem: Opening Asset editor for LevelScriptBlueprint /Game/TFG/Levels/NivelPruebaMiguel.NivelPruebaMiguel:PersistentLevel.NivelPruebaMiguel
+[2021.05.22-08.25.28:630][720]LogContentBrowser: Attempting asset rename: oldkey -> BP_NewKey
+[2021.05.22-08.25.28:662][720]LogMetaData: Removing '/Game/TFG/Blueprints/BP_NewKey.BP_NewKey_C' ref from Metadata '/Game/TFG/Blueprints/oldkey.PackageMetaData'
+[2021.05.22-08.25.28:662][720]LogMetaData: Removing '/Game/TFG/Blueprints/BP_NewKey.SKEL_BP_NewKey_C' ref from Metadata '/Game/TFG/Blueprints/oldkey.PackageMetaData'
+[2021.05.22-08.25.28:662][720]LogMetaData: Removing '/Game/TFG/Blueprints/BP_NewKey.SKEL_BP_NewKey_C:UserConstructionScript' ref from Metadata '/Game/TFG/Blueprints/oldkey.PackageMetaData'
+[2021.05.22-08.25.28:662][720]LogMetaData: Removing '/Game/TFG/Blueprints/BP_NewKey.SKEL_BP_NewKey_C:CollectKey' ref from Metadata '/Game/TFG/Blueprints/oldkey.PackageMetaData'
+[2021.05.22-08.25.28:663][720]LogLinker: Warning: Failed to load '/Game/TFG/Blueprints/oldkey': Can't find file.
+[2021.05.22-08.25.28:741][720]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TFG/Blueprints/BP_NewKey" FILE="../../../../../../Users/xmigu/Desktop/TFG/TFG/TFG_V1/Content/TFG/Blueprints/BP_NewKey.uasset" SILENT=true
+[2021.05.22-08.25.28:748][720]LogSavePackage: Moving '../../../../../../Users/xmigu/Desktop/TFG/TFG/TFG_V1/Saved/BP_NewKeyBA985A334AAA8211AA220EB1119E8918.tmp' to '../../../../../../Users/xmigu/Desktop/TFG/TFG/TFG_V1/Content/TFG/Blueprints/BP_NewKey.uasset'
+[2021.05.22-08.25.28:789][720]LogLinker: Warning: Failed to load '/Game/TFG/Blueprints/oldkey': Can't find file.
+[2021.05.22-08.25.28:887][720]LogUObjectHash: Compacting FUObjectHashTables data took   2.72ms
+[2021.05.22-08.25.28:927][720]LogUObjectHash: Compacting FUObjectHashTables data took   2.62ms
+[2021.05.22-08.25.28:952][720]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2021.05.22-08.25.29:012][720]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TFG/Blueprints/BP_Key" FILE="../../../../../../Users/xmigu/Desktop/TFG/TFG/TFG_V1/Content/TFG/Blueprints/BP_Key.uasset" SILENT=true
+[2021.05.22-08.25.29:013][720]LogSavePackage: Moving '../../../../../../Users/xmigu/Desktop/TFG/TFG/TFG_V1/Saved/BP_Key585790F14D403EBF69DD91944237CEAB.tmp' to '../../../../../../Users/xmigu/Desktop/TFG/TFG/TFG_V1/Content/TFG/Blueprints/BP_Key.uasset'
+[2021.05.22-08.25.29:085][720]AssetCheck: New page: Asset Save: multiple assets
+[2021.05.22-08.25.29:085][720]LogContentValidation: Display: Validating Blueprint /Game/TFG/Blueprints/BP_NewKey.BP_NewKey
+[2021.05.22-08.25.29:085][720]LogContentValidation: Display: Validating ObjectRedirector /Game/TFG/Blueprints/BP_Key.BP_Key_C
+[2021.05.22-08.25.32:497][883]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2021.05.22-08.25.36:400][111]BlueprintLog: New page: Compile NivelPruebaMiguel
+[2021.05.22-08.25.36:403][111]LogBlueprint: Error: [AssetLog] C:\Users\xmigu\Desktop\TFG\TFG\TFG_V1\Content\TFG\Levels\NivelPruebaMiguel.umap: [Compiler] Invalid pin connection from  Array  and  Out Actors : Array of Object References is not compatible with Array of BP New Key Object References. (You may have changed the type after the connections were made)
+[2021.05.22-08.25.36:404][111]LogBlueprint: Error: [AssetLog] C:\Users\xmigu\Desktop\TFG\TFG\TFG_V1\Content\TFG\Levels\NivelPruebaMiguel.umap: [Compiler] Invalid pin connection from  Array Element  and  Target : Object Reference is not compatible with Actor Object Reference. (You may have changed the type after the connections were made)
+[2021.05.22-08.25.36:405][111]LogBlueprint: Error: [AssetLog] C:\Users\xmigu\Desktop\TFG\TFG\TFG_V1\Content\TFG\Levels\NivelPruebaMiguel.umap: [Compiler] COMPILER ERROR: failed building connection with 'Array of Object References is not compatible with Array of BP New Key Object References.' at  Get (a copy) generated from expanding For Each Loop
+[2021.05.22-08.25.36:406][111]LogBlueprint: Error: [AssetLog] C:\Users\xmigu\Desktop\TFG\TFG\TFG_V1\Content\TFG\Levels\NivelPruebaMiguel.umap: [Compiler] COMPILER ERROR: failed building connection with 'Object Reference is not compatible with Actor Object Reference.' at  Get (a copy) generated from expanding For Each Loop
+[2021.05.22-08.25.36:406][111]LogBlueprint: Error: [AssetLog] C:\Users\xmigu\Desktop\TFG\TFG\TFG_V1\Content\TFG\Levels\NivelPruebaMiguel.umap: [Compiler] Can't connect pins  Target Array  and  Out Actors : Array of Object References is not compatible with Array of BP New Key Object References.
+[2021.05.22-08.25.36:407][111]LogBlueprint: Error: [AssetLog] C:\Users\xmigu\Desktop\TFG\TFG\TFG_V1\Content\TFG\Levels\NivelPruebaMiguel.umap: [Compiler] Can't connect pins  Out Actors  and  Target Array : Array of BP New Key Object References is not compatible with Array of Object References.
+[2021.05.22-08.25.36:407][111]LogBlueprint: Error: [AssetLog] C:\Users\xmigu\Desktop\TFG\TFG\TFG_V1\Content\TFG\Levels\NivelPruebaMiguel.umap: [Compiler] Invalid pin connection from ' Out Actors ' to ' Target Array '. You may have changed the type after the connections were made.
+[2021.05.22-08.25.36:408][111]LogBlueprint: Error: [AssetLog] C:\Users\xmigu\Desktop\TFG\TFG\TFG_V1\Content\TFG\Levels\NivelPruebaMiguel.umap: [Compiler] Invalid pin connection from ' Out Actors ' to ' Target Array generated from expanding For Each Loop '. You may have changed the type after the connections were made.
+[2021.05.22-08.25.36:409][111]LogBlueprint: Error: [AssetLog] C:\Users\xmigu\Desktop\TFG\TFG\TFG_V1\Content\TFG\Levels\NivelPruebaMiguel.umap: [Compiler] Can't connect pins  Target Array generated from expanding For Each Loop  and  Out Actors : Array of Object References is not compatible with Array of BP New Key Object References.
+[2021.05.22-08.25.36:470][111]LogUObjectHash: Compacting FUObjectHashTables data took   3.58ms
+[2021.05.22-08.25.36:871][127]LogUObjectHash: Compacting FUObjectHashTables data took   2.79ms
+[2021.05.22-08.25.37:013][127]LogSavePackage: Moving '../../../../../../Users/xmigu/Desktop/TFG/TFG/TFG_V1/Saved/NivelPruebaMiguel4DCC261B4FB229E3585D1AA6E4175D04.tmp' to '../../../../../../Users/xmigu/Desktop/TFG/TFG/TFG_V1/Content/TFG/Levels/NivelPruebaMiguel.umap'
+[2021.05.22-08.25.37:029][127]LogFileHelpers: Saving map 'NivelPruebaMiguel' took 0.182
+[2021.05.22-08.25.37:047][127]AssetCheck: New page: Asset Save: NivelPruebaMiguel
+[2021.05.22-08.25.37:047][127]LogContentValidation: Display: Validating World /Game/TFG/Levels/NivelPruebaMiguel.NivelPruebaMiguel
+[2021.05.22-08.25.49:616][859]BlueprintLog: New page: Compile NivelPruebaMiguel
+[2021.05.22-08.25.49:619][859]LogBlueprint: Error: [AssetLog] C:\Users\xmigu\Desktop\TFG\TFG\TFG_V1\Content\TFG\Levels\NivelPruebaMiguel.umap: [Compiler] Invalid pin connection from  Array  and  Out Actors : Array of Object References is not compatible with Array of BP New Key Object References. (You may have changed the type after the connections were made)
+[2021.05.22-08.25.49:619][859]LogBlueprint: Error: [AssetLog] C:\Users\xmigu\Desktop\TFG\TFG\TFG_V1\Content\TFG\Levels\NivelPruebaMiguel.umap: [Compiler] Invalid pin connection from  Array Element  and  Target : Object Reference is not compatible with Actor Object Reference. (You may have changed the type after the connections were made)
+[2021.05.22-08.25.49:621][859]LogBlueprint: Error: [AssetLog] C:\Users\xmigu\Desktop\TFG\TFG\TFG_V1\Content\TFG\Levels\NivelPruebaMiguel.umap: [Compiler] COMPILER ERROR: failed building connection with 'Array of Object References is not compatible with Array of BP New Key Object References.' at  Get (a copy) generated from expanding For Each Loop
+[2021.05.22-08.25.49:621][859]LogBlueprint: Error: [AssetLog] C:\Users\xmigu\Desktop\TFG\TFG\TFG_V1\Content\TFG\Levels\NivelPruebaMiguel.umap: [Compiler] COMPILER ERROR: failed building connection with 'Object Reference is not compatible with Actor Object Reference.' at  Get (a copy) generated from expanding For Each Loop
+[2021.05.22-08.25.49:622][859]LogBlueprint: Error: [AssetLog] C:\Users\xmigu\Desktop\TFG\TFG\TFG_V1\Content\TFG\Levels\NivelPruebaMiguel.umap: [Compiler] Can't connect pins  Out Actors  and  Target Array generated from expanding For Each Loop : Array of BP New Key Object References is not compatible with Array of Object References.
+[2021.05.22-08.25.49:623][859]LogBlueprint: Error: [AssetLog] C:\Users\xmigu\Desktop\TFG\TFG\TFG_V1\Content\TFG\Levels\NivelPruebaMiguel.umap: [Compiler] Invalid pin connection from ' Out Actors ' to ' Target Array generated from expanding For Each Loop '. You may have changed the type after the connections were made.
+[2021.05.22-08.25.49:623][859]LogBlueprint: Error: [AssetLog] C:\Users\xmigu\Desktop\TFG\TFG\TFG_V1\Content\TFG\Levels\NivelPruebaMiguel.umap: [Compiler] Can't connect pins  Target Array generated from expanding For Each Loop  and  Out Actors : Array of Object References is not compatible with Array of BP New Key Object References.
+[2021.05.22-08.25.49:678][859]LogUObjectHash: Compacting FUObjectHashTables data took   3.06ms
+[2021.05.22-08.25.50:311][889]LogUObjectHash: Compacting FUObjectHashTables data took   2.44ms
+[2021.05.22-08.25.50:453][889]LogSavePackage: Moving '../../../../../../Users/xmigu/Desktop/TFG/TFG/TFG_V1/Saved/NivelPruebaMiguelAB35B9BD42CDFAD5F5006FBB4214CFCE.tmp' to '../../../../../../Users/xmigu/Desktop/TFG/TFG/TFG_V1/Content/TFG/Levels/NivelPruebaMiguel.umap'
+[2021.05.22-08.25.50:469][889]LogFileHelpers: Saving map 'NivelPruebaMiguel' took 0.183
+[2021.05.22-08.25.50:486][889]AssetCheck: New page: Asset Save: NivelPruebaMiguel
+[2021.05.22-08.25.50:486][889]LogContentValidation: Display: Validating World /Game/TFG/Levels/NivelPruebaMiguel.NivelPruebaMiguel
+[2021.05.22-08.26.03:182][627]LogEditorTransaction: Undo Move Node
+[2021.05.22-08.26.03:913][657]LogEditorTransaction: Undo Add Node
+[2021.05.22-08.26.04:378][682]LogEditorTransaction: Undo Delete current selection
+[2021.05.22-08.26.21:292][656]BlueprintLog: New page: Compile NivelPruebaMiguel
+[2021.05.22-08.26.21:353][656]LogUObjectHash: Compacting FUObjectHashTables data took   2.93ms
+[2021.05.22-08.26.21:819][676]LogUObjectHash: Compacting FUObjectHashTables data took   2.51ms
+[2021.05.22-08.26.21:968][676]LogSavePackage: Moving '../../../../../../Users/xmigu/Desktop/TFG/TFG/TFG_V1/Saved/NivelPruebaMiguel56236010497B99B05BEA04B52E0A0BA8.tmp' to '../../../../../../Users/xmigu/Desktop/TFG/TFG/TFG_V1/Content/TFG/Levels/NivelPruebaMiguel.umap'
+[2021.05.22-08.26.21:986][676]LogFileHelpers: Saving map 'NivelPruebaMiguel' took 0.193
+[2021.05.22-08.26.22:004][676]AssetCheck: New page: Asset Save: NivelPruebaMiguel
+[2021.05.22-08.26.22:004][676]LogContentValidation: Display: Validating World /Game/TFG/Levels/NivelPruebaMiguel.NivelPruebaMiguel
+[2021.05.22-08.27.03:756][159]BlueprintLog: New page: Compile NivelPruebaMiguel
+[2021.05.22-08.27.03:821][159]LogUObjectHash: Compacting FUObjectHashTables data took   3.13ms
+[2021.05.22-08.27.04:587][197]LogUObjectHash: Compacting FUObjectHashTables data took   2.47ms
+[2021.05.22-08.27.04:729][197]LogSavePackage: Moving '../../../../../../Users/xmigu/Desktop/TFG/TFG/TFG_V1/Saved/NivelPruebaMiguel121A3B2E4174A0091F567FB17EE70235.tmp' to '../../../../../../Users/xmigu/Desktop/TFG/TFG/TFG_V1/Content/TFG/Levels/NivelPruebaMiguel.umap'
+[2021.05.22-08.27.04:745][197]LogFileHelpers: Saving map 'NivelPruebaMiguel' took 0.183
+[2021.05.22-08.27.04:762][197]AssetCheck: New page: Asset Save: NivelPruebaMiguel
+[2021.05.22-08.27.04:762][197]LogContentValidation: Display: Validating World /Game/TFG/Levels/NivelPruebaMiguel.NivelPruebaMiguel
+[2021.05.22-08.27.09:582][481]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/TFG/Blueprints/BP_InteractableObject.BP_InteractableObject
+[2021.05.22-08.27.15:517][785]BlueprintLog: New page: Compile BP_InteractableObject
+[2021.05.22-08.27.15:544][785]LogBlueprint: Error: [AssetLog] C:\Users\xmigu\Desktop\TFG\TFG\TFG_V1\Content\TFG\Blueprints\BP_InteractableObject.uasset: [Compiler] Could not find a function named "CollectKey" in 'BP_InteractableObject'.
+Make sure 'BP_InteractableObject' has been compiled for  Collect Key
+[2021.05.22-08.27.15:545][785]LogBlueprint: Error: [AssetLog] C:\Users\xmigu\Desktop\TFG\TFG\TFG_V1\Content\TFG\Blueprints\BP_InteractableObject.uasset: [Compiler] Can't connect pins  Object  and  Interact Actor : This cast has an invalid target type (was the class deleted without a redirect?).
+[2021.05.22-08.27.15:545][785]LogBlueprint: Error: [AssetLog] C:\Users\xmigu\Desktop\TFG\TFG\TFG_V1\Content\TFG\Blueprints\BP_InteractableObject.uasset: [Compiler] Can't connect pins  Interact Actor  and  Object : This cast has an invalid target type (was the class deleted without a redirect?).
+[2021.05.22-08.27.15:548][785]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2021.05.22-08.27.16:297][785]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.749 s
+[2021.05.22-08.27.16:297][785]LogOutputDevice: Error: === Handled ensure: ===
+[2021.05.22-08.27.16:297][785]LogOutputDevice: Error: 
+[2021.05.22-08.27.16:297][785]LogOutputDevice: Error: Ensure condition failed: ChildClass->ClassDefaultObject == nullptr [File:D:/Build/++UE4/Sync/Engine/Source/Editor/Kismet/Private/BlueprintCompilationManager.cpp] [Line: 1251]
+[2021.05.22-08.27.16:297][785]LogOutputDevice: Error: 
+[2021.05.22-08.27.16:297][785]LogOutputDevice: Error: Stack: 
+[2021.05.22-08.27.16:297][785]LogOutputDevice: Error: [Callstack] 0x00007ffe94241969 UE4Editor-Kismet.dll!UnknownFunction []
+[2021.05.22-08.27.16:297][785]LogOutputDevice: Error: [Callstack] 0x00007ffe93bd0b15 UE4Editor-Kismet.dll!UnknownFunction []
+[2021.05.22-08.27.16:297][785]LogOutputDevice: Error: [Callstack] 0x00007ffe93b75eaf UE4Editor-Kismet.dll!UnknownFunction []
+[2021.05.22-08.27.16:297][785]LogOutputDevice: Error: [Callstack] 0x00007ffe93b75bf1 UE4Editor-Kismet.dll!UnknownFunction []
+[2021.05.22-08.27.16:297][785]LogOutputDevice: Error: [Callstack] 0x00007ffe94d8796e UE4Editor-UnrealEd.dll!UnknownFunction []
+[2021.05.22-08.27.16:297][785]LogOutputDevice: Error: [Callstack] 0x00007ffe93c7ff6c UE4Editor-Kismet.dll!UnknownFunction []
+[2021.05.22-08.27.16:297][785]LogOutputDevice: Error: [Callstack] 0x00007ffe93c9d576 UE4Editor-Kismet.dll!UnknownFunction []
+[2021.05.22-08.27.16:297][785]LogOutputDevice: Error: [Callstack] 0x00007ffe96e20088 UE4Editor-Slate.dll!UnknownFunction []
+[2021.05.22-08.27.16:297][785]LogOutputDevice: Error: [Callstack] 0x00007ffe96f0f342 UE4Editor-Slate.dll!UnknownFunction []
+[2021.05.22-08.27.16:297][785]LogOutputDevice: Error: [Callstack] 0x00007ffe96eebd07 UE4Editor-Slate.dll!UnknownFunction []
+[2021.05.22-08.27.16:297][785]LogOutputDevice: Error: [Callstack] 0x00007ffe96f8859e UE4Editor-Slate.dll!UnknownFunction []
+[2021.05.22-08.27.16:298][785]LogOutputDevice: Error: [Callstack] 0x00007ffe96fa071e UE4Editor-Slate.dll!UnknownFunction []
+[2021.05.22-08.27.16:298][785]LogOutputDevice: Error: [Callstack] 0x00007ffe96de46be UE4Editor-Slate.dll!UnknownFunction []
+[2021.05.22-08.27.16:298][785]LogOutputDevice: Error: [Callstack] 0x00007ffe96e67f14 UE4Editor-Slate.dll!UnknownFunction []
+[2021.05.22-08.27.16:298][785]LogOutputDevice: Error: [Callstack] 0x00007ffe96e50337 UE4Editor-Slate.dll!UnknownFunction []
+[2021.05.22-08.27.16:298][785]LogOutputDevice: Error: [Callstack] 0x00007ffe96e43632 UE4Editor-Slate.dll!UnknownFunction []
+[2021.05.22-08.27.16:298][785]LogOutputDevice: Error: [Callstack] 0x00007ffef0f9bcb5 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2021.05.22-08.27.16:298][785]LogOutputDevice: Error: [Callstack] 0x00007ffef0f89197 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2021.05.22-08.27.16:298][785]LogOutputDevice: Error: [Callstack] 0x00007ffef0f9e389 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2021.05.22-08.27.16:298][785]LogOutputDevice: Error: [Callstack] 0x00007ffef0f84310 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2021.05.22-08.27.16:298][785]LogOutputDevice: Error: [Callstack] 0x00007fff00d3e858 USER32.dll!UnknownFunction []
+[2021.05.22-08.27.16:298][785]LogOutputDevice: Error: [Callstack] 0x00007fff00d3e299 USER32.dll!UnknownFunction []
+[2021.05.22-08.27.16:298][785]LogOutputDevice: Error: [Callstack] 0x00007ffef0f9f914 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2021.05.22-08.27.16:298][785]LogOutputDevice: Error: [Callstack] 0x00007ff7ae838848 UE4Editor.exe!UnknownFunction []
+[2021.05.22-08.27.16:298][785]LogOutputDevice: Error: [Callstack] 0x00007ff7ae85117c UE4Editor.exe!UnknownFunction []
+[2021.05.22-08.27.16:298][785]LogOutputDevice: Error: [Callstack] 0x00007ff7ae85125a UE4Editor.exe!UnknownFunction []
+[2021.05.22-08.27.16:298][785]LogOutputDevice: Error: [Callstack] 0x00007ff7ae8652bd UE4Editor.exe!UnknownFunction []
+[2021.05.22-08.27.16:298][785]LogOutputDevice: Error: [Callstack] 0x00007ff7ae867fea UE4Editor.exe!UnknownFunction []
+[2021.05.22-08.27.16:298][785]LogOutputDevice: Error: [Callstack] 0x00007fff005f7034 KERNEL32.DLL!UnknownFunction []
+[2021.05.22-08.27.16:298][785]LogOutputDevice: Error: [Callstack] 0x00007fff01fe2651 ntdll.dll!UnknownFunction []
+[2021.05.22-08.27.16:298][785]LogOutputDevice: Error: 
+[2021.05.22-08.27.16:304][785]LogStats:                SubmitErrorReport -  0.000 s
